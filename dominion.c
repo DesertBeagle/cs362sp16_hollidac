@@ -644,7 +644,7 @@ int getCost(int cardNumber)
 }
 
 //adventurer function
-void adventurer_card_f(struct gameState *state){
+int adventurer_card_f(struct gameState *state){
 	int cardDrawn;
 	int temphand[MAX_HAND];
 	int z = 0;
@@ -672,7 +672,7 @@ void adventurer_card_f(struct gameState *state){
 }
 
 //council room func
-void council_room_card_f(struct gameState *state, int handPos){
+int council_room_card_f(struct gameState *state, int handPos){
 	int currentPlayer = whoseTurn(state);
 	int i;
 	//+4 Cards
@@ -699,7 +699,7 @@ void council_room_card_f(struct gameState *state, int handPos){
 }
 
 //feast func
-void feast_func(struct gameState *state, int choice1){
+int feast_func(struct gameState *state, int choice1){
 	int i, x, currentPlayer = whoseTurn(state);
 	int temphand[MAX_HAND];
 	//gain card with cost up to 5
@@ -755,7 +755,7 @@ void feast_func(struct gameState *state, int choice1){
 }
 
 // mine
-void mine_func(struct gameState *state, int choice1, int choice2, int handPos){
+int mine_func(struct gameState *state, int choice1, int choice2, int handPos){
 	int j, i, currentPlayer = whoseTurn(state);
 	j = state->hand[currentPlayer][choice1];  //store card we will trash
 
@@ -791,7 +791,7 @@ void mine_func(struct gameState *state, int choice1, int choice2, int handPos){
 	return 0;
 }
 //remodel
-void remodel_func(struct gameState *state, int choice1, int choice2, int handPos){
+int remodel_func(struct gameState *state, int choice1, int choice2, int handPos){
 	int j, i, currentPlayer = whoseTurn(state);
 	j = state->hand[currentPlayer][choice1];  //store card we will trash
 
