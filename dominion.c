@@ -856,7 +856,7 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
 			return mine_func(state, choice3, choice1, choice2);
 
 		case remodel:
-			return remodel_fune(state, choice1, choice2, handPos);
+			return remodel_func(state, choice1, choice2, handPos);
 
 		case smithy:
 			//+3 Cards
