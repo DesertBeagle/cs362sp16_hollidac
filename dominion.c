@@ -668,7 +668,7 @@ void adventurer_card_f(struct gameState *state){
 		state->discard[currentPlayer][state->discardCount[currentPlayer]++]=temphand[z-1]; // discard all cards in play that have been drawn
 		z=z-1;
 	}
-	return;
+	return 0;
 }
 
 //council room func
@@ -695,6 +695,7 @@ void council_room_card_f(struct gameState *state, int handPos){
 
 	//put played card in played card pile
 	discardCard(handPos, currentPlayer, state, 0);
+	return 0;
 }
 
 //feast func
@@ -750,6 +751,7 @@ void feast_func(struct gameState *state, int choice1){
 		temphand[i] = -1;
 	}
 	//Reset Hand
+	return -1;
 }
 
 // mine
@@ -769,7 +771,7 @@ void mine_func(struct gameState *state, int choice1, int choice2, int handPos){
 
 	if ( (getCost(state->hand[currentPlayer][choice1]) + 3) > getCost(choice2) )
 	{
-		return -1;
+		return 1;
 	}
 
 	gainCard(choice2, state, 2, currentPlayer);
@@ -786,6 +788,7 @@ void mine_func(struct gameState *state, int choice1, int choice2, int handPos){
 			break;
 		}
 	}
+	return 0;
 }
 //remodel
 void remodel_func(struct gameState *state, int choice1, int choice2, int handPos){
@@ -811,6 +814,7 @@ void remodel_func(struct gameState *state, int choice1, int choice2, int handPos
 			break;
 		}
 	}
+	return 0;
 }
 
 int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState *state, int handPos, int *bonus)
@@ -837,30 +841,22 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
 	switch( card ) 
 	{
 		case adventurer:
-			adventurer_card_f(state);
-			return 0;
+			return adventurer_card_f(state);
 
 		case council_room:
-			council_room_card_f(state, handPos);
-			return 0;
+			return council_room_card_f(state, handPos);
 
 		case feast:
-			feast_func(state, choice2);
-			return 0;
+			return feast_func(state, choice2);
 
 		case gardens:
 			return -1;
 
 		case mine:
-			mine_func(state, choice3, choice1, choice2);
-
-			return 0;
+			return mine_func(state, choice3, choice1, choice2);
 
 		case remodel:
-			
-
-
-			return 0;
+			return remodel_fune(state, choice1, choice2, handPos);
 
 		case smithy:
 			//+3 Cards
