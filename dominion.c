@@ -20,7 +20,7 @@ struct gameState* newGame() {
 
 int* kingdomCards(int k1, int k2, int k3, int k4, int k5, int k6, int k7,
 		int k8, int k9, int k10) {
-	int* k = malloc(10 * sizeof(int));
+	int* k = (int *)malloc(10 * sizeof(int));
 	k[0] = k1;
 	k[1] = k2;
 	k[2] = k3;
@@ -212,7 +212,7 @@ int shuffle(int player, struct gameState *state) {
 	/* SORT CARDS IN DECK TO ENSURE DETERMINISM! */
 
 	while (state->deckCount[player] > 0) {
-		card = floor(Random() * state->deckCount[player]);
+		card = floor((double)Random() * state->deckCount[player]);
 		newDeck[newDeckPos] = state->deck[player][card];
 		newDeckPos++;
 		for (i = card; i < state->deckCount[player]-1; i++) {
