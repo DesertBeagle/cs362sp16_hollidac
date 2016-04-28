@@ -1,4 +1,4 @@
-CFLAGS = -Wall -fpic -coverage -lm
+CFLAGS = -Wall -fpic -coverage -lm > compile 2>&1
 
 rngs.o: rngs.h rngs.c
 	gcc -c rngs.c -g  $(CFLAGS)
@@ -20,5 +20,15 @@ all: playdom player
 test:
 	gcc -o unittest1 unittest1.c dominion.c rngs.c interface.c $(CFLAGS)
 	gcc -o unittest2 unittest2.c dominion.c rngs.c interface.c $(CFLAGS)
+	gcc -o unittest3 unittest3.c dominion.c rngs.c interface.c $(CFLAGS)
+
+results.out: unittest1 playdom
+	./unittest1 >> results.out
+	echo "GCOV AFTER 1 TEST" >> results.out
+	gcov dominion.c >> results.out
+	./playdom 3 >> results.out
+	echo "GCOV AFTER 1 PLAY" >> results.out
+	gcov dominion.c >> results.out
+
 clean:
 	rm -f *.o playdom.exe playdom test.exe test player unittest1 unittest2 unittest3 unittest4 cardtest1 cardtest2 cardtest3 cardtest4 player.exe testInit testInit.exe *.gcov *.gcda *.gcno *.so *.a *.dSYM
