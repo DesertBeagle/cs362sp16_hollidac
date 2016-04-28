@@ -1,3 +1,7 @@
+cardtest1.c: In function ‘main’:
+cardtest1.c:20:2: warning: implicit declaration of function ‘cardEffect’ [-Wimplicit-function-declaration]
+  assert(cardEffect(adventurer, 0, 0, 0, &state, 0, 0) == 0);
+  ^
 dominion.c: In function ‘cardEffect’:
 dominion.c:834:6: warning: unused variable ‘z’ [-Wunused-variable]
   int z = 0;// this is the counter for the temp hand

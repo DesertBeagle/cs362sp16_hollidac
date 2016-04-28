@@ -21,6 +21,8 @@ test:
 	gcc -o unittest1 unittest1.c dominion.c rngs.c interface.c $(CFLAGS)
 	gcc -o unittest2 unittest2.c dominion.c rngs.c interface.c $(CFLAGS)
 	gcc -o unittest3 unittest3.c dominion.c rngs.c interface.c $(CFLAGS)
+	gcc -o unittest4 unittest4.c dominion.c rngs.c interface.c $(CFLAGS)
+	gcc -o cardtest1 cardtest1.c dominion.c rngs.c interface.c $(CFLAGS)
 
 results.out: unittest1 playdom
 	./unittest1 >> results.out
