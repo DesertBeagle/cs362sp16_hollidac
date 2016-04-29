@@ -1,15 +1,15 @@
-cardtest2.c: In function ‘main’:
-cardtest2.c:18:2: warning: implicit declaration of function ‘council_room_card_f’ [-Wimplicit-function-declaration]
-  assert(council_room_card_f(&state, state.handCount[player]-1) == 0);
+cardtest4.c: In function ‘main’:
+cardtest4.c:15:2: warning: implicit declaration of function ‘cardEffect’ [-Wimplicit-function-declaration]
+  assert(cardEffect(baron, 0, 0, 0, &state, 0, 0) == 0);
   ^
-cardtest2.c:26:4: warning: implicit declaration of function ‘printf’ [-Wimplicit-function-declaration]
-    printf("%d\n", state.handCount[i]);
-    ^
-cardtest2.c:26:4: warning: incompatible implicit declaration of built-in function ‘printf’ [enabled by default]
-cardtest2.c:31:2: warning: implicit declaration of function ‘free’ [-Wimplicit-function-declaration]
+cardtest4.c:39:2: warning: implicit declaration of function ‘printf’ [-Wimplicit-function-declaration]
+  printf("%d->%d", c1, c2);
+  ^
+cardtest4.c:39:2: warning: incompatible implicit declaration of built-in function ‘printf’ [enabled by default]
+cardtest4.c:50:2: warning: implicit declaration of function ‘free’ [-Wimplicit-function-declaration]
   free(kingdom);
   ^
-cardtest2.c:31:2: warning: incompatible implicit declaration of built-in function ‘free’ [enabled by default]
+cardtest4.c:50:2: warning: incompatible implicit declaration of built-in function ‘free’ [enabled by default]
 dominion.c: In function ‘cardEffect’:
 dominion.c:834:6: warning: unused variable ‘z’ [-Wunused-variable]
   int z = 0;// this is the counter for the temp hand
