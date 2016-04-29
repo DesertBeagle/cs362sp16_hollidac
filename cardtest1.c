@@ -28,6 +28,6 @@ int main(){
 
 	assert(state.handCount[state.whoseTurn] == 7);
 	assert((c2-c1) == 2);
-
+	free(kingdom);
 	return 0;
 }
