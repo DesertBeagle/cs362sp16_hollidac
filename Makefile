@@ -36,7 +36,7 @@ cardtest3:
 cardtest4:
 	gcc -o cardtest4 cardtest4.c dominion.c rngs.c interface.c $(CFLAGS)
 
-unittestunittestresults.out:
+unittestresults.out:
 	make unittest1 
 	./unittest1 >> unittestresults.out
 	echo "GCOV AFTER 1 TEST" >> unittestresults.out
@@ -92,6 +92,21 @@ randomtestcard1:
 randomtestcard2:
 	gcc -o randomtestcard2 randomtestcard2.c dominion.c rngs.c interface.c $(CFLAGS)
 
+randomtestadventurer.out:
+	make randomtestadventurer
+	./randomtestadventurer 42 >> randomtestadventurer.out
+	echo "GCOV AFTER 1 TEST" >> randomtestadventurer.out
+	gcov dominion.c >> randomtestadventurer.out #test 1
+randomtestcard1.out:
+	make randomtestcard1
+	./randomtestcard1 42 >> randomtestcard1.out
+	echo "GCOV AFTER 1 TEST" >> randomtestcard1.out
+	gcov dominion.c >> randomtestcard1.out #test 1
+randomtestcard2.out:
+	make randomtestcard2
+	./randomtestcard2 42 >> randomtestcard2.out
+	echo "GCOV AFTER 1 TEST" >> randomtestcard2.out
+	gcov dominion.c >> randomtestcard2.out #test 1
 
 clean:
 	rm -f *.o randomtestadventurer randomtestcard1 randomtestcard2 playdom.exe playdom test.exe test player unittest1 unittest2 unittest3 unittest4 cardtest1 cardtest2 cardtest3 cardtest4 player.exe testInit testInit.exe *.gcda *.gcno *.so *.a *.dSYM

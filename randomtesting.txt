@@ -1,0 +1,23 @@
+In an effort to break the code I would create randomly sized
+hands, decks, and discards, as well as random cards in each.
+I would generate random values for all the members of the 
+game state struct, except those that are deemed unreasonable,
+such as the number of players. The array holding the hands
+of the players is only a 4 row array, so any indexing outside
+that would result in a seg fault. 
+
+As for code coverage, I was able to cover everything in the 
+specific functions that I called, except the shuffle function
+inside the adventurer card. My guess is that each randomly 
+generated deck was sufficiently large enough that they would not
+have to go to the end of the deck to get two treasures.
+
+On the two functions for smithy and council room cards, I was
+able to achieve 100% coverage of the functon. This was simple,
+as the functions themselves were simple and straightforward.
+
+The unit tests had higher coverage, but that is mostly because 
+I used funtions from dominion.c to set up the game struct so
+that I wouldn't have to code it myself. Though I could have
+just copy pasted it, but I digress. Despite using both of these 
+techniques, I have found no bugs in the code I am running.
