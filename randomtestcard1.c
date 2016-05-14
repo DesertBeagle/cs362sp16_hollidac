@@ -2,13 +2,13 @@
 #include "util.h"
 #include "dominion.h"
 #include <time.h>
-
+#include <assert.h>
 
 
 int main(int argc, char *argv[]){
 	struct gameState game;
 
-	int i, j, kingd[10];
+	int i, j, hands[MAX_PLAYERS], buys, kingd[10];
 	int seed;
 
 
@@ -22,7 +22,9 @@ int main(int argc, char *argv[]){
 
 	for(i = 0; i < 10; i++){
 		kingd[i] = rand()%27;
-		for(j = i; j >= 0; j--){
+		if(!i)
+			continue;
+		for(j = i-1; j >= 0; j--){
 			if(kingd[i] == kingd[j]){
 				i--;
 				break;
@@ -30,8 +32,8 @@ int main(int argc, char *argv[]){
 		}
 	}
 
-	game.numPlayers = rand()%1000 + 1;
-	for(i = 0; i < treasuremap; i++){
+	game.numPlayers = rand()%MAX_PLAYERS + 1;
+	for(i = 0; i < treasure_map; i++){
 		game.supplyCount[i] = rand()%100;
 		game.embargoTokens[i] = rand()%2;
 	}
@@ -67,7 +69,28 @@ int main(int argc, char *argv[]){
 		game.playedCards[j] = rand()%(treasure_map+1);
 	}
 
+	
 
+	//Where the actual testing is
+	buys = game.numBuys;
+
+	for(i = 0; i < game.numPlayers; i++){
+		hands[i] = game.handCount[i];
+	}
+
+	council_room_card_f(&game, 0);
+	
+	assert(game.numBuys == buys+1);
+
+	for(i = 0; i < game.numPlayers; i++){
+		if(i != game.whoseTurn){
+			assert(hands[i] + 1 == game.handCount[i]);
+		}
+		else
+			assert(game.handCount[game.whoseTurn] == hands[i] + 3);
+	}
+
+	
 
 	return 0;
 }

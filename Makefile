@@ -86,5 +86,9 @@ unittestunittestresults.out:
 randomtestadventurer:
 	gcc -o randomtestadventurer randomtestadventurer.c dominion.c rngs.c interface.c $(CFLAGS)
 
+randomtestcard1:
+	gcc -o randomtestcard1 randomtestcard1.c dominion.c rngs.c interface.c $(CFLAGS)
+
+
 clean:
-	rm -f *.o randomtestadventurer playdom.exe playdom test.exe test player unittest1 unittest2 unittest3 unittest4 cardtest1 cardtest2 cardtest3 cardtest4 player.exe testInit testInit.exe *.gcda *.gcno *.so *.a *.dSYM
+	rm -f *.o randomtestadventurer randomtestcard1 randomtestcard2 playdom.exe playdom test.exe test player unittest1 unittest2 unittest3 unittest4 cardtest1 cardtest2 cardtest3 cardtest4 player.exe testInit testInit.exe *.gcda *.gcno *.so *.a *.dSYM
