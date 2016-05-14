@@ -1,4 +1,4 @@
-In file included from randomtestcard1.c:2:0:
+In file included from randomtestcard2.c:2:0:
 util.h: In function ‘allint’:
 util.h:12:3: warning: implicit declaration of function ‘printf’ [-Wimplicit-function-declaration]
    printf("Please use only %d argument(s)\n", expected);
@@ -7,10 +7,6 @@ util.h:12:3: warning: incompatible implicit declaration of built-in function ‘
 util.h:17:4: warning: implicit declaration of function ‘puts’ [-Wimplicit-function-declaration]
     puts("Please use an integer as a command line argument!\n");
     ^
-randomtestcard1.c: In function ‘main’:
-randomtestcard1.c:81:2: warning: implicit declaration of function ‘council_room_card_f’ [-Wimplicit-function-declaration]
-  council_room_card_f(&game, 0);
-  ^
 dominion.c: In function ‘cardEffect’:
 dominion.c:834:6: warning: unused variable ‘z’ [-Wunused-variable]
   int z = 0;// this is the counter for the temp hand

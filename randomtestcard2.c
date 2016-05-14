@@ -2,13 +2,13 @@
 #include "util.h"
 #include "dominion.h"
 #include <time.h>
-
+#include <assert.h>
 
 
 int main(int argc, char *argv[]){
 	struct gameState game;
 
-	int i, j, kingd[10];
+	int i, j, hand, kingd[10];
 	int seed;
 
 
@@ -22,7 +22,10 @@ int main(int argc, char *argv[]){
 
 	for(i = 0; i < 10; i++){
 		kingd[i] = rand()%27;
-		for(j = i; j >= 0; j--){
+		if(!i){
+			continue;
+		}
+		for(j = i-1; j >= 0; j--){
 			if(kingd[i] == kingd[j]){
 				i--;
 				break;
@@ -30,8 +33,8 @@ int main(int argc, char *argv[]){
 		}
 	}
 
-	game.numPlayers = rand()%1000 + 1;
-	for(i = 0; i < treasuremap; i++){
+	game.numPlayers = rand()%MAX_PLAYERS + 1;
+	for(i = 0; i < treasure_map; i++){
 		game.supplyCount[i] = rand()%100;
 		game.embargoTokens[i] = rand()%2;
 	}
@@ -68,6 +71,11 @@ int main(int argc, char *argv[]){
 	}
 
 
+	i = 0;
+	hand = game.handCount[game.whoseTurn];
+	cardEffect(smithy, 0, 0, 0, &game, 0, &i);
+
+	assert(game.handCount[game.whoseTurn] == hand + 2);
 
 	return 0;
 }
