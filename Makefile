@@ -83,5 +83,8 @@ unittestunittestresults.out:
 	gcov dominion.c >> unittestresults.out #game
 	make clean
 
+randomtestadventurer:
+	gcc -o randomtestadventurer randomtestadventurer.c dominion.c rngs.c interface.c $(CFLAGS)
+
 clean:
-	rm -f *.o playdom.exe playdom test.exe test player unittest1 unittest2 unittest3 unittest4 cardtest1 cardtest2 cardtest3 cardtest4 player.exe testInit testInit.exe *.gcda *.gcno *.so *.a *.dSYM
+	rm -f *.o randomtestadventurer playdom.exe playdom test.exe test player unittest1 unittest2 unittest3 unittest4 cardtest1 cardtest2 cardtest3 cardtest4 player.exe testInit testInit.exe *.gcda *.gcno *.so *.a *.dSYM
