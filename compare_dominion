@@ -1,0 +1,29 @@
+#!/bin/bash
+
+if [ $# -ne 3 ]; then
+	exit 0
+fi
+
+cd $1
+
+make testdominion
+
+./testdominion $3 > results.out
+
+cd ../$2
+
+make testdominion
+
+timeout 10 ./testdominion $3 > results.out
+
+
+diff ./results.out ../$1/results.out > ../comparison.out
+
+words=wc ../comparison.out
+
+if [$words -eq 0]; then
+	printf "TEST FAILED"
+	exit 0
+fi
+printf "TEST PASSED"
+

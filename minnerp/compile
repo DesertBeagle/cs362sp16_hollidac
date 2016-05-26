@@ -1,0 +1,37 @@
+In file included from testdominion.c:2:0:
+util.h: In function ‘allint’:
+util.h:12:3: warning: implicit declaration of function ‘printf’ [-Wimplicit-function-declaration]
+   printf("Please use only %d argument(s)\n", expected);
+   ^
+util.h:12:3: warning: incompatible implicit declaration of built-in function ‘printf’ [enabled by default]
+util.h:17:4: warning: implicit declaration of function ‘puts’ [-Wimplicit-function-declaration]
+    puts("Please use an integer as a command line argument!\n");
+    ^
+testdominion.c: In function ‘getch’:
+testdominion.c:18:2: warning: implicit declaration of function ‘read’ [-Wimplicit-function-declaration]
+  if (read(0, &buf, 1) < 0)
+  ^
+testdominion.c: In function ‘main’:
+testdominion.c:116:5: warning: implicit declaration of function ‘getCost’ [-Wimplicit-function-declaration]
+     if(getCost(i) - game->coins < 3)
+     ^
+dominion.c: In function ‘cardEffect’:
+dominion.c:668:4: warning: implicit declaration of function ‘adventurerCard’ [-Wimplicit-function-declaration]
+    return adventurerCard (drawntreasure, state, currentPlayer);
+    ^
+dominion.c:670:4: warning: implicit declaration of function ‘councilRoomCard’ [-Wimplicit-function-declaration]
+    return councilRoomCard (currentPlayer, state, handPos);
+    ^
+dominion.c:672:4: warning: implicit declaration of function ‘feastCard’ [-Wimplicit-function-declaration]
+    return feastCard (currentPlayer, state, choice1);   
+    ^
+dominion.c:676:4: warning: implicit declaration of function ‘mineCard’ [-Wimplicit-function-declaration]
+    return mineCard (currentPlayer, state, choice1, choice2, handPos);
+    ^
+dominion.c:678:4: warning: implicit declaration of function ‘remodelCard’ [-Wimplicit-function-declaration]
+    return remodelCard (currentPlayer, state, choice1, choice2, handPos);
+    ^
+rngs.c: In function ‘TestRandom’:
+rngs.c:161:10: warning: variable ‘u’ set but not used [-Wunused-but-set-variable]
+   double u;
+          ^

@@ -1,0 +1,37 @@
+In file included from testdominion.c:2:0:
+util.h: In function ‘allint’:
+util.h:12:3: warning: implicit declaration of function ‘printf’ [-Wimplicit-function-declaration]
+   printf("Please use only %d argument(s)\n", expected);
+   ^
+util.h:12:3: warning: incompatible implicit declaration of built-in function ‘printf’ [enabled by default]
+util.h:17:4: warning: implicit declaration of function ‘puts’ [-Wimplicit-function-declaration]
+    puts("Please use an integer as a command line argument!\n");
+    ^
+testdominion.c: In function ‘getch’:
+testdominion.c:18:2: warning: implicit declaration of function ‘read’ [-Wimplicit-function-declaration]
+  if (read(0, &buf, 1) < 0)
+  ^
+testdominion.c: In function ‘main’:
+testdominion.c:116:5: warning: implicit declaration of function ‘getCost’ [-Wimplicit-function-declaration]
+     if(getCost(i) - game->coins < 3)
+     ^
+dominion.c: In function ‘cardEffect’:
+dominion.c:842:6: warning: unused variable ‘z’ [-Wunused-variable]
+  int z = 0;// this is the counter for the temp hand
+      ^
+dominion.c:841:6: warning: unused variable ‘cardDrawn’ [-Wunused-variable]
+  int cardDrawn;
+      ^
+dominion.c:840:6: warning: unused variable ‘drawntreasure’ [-Wunused-variable]
+  int drawntreasure=0;
+      ^
+dominion.c:839:6: warning: unused variable ‘temphand’ [-Wunused-variable]
+  int temphand[MAX_HAND];// moved above the if statement
+      ^
+dominion.c:833:6: warning: unused variable ‘x’ [-Wunused-variable]
+  int x;
+      ^
+rngs.c: In function ‘TestRandom’:
+rngs.c:161:10: warning: variable ‘u’ set but not used [-Wunused-but-set-variable]
+   double u;
+          ^
