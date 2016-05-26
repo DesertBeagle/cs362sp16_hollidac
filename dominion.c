@@ -298,8 +298,9 @@ int buyCard(int supplyPos, struct gameState *state) {
 
 		state->coins = (state->coins) - (getCost(supplyPos));
 		state->numBuys--;
-		if (DEBUG)
+		if (DEBUG){
 			printf("You bought card number %d for %d coins. You now have %d buys and %d coins.\n", supplyPos, getCost(supplyPos), state->numBuys, state->coins);
+		}
 	}
 
 	//state->discard[who][state->discardCount[who]] = supplyPos;
@@ -717,14 +718,18 @@ int feast_func(struct gameState *state, int choice1){
 		if (supplyCount(choice1, state) <= 0){
 			if (DEBUG)
 				printf("None of that card left, sorry!\n");
-
+			//THE BUG: Loops infinitely
+			//THE FIX: Change x so it exits the loop
+			x = -1;
 			if (DEBUG){
 				printf("Cards Left: %d\n", supplyCount(choice1, state));
 			}
 		}
 		else if (state->coins < getCost(choice1)){
 			printf("That card is too expensive!\n");
-
+			//THE BUG: Loops infinitely
+			//THE FIX: Change x so it exits the loop
+			x = -1;
 			if (DEBUG){
 				printf("Coins: %d < %d\n", state->coins, getCost(choice1));
 			}
@@ -751,7 +756,10 @@ int feast_func(struct gameState *state, int choice1){
 		temphand[i] = -1;
 	}
 	//Reset Hand
-	return -1;
+
+	//THE BUG: Does not reprompt the user if incorrect selection
+	//THE FIX: return x not return -1
+	return x;
 }
 
 // mine
@@ -1046,10 +1054,50 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
 					shuffle(nextPlayer,state);//Shuffle the deck
 				} 
 				tributeRevealedCards[0] = state->deck[nextPlayer][state->deckCount[nextPlayer]-1];
-				state->deck[nextPlayer][state->deckCount[nextPlayer]--] = -1;
+
+				/*
+				THE BUG:
+					When the card is removed from the deck, it is not put into the discard
+				THE FIX
+					Puts the top card into the discard
+				*/
+				state->discard[nextPlayer][state->discardCount[nextPlayer]] = state->deck[nextPlayer][state->deckCount[nextPlayer]-1];
+				state->discardCount[nextPlayer]++;
+
+
+
+				/*
+				THE BUG
+					state->deck[nextPlayer][state->deckCount[nextPlayer]--] = -1;
+					This lowers the deck count of the next player, when it already removes one after this statement
+				
+				THE FIX
+					Just do the deck count minus one, rather than changing the value
+				*/
+				state->deck[nextPlayer][state->deckCount[nextPlayer]-1] = -1;
+
 				state->deckCount[nextPlayer]--;
+
+
 				tributeRevealedCards[1] = state->deck[nextPlayer][state->deckCount[nextPlayer]-1];
-				state->deck[nextPlayer][state->deckCount[nextPlayer]--] = -1;
+				/*
+				THE BUG
+					When the card is removed from the deck, it is not put into the discard
+				THE FIX
+					Puts the top card into the discard
+				*/
+				state->discard[nextPlayer][state->discardCount[nextPlayer]] = state->deck[nextPlayer][state->deckCount[nextPlayer]-1];
+				state->discardCount[nextPlayer]++;
+
+				/*
+				THE BUG
+					state->deck[nextPlayer][state->deckCount[nextPlayer]--] = -1;
+					This lowers the deck count of the next player, when it already removes one after this statement
+				
+				THE FIX
+					Just do the deck count minus one, rather than changing the value
+				*/
+				state->deck[nextPlayer][state->deckCount[nextPlayer]-1] = -1;
 				state->deckCount[nextPlayer]--;
 			}    
 
@@ -1072,6 +1120,7 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
 					state->numActions = state->numActions + 2;
 				}
 			}
+			discardCard(handPos, currentPlayer, state, 0);			
 
 			return 0;
 

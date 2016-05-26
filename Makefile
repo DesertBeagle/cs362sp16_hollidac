@@ -15,6 +15,9 @@ interface.o: interface.h interface.c
 player: player.c interface.o
 	gcc -o player player.c -g  dominion.o rngs.o interface.o $(CFLAGS)
 
+testdominion: testdominion.c 
+	gcc -o testdominion testdominion.c -g  dominion.c rngs.c interface.c $(CFLAGS)
+
 all: playdom player
 
 test: unittest1 unittest2 unittest3 unittest4 cardtest1 cardtest2 cardtest3 cardtest4
@@ -109,4 +112,4 @@ randomtestcard2.out:
 	gcov dominion.c >> randomtestcard2.out #test 1
 
 clean:
-	rm -f *.o randomtestadventurer randomtestcard1 randomtestcard2 playdom.exe playdom test.exe test player unittest1 unittest2 unittest3 unittest4 cardtest1 cardtest2 cardtest3 cardtest4 player.exe testInit testInit.exe *.gcda *.gcno *.so *.a *.dSYM
+	rm -f *.o randomtestadventurer testdominion randomtestcard1 randomtestcard2 playdom.exe playdom test.exe test player unittest1 unittest2 unittest3 unittest4 cardtest1 cardtest2 cardtest3 cardtest4 player.exe testInit testInit.exe *.gcda *.gcno *.so *.a *.dSYM
