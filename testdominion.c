@@ -58,6 +58,7 @@ void printGame(struct gameState *game, int full){
 	fflush(stdout);
 }
 
+
 int main(int argc, char *argv[]){
 	int seed, king[10], i,j,k;
 	int numPlayers, handCount;
@@ -69,7 +70,7 @@ int main(int argc, char *argv[]){
 		return 0;
 	}
 	seed = atoi(argv[1]);
-	srand(seed);
+	srand(time(0));
 
 	for(i = 0; i < 10; i++){
 		king[i] = rand()%(treasure_map - adventurer + 1) + adventurer;
@@ -87,10 +88,10 @@ int main(int argc, char *argv[]){
 
 	while(!isGameOver(game)){
 		handCount = game->handCount[game->whoseTurn];
-		printGame(game, 1);
-		getch();
+		//printGame(game, 1);
+		//getch();
 		for(k = 0; k < game->numActions; k++){
-			printf("Player %d actions: \n", game->whoseTurn+1);
+			//printf("Player %d actions: \n", game->whoseTurn+1);
 			for(i = 0; i < handCount; i++){
 				if(game->hand[game->whoseTurn][i] > 6){
 
@@ -102,8 +103,7 @@ int main(int argc, char *argv[]){
 					if(j >= 10) {
 						continue;
 					}
-					printf("Card %d played by player %d!\n", game->hand[game->whoseTurn][i], game->whoseTurn+1);
-					getch();
+					//printf("Card %d played by player %d!\n", game->hand[game->whoseTurn][i], game->whoseTurn+1);
 
 					break;
 				} 
@@ -113,9 +113,10 @@ int main(int argc, char *argv[]){
 		for(k = 0; k < game->numBuys; k++){
 			do{
 				i = rand()%(treasure_map + 1);
-				j = buyCard(i, game);
+				if(getCost(i) - game->coins < 3)
+					j = buyCard(i, game);
 			}while(j);
-			printf("Player %d bought card %d\n", game->whoseTurn+1, i);
+			//printf("Player %d bought card %d\n", game->whoseTurn+1, i);
 		}
 		endTurn(game);
 	}	

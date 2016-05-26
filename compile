@@ -11,6 +11,13 @@ testdominion.c: In function ‘getch’:
 testdominion.c:18:2: warning: implicit declaration of function ‘read’ [-Wimplicit-function-declaration]
   if (read(0, &buf, 1) < 0)
   ^
+testdominion.c: In function ‘main’:
+testdominion.c:73:2: warning: implicit declaration of function ‘time’ [-Wimplicit-function-declaration]
+  srand(time(0));
+  ^
+testdominion.c:116:5: warning: implicit declaration of function ‘getCost’ [-Wimplicit-function-declaration]
+     if(getCost(i) - game->coins < 3)
+     ^
 dominion.c: In function ‘cardEffect’:
 dominion.c:842:6: warning: unused variable ‘z’ [-Wunused-variable]
   int z = 0;// this is the counter for the temp hand
