@@ -12,7 +12,7 @@ testdominion.c:18:2: warning: implicit declaration of function ‘read’ [-Wimp
   if (read(0, &buf, 1) < 0)
   ^
 testdominion.c: In function ‘main’:
-testdominion.c:116:5: warning: implicit declaration of function ‘getCost’ [-Wimplicit-function-declaration]
+testdominion.c:119:5: warning: implicit declaration of function ‘getCost’ [-Wimplicit-function-declaration]
      if(getCost(i) - game->coins < 3)
      ^
 dominion.c: In function ‘cardEffect’:

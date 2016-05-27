@@ -24,7 +24,7 @@ char getch() {
 	return (buf);
 }
 
-void printGame(struct gameState *game, int full){
+void printGame(struct gameState *game){
 	int i, j;
 	printf("Full Game State:\n");
 	printf("Number of players: %d\n", game->numPlayers);
@@ -61,6 +61,7 @@ void printGame(struct gameState *game, int full){
 
 int main(int argc, char *argv[]){
 	int seed, king[10], i,j,k;
+	int players[MAX_PLAYERS];
 	int numPlayers, handCount;
 
 	struct gameState *game = newGame();
@@ -88,7 +89,7 @@ int main(int argc, char *argv[]){
 
 	while(!isGameOver(game)){
 		handCount = game->handCount[game->whoseTurn];
-		printGame(game, 1);
+		printGame(game);
 		//getch();
 		for(k = 0; k < game->numActions; k++){
 			printf("Player %d actions: \n", game->whoseTurn+1);
@@ -108,7 +109,9 @@ int main(int argc, char *argv[]){
 					break;
 				} 
 			}
+			printGame(game);
 		}
+
 
 		for(k = 0; k < game->numBuys; k++){
 			do{
@@ -117,9 +120,20 @@ int main(int argc, char *argv[]){
 					j = buyCard(i, game);
 			}while(j);
 			printf("Player %d bought card %d\n", game->whoseTurn+1, i);
+			printGame(game);
 		}
+
 		endTurn(game);
-	}	
+		printGame(game);
+	}
+	getWinners(players, game);	
+
+	for(i = 0; i < MAX_PLAYERS; i++){
+		if(players[i])
+			printf("Player %d won!\n", i+1);
+		else
+			printf("Player %d did not win!\n", i+1);
+	}
 
 	return 0;
 }
