@@ -11,3 +11,16 @@ really help to see who is actually correct in their implementation.
 
 The coverage of the two dominions are:
 
+File 'dominion.c'
+Lines executed:92.13% of 572
+Creating 'dominion.c.gcov'
+
+File 'dominion.c'
+Lines executed:80.71% of 565
+Creating 'dominion.c.gcov'
+
+The coverage of dominion differs because of our different
+implementations of cards that have different interactions. Earlier
+when I wrote about the differences in output, so those differences
+are due to different implementations that alter the deck and hand
+and discard.
