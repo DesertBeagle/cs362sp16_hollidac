@@ -1,0 +1,26 @@
+I immediately ran into a difference on my first run. The difference
+happens on line 13469, and the only difference is the card bought
+and the card played. It is not apparent who is correct from the 
+difference file. It is especially hard, because the differences
+are slight. They deal with the implementations of each card,
+so you would have to comb through the logs carefully to see where the 
+implementations differ. This is why differential testing is not ideal,
+because it takes a lot of time analyzing logs to determine the problem.
+Also, either or both of our implementations are wrong, so it doesn't
+really help to see who is actually correct in their implementation.
+
+The coverage of the two dominions are:
+
+File 'dominion.c'
+Lines executed:92.13% of 572
+Creating 'dominion.c.gcov'
+
+File 'dominion.c'
+Lines executed:80.71% of 565
+Creating 'dominion.c.gcov'
+
+The coverage of dominion differs because of our different
+implementations of cards that have different interactions. Earlier
+when I wrote about the differences in output, so those differences
+are due to different implementations that alter the deck and hand
+and discard.

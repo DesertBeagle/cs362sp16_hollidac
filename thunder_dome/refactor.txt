@@ -1,0 +1,8 @@
+The functions refactored were:
+	adventurer card
+	council room card
+	feast card
+	mine card
+	remodel func
+
+The method I used to refactor this code was simple. I would cut the code from the switch statement and paste it inside a function. I would then call that function in place of the refactored code. Finally I would look over the code for variables that need to be passed into the function in order for it to work. I would include these variables in the parameters, and pass them as arguments inside the switch statement.
