@@ -1048,8 +1048,15 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
 						state->deck[nextPlayer][i] = state->discard[nextPlayer][i];//Move to deck
 						state->deckCount[nextPlayer]++;
 						state->discard[nextPlayer][i] = -1;
-						state->discardCount[nextPlayer]--;
 					}
+					/*
+					THE BUG:
+						While it loops through the for loop, it lowers the length of the array
+						causing it to lose cards.
+					THE FIX:
+						Remove the decrement inside the for loop and set the discard size to 0 after the for loop
+					*/
+					state->discardCount[nextPlayer] = 0;
 
 					shuffle(nextPlayer,state);//Shuffle the deck
 				} 

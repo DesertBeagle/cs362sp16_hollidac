@@ -1,0 +1,17 @@
+Line occurence: 861
+Function: cardEffect
+Part of the function: the Tribute card effect
+
+The for loop goes through each card in the next player's discard 
+pile and puts it into the next player's discard pile. The for loop
+goes from the first element to the last, but as it is doing so
+it lowers its upper limit. Any of the cards that are past the
+upper limit are lost, and now the next player's discard is
+filled with -1's.
+
+The fix:
+Remove line 861, then add
+
+state->discardCount[nextPlayer] = 0;
+
+after the for loop.
