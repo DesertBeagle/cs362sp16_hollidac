@@ -63,7 +63,7 @@ int main(int argc, char *argv[]){
 	int seed, king[10], i,j,k;
 	int players[MAX_PLAYERS];
 	int numPlayers, handCount;
-
+	int turn = 0, card;
 	struct gameState *game = newGame();
 
 	//====================SETUP=SPAGHETTI=============================
@@ -82,20 +82,25 @@ int main(int argc, char *argv[]){
 		}
 	}
 
-	numPlayers = rand()%2 + 3;
+	numPlayers = rand()%3 + 2;
 
 	initializeGame(numPlayers, king, seed, game);
 	//================================================================
 
 	while(!isGameOver(game)){
 		handCount = game->handCount[game->whoseTurn];
+
+		turn++;
+		printf("Turn %d:\n", turn);
+
 		printGame(game);
 		//getch();
 		for(k = 0; k < game->numActions; k++){
 			printf("Player %d actions: \n", game->whoseTurn+1);
 			for(i = 0; i < handCount; i++){
 				if(game->hand[game->whoseTurn][i] > 6){
-
+					card = game->hand[game->whoseTurn][i];
+					printf("Trying card %d...\n", card);
 					//if the random choices mess up and make playcard return -1, then try and play again with
 					//different choices. If there's really no way, then quit out after 500 plays
 					for(j = 0; playCard(i, rand()%handCount, rand()%handCount, rand()%handCount, game) && j < 10; j++){}
@@ -104,12 +109,12 @@ int main(int argc, char *argv[]){
 					if(j >= 10) {
 						continue;
 					}
-					printf("Card %d played by player %d!\n", game->hand[game->whoseTurn][i], game->whoseTurn+1);
+					printf("Card %d played by player %d!\n", card, game->whoseTurn+1);
 
 					break;
 				} 
 			}
-			printGame(game);
+			//printGame(game);
 		}
 
 
@@ -120,11 +125,12 @@ int main(int argc, char *argv[]){
 					j = buyCard(i, game);
 			}while(j);
 			printf("Player %d bought card %d\n", game->whoseTurn+1, i);
-			printGame(game);
+			//printGame(game);
 		}
 
 		endTurn(game);
-		printGame(game);
+
+		//printGame(game);
 	}
 	getWinners(players, game);	
 

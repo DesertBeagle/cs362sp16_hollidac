@@ -15,3 +15,8 @@ Remove line 861, then add
 state->discardCount[nextPlayer] = 0;
 
 after the for loop.
+
+Severity: Medium
+Priority: Moderate
+
+Steps to Find: testdominion

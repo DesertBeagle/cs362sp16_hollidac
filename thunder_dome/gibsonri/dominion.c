@@ -645,9 +645,10 @@ int getCost(int cardNumber)
 
 int feastEffect(int choice1, int currentPlayer, struct gameState *state) {
     int temphand[MAX_HAND];
+    int i;
     //gain card with cost up to 5
     //Backup hand
-    for (int i = 0; i <= state->handCount[currentPlayer]; i--){
+    for (i = 0; i <= state->handCount[currentPlayer]; i--){
         temphand[i] = state->hand[currentPlayer][i];//Backup card
         state->hand[currentPlayer][i] = -1;//Set to nothing
     }
@@ -689,7 +690,7 @@ int feastEffect(int choice1, int currentPlayer, struct gameState *state) {
     }
 
     //Reset Hand
-    for (int i = 0; i <= state->handCount[currentPlayer]; i++){
+    for (i = 0; i <= state->handCount[currentPlayer]; i++){
         state->hand[currentPlayer][i] = temphand[i];
         temphand[i] = -1;
     }
@@ -752,7 +753,7 @@ int baronEffect(int choice1, int currentPlayer, struct gameState *state) {
 
 int tributeEffect(int currentPlayer, int nextPlayer, struct gameState *state) {
     int tributeRevealedCards[2] = {-1, -1};
-
+    int i;
     if ((state->discardCount[nextPlayer] + state->deckCount[nextPlayer]) <= 1){
         if (state->deckCount[nextPlayer] > 0){
             tributeRevealedCards[0] = state->deck[nextPlayer][state->deckCount[nextPlayer]-1];
@@ -772,7 +773,7 @@ int tributeEffect(int currentPlayer, int nextPlayer, struct gameState *state) {
 
     else{
         if (state->deckCount[nextPlayer] == 0){
-            for (int i = 0; i < state->discardCount[nextPlayer]; i++){
+            for (i = 0; i < state->discardCount[nextPlayer]; i++){
                 state->deck[nextPlayer][i] = state->discard[nextPlayer][i];//Move to deck
                 state->deckCount[nextPlayer]++;
                 state->discard[nextPlayer][i] = -1;
@@ -795,7 +796,7 @@ int tributeEffect(int currentPlayer, int nextPlayer, struct gameState *state) {
         tributeRevealedCards[1] = -1;
     }
 
-    for (int i = 0; i <= 2; i ++){
+    for (i = 0; i <= 2; i ++){
         if (tributeRevealedCards[i] == copper || tributeRevealedCards[i] == silver || tributeRevealedCards[i] == gold){//Treasure cards
             state->coins += 2;
         }
@@ -813,7 +814,7 @@ int tributeEffect(int currentPlayer, int nextPlayer, struct gameState *state) {
 }
 
 int ambassadorEffect(int choice1, int choice2, int handPos, int currentPlayer, struct gameState *state) {
-    int j = 0;		//used to check if player has enough cards to discard
+    int i, j = 0;		//used to check if player has enough cards to discard
 
     if (choice2 > 2 || choice2 < 0)
     {
@@ -825,7 +826,7 @@ int ambassadorEffect(int choice1, int choice2, int handPos, int currentPlayer, s
         return -1;
     }
 
-    for (int i = 0; i < state->handCount[currentPlayer]; i++)
+    for ( i = 0; i < state->handCount[currentPlayer]; i++)
     {
         if (i != handPos && i == state->hand[currentPlayer][choice1] && i != choice1)
         {
@@ -844,7 +845,7 @@ int ambassadorEffect(int choice1, int choice2, int handPos, int currentPlayer, s
     state->supplyCount[state->hand[currentPlayer][choice1]] += choice2;
 
     //each other player gains a copy of revealed card
-    for (int i = 0; i < state->numPlayers; i++)
+    for (i = 0; i < state->numPlayers; i++)
     {
         if (i != currentPlayer)
         {
@@ -858,7 +859,7 @@ int ambassadorEffect(int choice1, int choice2, int handPos, int currentPlayer, s
     //trash copies of cards returned to supply
     for (j = 0; j < choice2; j++)
     {
-        for (int i = 0; i < state->handCount[currentPlayer]; i++)
+        for (i = 0; i < state->handCount[currentPlayer]; i++)
         {
             if (state->hand[currentPlayer][i] == state->hand[currentPlayer][choice1])
             {
@@ -873,11 +874,12 @@ int ambassadorEffect(int choice1, int choice2, int handPos, int currentPlayer, s
 
 int cutpurseEffect(int currentPlayer, int handPos, struct gameState *state) {
     updateCoins(currentPlayer, state, 2);
-    for (int i = 0; i < state->numPlayers; i++)
+    int i, j, k;
+    for (i = 0; i < state->numPlayers; i++)
     {
         if (i != currentPlayer)
         {
-            for (int j = 0; j < state->handCount[i]; j++)
+            for (j = 0; j < state->handCount[i]; j++)
             {
                 if (state->hand[i][j] == copper)
                 {
@@ -886,7 +888,7 @@ int cutpurseEffect(int currentPlayer, int handPos, struct gameState *state) {
                 }
                 if (j == state->handCount[i])
                 {
-                    for (int k = 0; k < state->handCount[i]; k++)
+                    for (k = 0; k < state->handCount[i]; k++)
                     {
                         if (DEBUG)
                             printf("Player %d reveals card number %d\n", i, state->hand[i][k]);

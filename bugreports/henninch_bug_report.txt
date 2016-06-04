@@ -1,0 +1,9 @@
+Problem: The game starts out with one of the players having
+	only five total cards.
+
+
+Severity: High
+
+Priority: High
+
+Steps to finding: run testdominion with seed 42

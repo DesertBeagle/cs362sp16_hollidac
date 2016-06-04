@@ -1,0 +1,14 @@
+Problem: When the feast card is played, it is forced into an infinite
+loop
+
+Steps to finding: Run testdominion
+
+Line #: 651
+
+Cause: The for loop decrements instead of increments
+
+Solution: Change i-- to i++
+
+Severity: High
+
+Priority: Moderate
