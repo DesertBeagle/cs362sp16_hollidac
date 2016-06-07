@@ -1,0 +1,5567 @@
+795c795
+< 	Supply: 2	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 8	Embargo tokens: 1
+797c797
+< 	Supply: 4	Count: 45	Embargo tokens: 1
+---
+> 	Supply: 4	Count: 45	Embargo tokens: 0
+847c847
+< 	Supply: 2	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 8	Embargo tokens: 1
+849c849
+< 	Supply: 4	Count: 45	Embargo tokens: 1
+---
+> 	Supply: 4	Count: 45	Embargo tokens: 0
+899c899
+< 	Supply: 2	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 8	Embargo tokens: 1
+901c901
+< 	Supply: 4	Count: 45	Embargo tokens: 1
+---
+> 	Supply: 4	Count: 45	Embargo tokens: 0
+953c953
+< 	Supply: 2	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 8	Embargo tokens: 1
+955c955
+< 	Supply: 4	Count: 45	Embargo tokens: 1
+---
+> 	Supply: 4	Count: 45	Embargo tokens: 0
+1006c1006
+< 	Supply: 2	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 8	Embargo tokens: 1
+1008c1008
+< 	Supply: 4	Count: 44	Embargo tokens: 1
+---
+> 	Supply: 4	Count: 44	Embargo tokens: 0
+1061,1062c1061,1062
+< 	Supply: 3	Count: 8	Embargo tokens: 0
+< 	Supply: 4	Count: 44	Embargo tokens: 1
+---
+> 	Supply: 3	Count: 8	Embargo tokens: 1
+> 	Supply: 4	Count: 44	Embargo tokens: 0
+1113,1114c1113,1114
+< 	Supply: 3	Count: 8	Embargo tokens: 0
+< 	Supply: 4	Count: 44	Embargo tokens: 1
+---
+> 	Supply: 3	Count: 8	Embargo tokens: 1
+> 	Supply: 4	Count: 44	Embargo tokens: 0
+1165,1166c1165,1166
+< 	Supply: 3	Count: 8	Embargo tokens: 0
+< 	Supply: 4	Count: 44	Embargo tokens: 1
+---
+> 	Supply: 3	Count: 8	Embargo tokens: 1
+> 	Supply: 4	Count: 44	Embargo tokens: 0
+1217,1218c1217,1218
+< 	Supply: 3	Count: 8	Embargo tokens: 0
+< 	Supply: 4	Count: 44	Embargo tokens: 1
+---
+> 	Supply: 3	Count: 8	Embargo tokens: 1
+> 	Supply: 4	Count: 44	Embargo tokens: 0
+1271,1272c1271,1272
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 43	Embargo tokens: 1
+---
+> 	Supply: 3	Count: 8	Embargo tokens: 1
+> 	Supply: 4	Count: 43	Embargo tokens: 0
+1309,1310c1309,1310
+< 	Num Discard: 5
+< 		4 1 3 1 4 
+---
+> 	Num Discard: 6
+> 		4 4 11 1 4 1 
+1324,1325c1324,1325
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 43	Embargo tokens: 1
+---
+> 	Supply: 3	Count: 8	Embargo tokens: 1
+> 	Supply: 4	Count: 43	Embargo tokens: 0
+1362,1363c1362,1363
+< 	Num Discard: 5
+< 		4 1 3 1 4 
+---
+> 	Num Discard: 6
+> 		4 4 11 1 4 1 
+1376,1377c1376,1377
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 43	Embargo tokens: 1
+---
+> 	Supply: 3	Count: 8	Embargo tokens: 1
+> 	Supply: 4	Count: 43	Embargo tokens: 0
+1414,1415c1414,1415
+< 	Num Discard: 11
+< 		4 1 3 1 4 21 5 1 5 1 0 
+---
+> 	Num Discard: 12
+> 		4 4 11 1 4 1 21 5 1 5 1 0 
+1428,1429c1428,1429
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 43	Embargo tokens: 1
+---
+> 	Supply: 3	Count: 8	Embargo tokens: 1
+> 	Supply: 4	Count: 43	Embargo tokens: 0
+1466,1467c1466,1467
+< 	Num Discard: 11
+< 		4 1 3 1 4 21 5 1 5 1 0 
+---
+> 	Num Discard: 12
+> 		4 4 11 1 4 1 21 5 1 5 1 0 
+1480,1481c1480,1481
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 43	Embargo tokens: 1
+---
+> 	Supply: 3	Count: 8	Embargo tokens: 1
+> 	Supply: 4	Count: 43	Embargo tokens: 0
+1518,1519c1518,1519
+< 	Num Discard: 17
+< 		4 1 3 1 4 21 5 1 5 1 0 10 4 5 4 4 4 
+---
+> 	Num Discard: 18
+> 		4 4 11 1 4 1 21 5 1 5 1 0 10 4 5 4 4 4 
+1533,1535c1533,1535
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 42	Embargo tokens: 1
+---
+> 	Supply: 2	Count: 8	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 42	Embargo tokens: 0
+1569,1571c1569,1571
+< 		4 1 4 10 4 
+< 	Deck Count: 15
+< 		4 3 5 5 4 4 1 21 4 1 1 5 0 4 1 
+---
+> 		4 1 4 11 4 
+> 	Deck Count: 16
+> 		4 4 10 5 5 4 1 21 4 1 1 5 0 4 1 4 
+1578,1579c1578,1580
+< Trying card 10...
+< Player 2 bought card 5
+---
+> Trying card 11...
+> Card 11 played by player 2!
+> Player 2 bought card 22
+1586,1589c1587,1590
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 42	Embargo tokens: 1
+< 	Supply: 5	Count: 35	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 42	Embargo tokens: 0
+> 	Supply: 5	Count: 36	Embargo tokens: 0
+1606c1607
+< 	Supply: 22	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 22	Count: 5	Embargo tokens: 0
+1617c1618
+< 		5 4 4 10 1 4 4 1 4 1 4 24 1 1 4 4 
+---
+> 		4 4 10 1 5 4 1 4 1 4 24 1 1 4 4 4 
+1623,1626c1624,1627
+< 	Deck Count: 15
+< 		4 3 5 5 4 4 1 21 4 1 1 5 0 4 1 
+< 	Num Discard: 6
+< 		5 4 1 4 10 4 
+---
+> 	Deck Count: 16
+> 		4 4 10 5 5 4 1 21 4 1 1 5 0 4 1 4 
+> 	Num Discard: 5
+> 		22 4 2 4 11 
+1633c1634
+< Player 1 bought card 5
+---
+> Player 1 bought card 10
+1640,1643c1641,1644
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 42	Embargo tokens: 1
+< 	Supply: 5	Count: 34	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 42	Embargo tokens: 0
+> 	Supply: 5	Count: 36	Embargo tokens: 0
+1648c1649
+< 	Supply: 10	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 5	Embargo tokens: 0
+1660c1661
+< 	Supply: 22	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 22	Count: 5	Embargo tokens: 0
+1666c1667
+< Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+1671c1672
+< 		5 4 4 10 1 4 4 1 4 1 4 24 1 
+---
+> 		4 4 10 1 5 4 1 4 1 4 24 1 1 
+1673c1674
+< 		5 0 1 1 1 4 4 4 
+---
+> 		10 0 1 4 1 4 4 4 
+1676,1680c1677,1681
+< 		1 4 0 5 1 
+< 	Deck Count: 10
+< 		4 3 5 5 4 4 1 21 4 1 
+< 	Num Discard: 6
+< 		5 4 1 4 10 4 
+---
+> 		4 1 4 0 5 
+> 	Deck Count: 11
+> 		4 4 10 5 5 4 1 21 4 1 1 
+> 	Num Discard: 5
+> 		22 4 2 4 11 
+1685c1686
+< Player 2 bought card 4
+---
+> Player 2 bought card 13
+1692,1695c1693,1696
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 41	Embargo tokens: 1
+< 	Supply: 5	Count: 34	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 42	Embargo tokens: 0
+> 	Supply: 5	Count: 36	Embargo tokens: 0
+1700c1701
+< 	Supply: 10	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 5	Embargo tokens: 0
+1703c1704
+< 	Supply: 13	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 7	Embargo tokens: 0
+1712c1713
+< 	Supply: 22	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 22	Count: 5	Embargo tokens: 0
+1718c1719
+< Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 1	Number of buys: 1
+1721c1722
+< 		1 24 4 1 4 
+---
+> 		1 1 24 4 1 
+1723c1724
+< 		5 4 4 10 1 4 4 1 
+---
+> 		4 4 10 1 5 4 1 4 
+1725c1726
+< 		5 0 1 1 1 4 4 4 
+---
+> 		10 0 1 4 1 4 4 4 
+1729,1732c1730,1733
+< 	Deck Count: 10
+< 		4 3 5 5 4 4 1 21 4 1 
+< 	Num Discard: 12
+< 		5 4 1 4 10 4 4 1 4 0 5 1 
+---
+> 	Deck Count: 11
+> 		4 4 10 5 5 4 1 21 4 1 1 
+> 	Num Discard: 11
+> 		22 4 2 4 11 13 4 1 4 0 5 
+1739c1740,1741
+< Player 1 bought card 0
+---
+> Player 1 bought card 17
+> Player 1 bought card 24
+1744c1746
+< 	Supply: 0	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 0	Count: 8	Embargo tokens: 0
+1746,1749c1748,1751
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 41	Embargo tokens: 1
+< 	Supply: 5	Count: 34	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 42	Embargo tokens: 0
+> 	Supply: 5	Count: 36	Embargo tokens: 0
+1754c1756
+< 	Supply: 10	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 5	Embargo tokens: 0
+1757c1759
+< 	Supply: 13	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 7	Embargo tokens: 0
+1766c1768
+< 	Supply: 22	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 22	Count: 5	Embargo tokens: 0
+1772c1774
+< Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 1	Number of buys: 1
+1777,1779c1779,1781
+< 		5 4 4 10 1 4 4 1 
+< 	Num Discard: 12
+< 		5 0 1 1 1 4 4 4 0 1 1 4 
+---
+> 		4 4 10 1 5 4 1 4 
+> 	Num Discard: 11
+> 		10 0 1 4 1 4 4 4 1 1 4 
+1782,1786c1784,1788
+< 		1 4 21 1 4 
+< 	Deck Count: 5
+< 		4 3 5 5 4 
+< 	Num Discard: 12
+< 		5 4 1 4 10 4 4 1 4 0 5 1 
+---
+> 		1 1 4 21 1 
+> 	Deck Count: 6
+> 		4 4 10 5 5 4 
+> 	Num Discard: 11
+> 		22 4 2 4 11 13 4 1 4 0 5 
+1793c1795
+< Player 2 bought card 4
+---
+> Player 2 bought card 0
+1800,1803c1802,1805
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 40	Embargo tokens: 1
+< 	Supply: 5	Count: 34	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 42	Embargo tokens: 0
+> 	Supply: 5	Count: 36	Embargo tokens: 0
+1808c1810
+< 	Supply: 10	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 5	Embargo tokens: 0
+1811c1813
+< 	Supply: 13	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 7	Embargo tokens: 0
+1820c1822
+< 	Supply: 22	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 22	Count: 5	Embargo tokens: 0
+1826c1828
+< Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+1829c1831
+< 		1 4 4 1 10 
+---
+> 		4 1 4 5 1 
+1831,1833c1833,1835
+< 		5 4 4 
+< 	Num Discard: 12
+< 		5 0 1 1 1 4 4 4 0 1 1 4 
+---
+> 		4 4 10 
+> 	Num Discard: 11
+> 		10 0 1 4 1 4 4 4 1 1 4 
+1837,1840c1839,1842
+< 	Deck Count: 5
+< 		4 3 5 5 4 
+< 	Num Discard: 17
+< 		5 4 1 4 10 4 4 1 4 0 5 1 4 1 4 4 1 
+---
+> 	Deck Count: 6
+> 		4 4 10 5 5 4 
+> 	Num Discard: 16
+> 		22 4 2 4 11 13 4 1 4 0 5 0 1 1 4 1 
+1845,1846c1847
+< Trying card 10...
+< Player 1 bought card 22
+---
+> Player 1 bought card 24
+1853,1856c1854,1857
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 40	Embargo tokens: 1
+< 	Supply: 5	Count: 34	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 42	Embargo tokens: 0
+> 	Supply: 5	Count: 36	Embargo tokens: 0
+1861c1862
+< 	Supply: 10	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 5	Embargo tokens: 0
+1864c1865
+< 	Supply: 13	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 7	Embargo tokens: 0
+1875c1876
+< 	Supply: 24	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 8	Embargo tokens: 0
+1884,1886c1885,1887
+< 		5 4 4 
+< 	Num Discard: 18
+< 		5 0 1 1 1 4 4 4 0 1 1 4 22 1 4 4 1 10 
+---
+> 		4 4 10 
+> 	Num Discard: 17
+> 		10 0 1 4 1 4 4 4 1 1 4 24 4 1 4 5 1 
+1889,1893c1890,1894
+< 		4 5 5 3 4 
+< 	Deck Count: 0
+< 		
+< 	Num Discard: 17
+< 		5 4 1 4 10 4 4 1 4 0 5 1 4 1 4 4 1 
+---
+> 		4 5 5 10 4 
+> 	Deck Count: 1
+> 		4 
+> 	Num Discard: 16
+> 		22 4 2 4 11 13 4 1 4 0 5 0 1 1 4 1 
+1898c1899,1900
+< Player 2 bought card 7
+---
+> Trying card 10...
+> Player 2 bought card 4
+1905,1908c1907,1910
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 40	Embargo tokens: 1
+< 	Supply: 5	Count: 34	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 41	Embargo tokens: 0
+> 	Supply: 5	Count: 36	Embargo tokens: 0
+1910c1912
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 7	Count: 10	Embargo tokens: 0
+1913c1915
+< 	Supply: 10	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 5	Embargo tokens: 0
+1916c1918
+< 	Supply: 13	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 7	Embargo tokens: 0
+1927c1929
+< 	Supply: 24	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 8	Embargo tokens: 0
+1931c1933
+< Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+1934,1936c1936,1938
+< 		4 4 5 4 1 
+< 	Deck Count: 16
+< 		0 1 4 10 1 0 1 5 4 1 1 1 22 4 4 4 
+---
+> 		10 4 4 4 1 
+> 	Deck Count: 15
+> 		1 4 10 1 0 1 5 4 1 1 4 24 4 4 4 
+1942,1945c1944,1947
+< 	Deck Count: 0
+< 		
+< 	Num Discard: 23
+< 		5 4 1 4 10 4 4 1 4 0 5 1 4 1 4 4 1 7 4 5 5 3 4 
+---
+> 	Deck Count: 1
+> 		4 
+> 	Num Discard: 22
+> 		22 4 2 4 11 13 4 1 4 0 5 0 1 1 4 1 4 4 5 5 10 4 
+1950c1952,1953
+< Player 1 bought card 10
+---
+> Trying card 10...
+> Player 1 bought card 22
+1957,1960c1960,1963
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 40	Embargo tokens: 1
+< 	Supply: 5	Count: 34	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 41	Embargo tokens: 0
+> 	Supply: 5	Count: 36	Embargo tokens: 0
+1962c1965
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 7	Count: 10	Embargo tokens: 0
+1968c1971
+< 	Supply: 13	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 7	Embargo tokens: 0
+1977c1980
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 22	Count: 4	Embargo tokens: 0
+1979c1982
+< 	Supply: 24	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 8	Embargo tokens: 0
+1987,1988c1990,1991
+< 	Deck Count: 16
+< 		0 1 4 10 1 0 1 5 4 1 1 1 22 4 4 4 
+---
+> 	Deck Count: 15
+> 		1 4 10 1 0 1 5 4 1 1 4 24 4 4 4 
+1990c1993
+< 		10 4 4 5 4 1 
+---
+> 		22 10 4 4 4 1 
+1993c1996
+< 		4 0 1 1 4 
+---
+> 		4 0 1 0 4 
+1995c1998
+< 		4 4 5 5 10 1 4 4 5 1 4 7 4 4 3 1 4 5 
+---
+> 		4 5 11 10 22 1 4 4 5 1 4 13 4 4 2 1 4 5 
+2002c2005
+< Player 2 bought card 4
+---
+> Player 2 bought card 7
+2009,2012c2012,2015
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 39	Embargo tokens: 1
+< 	Supply: 5	Count: 34	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 41	Embargo tokens: 0
+> 	Supply: 5	Count: 36	Embargo tokens: 0
+2014c2017
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 7	Count: 10	Embargo tokens: 0
+2020c2023
+< 	Supply: 13	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 7	Embargo tokens: 0
+2029c2032
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 22	Count: 4	Embargo tokens: 0
+2031c2034
+< 	Supply: 24	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 8	Embargo tokens: 0
+2035c2038
+< Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+2038,2040c2041,2043
+< 		4 4 4 22 1 
+< 	Deck Count: 11
+< 		0 1 4 10 1 0 1 5 4 1 1 
+---
+> 		4 4 4 24 4 
+> 	Deck Count: 10
+> 		1 4 10 1 0 1 5 4 1 1 
+2042c2045
+< 		10 4 4 5 4 1 
+---
+> 		22 10 4 4 4 1 
+2047,2049c2050,2052
+< 		4 4 5 5 10 1 4 4 5 1 4 7 4 4 3 1 4 5 
+< 	Num Discard: 6
+< 		4 4 0 1 1 4 
+---
+> 		4 5 11 10 22 1 4 4 5 1 4 13 4 4 2 1 4 5 
+> 	Num Discard: 5
+> 		4 0 1 0 4 
+2054,2056c2057,2059
+< Trying card 22...
+< Card 22 played by player 1!
+< Player 1 bought card 1
+---
+> Trying card 24...
+> Card 24 played by player 1!
+> Player 1 bought card 24
+2061,2066c2064,2069
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+< 	Supply: 1	Count: 1	Embargo tokens: 1
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 39	Embargo tokens: 1
+< 	Supply: 5	Count: 34	Embargo tokens: 0
+---
+> 	Supply: 0	Count: 7	Embargo tokens: 0
+> 	Supply: 1	Count: 2	Embargo tokens: 1
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 41	Embargo tokens: 0
+> 	Supply: 5	Count: 36	Embargo tokens: 0
+2068c2071
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 7	Count: 10	Embargo tokens: 0
+2074c2077
+< 	Supply: 13	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 7	Embargo tokens: 0
+2083c2086
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 22	Count: 4	Embargo tokens: 0
+2085c2088
+< 	Supply: 24	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 7	Embargo tokens: 0
+2093,2094c2096,2097
+< 	Deck Count: 11
+< 		0 1 4 10 1 0 1 5 4 1 1 
+---
+> 	Deck Count: 10
+> 		1 4 10 1 0 1 5 4 1 1 
+2096c2099
+< 		10 4 4 5 4 1 1 4 4 4 1 
+---
+> 		22 10 4 4 4 1 24 4 4 4 4 
+2099c2102
+< 		5 4 1 3 4 
+---
+> 		5 4 1 2 4 
+2101,2103c2104,2106
+< 		4 4 5 5 10 1 4 4 5 1 4 7 4 
+< 	Num Discard: 6
+< 		4 4 0 1 1 4 
+---
+> 		4 5 11 10 22 1 4 4 5 1 4 13 4 
+> 	Num Discard: 5
+> 		4 0 1 0 4 
+2108c2111
+< Player 2 bought card 24
+---
+> Player 2 bought card 1
+2113c2116
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+---
+> 	Supply: 0	Count: 7	Embargo tokens: 0
+2115,2118c2118,2121
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 39	Embargo tokens: 1
+< 	Supply: 5	Count: 34	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 41	Embargo tokens: 0
+> 	Supply: 5	Count: 36	Embargo tokens: 0
+2120c2123
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 7	Count: 10	Embargo tokens: 0
+2126c2129
+< 	Supply: 13	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 7	Embargo tokens: 0
+2135c2138
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 22	Count: 4	Embargo tokens: 0
+2137c2140
+< 	Supply: 24	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 7	Embargo tokens: 0
+2145,2146c2148,2149
+< 	Deck Count: 6
+< 		0 1 4 10 1 0 
+---
+> 	Deck Count: 5
+> 		1 4 10 1 0 
+2148c2151
+< 		10 4 4 5 4 1 1 4 4 4 1 
+---
+> 		22 10 4 4 4 1 24 4 4 4 4 
+2153,2155c2156,2158
+< 		4 4 5 5 10 1 4 4 5 1 4 7 4 
+< 	Num Discard: 12
+< 		4 4 0 1 1 4 24 5 4 1 3 4 
+---
+> 		4 5 11 10 22 1 4 4 5 1 4 13 4 
+> 	Num Discard: 11
+> 		4 0 1 0 4 1 5 4 1 2 4 
+2165c2168
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+---
+> 	Supply: 0	Count: 7	Embargo tokens: 0
+2167,2170c2170,2173
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 38	Embargo tokens: 1
+< 	Supply: 5	Count: 34	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 40	Embargo tokens: 0
+> 	Supply: 5	Count: 36	Embargo tokens: 0
+2172c2175
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 7	Count: 10	Embargo tokens: 0
+2178c2181
+< 	Supply: 13	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 7	Embargo tokens: 0
+2187c2190
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 22	Count: 4	Embargo tokens: 0
+2189c2192
+< 	Supply: 24	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 7	Embargo tokens: 0
+2197,2198c2200,2201
+< 	Deck Count: 6
+< 		0 1 4 10 1 0 
+---
+> 	Deck Count: 5
+> 		1 4 10 1 0 
+2200c2203
+< 		10 4 4 5 4 1 1 4 4 4 1 4 1 1 4 5 1 
+---
+> 		22 10 4 4 4 1 24 4 4 4 4 4 1 1 4 5 1 
+2203c2206
+< 		4 7 4 1 5 
+---
+> 		4 13 4 1 5 
+2205,2207c2208,2210
+< 		4 4 5 5 10 1 4 4 
+< 	Num Discard: 12
+< 		4 4 0 1 1 4 24 5 4 1 3 4 
+---
+> 		4 5 11 10 22 1 4 4 
+> 	Num Discard: 11
+> 		4 0 1 0 4 1 5 4 1 2 4 
+2212,2213c2215,2216
+< Trying card 7...
+< Card 7 played by player 2!
+---
+> Trying card 13...
+> Card 13 played by player 2!
+2219c2222
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+---
+> 	Supply: 0	Count: 7	Embargo tokens: 0
+2221,2224c2224,2227
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 38	Embargo tokens: 1
+< 	Supply: 5	Count: 34	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 40	Embargo tokens: 0
+> 	Supply: 5	Count: 36	Embargo tokens: 0
+2226c2229
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 7	Count: 10	Embargo tokens: 0
+2232c2235
+< 	Supply: 13	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 7	Embargo tokens: 0
+2241c2244
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 22	Count: 4	Embargo tokens: 0
+2243c2246
+< 	Supply: 24	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 7	Embargo tokens: 0
+2251,2252c2254,2255
+< 	Deck Count: 1
+< 		0 
+---
+> 	Deck Count: 0
+> 		
+2254c2257
+< 		10 4 4 5 4 1 1 4 4 4 1 4 1 1 4 5 1 
+---
+> 		22 10 4 4 4 1 24 4 4 4 4 4 1 1 4 5 1 
+2258,2261c2261,2264
+< 	Deck Count: 6
+< 		4 4 5 5 10 1 
+< 	Num Discard: 20
+< 		4 4 0 1 1 4 24 5 4 1 3 4 10 4 7 4 1 5 4 4 
+---
+> 	Deck Count: 5
+> 		4 5 11 10 22 
+> 	Num Discard: 19
+> 		4 0 1 0 4 1 5 4 1 2 4 10 4 1 4 1 5 4 4 
+2272c2275
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+---
+> 	Supply: 0	Count: 7	Embargo tokens: 0
+2274,2277c2277,2280
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 37	Embargo tokens: 1
+< 	Supply: 5	Count: 34	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 39	Embargo tokens: 0
+> 	Supply: 5	Count: 36	Embargo tokens: 0
+2279c2282
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 7	Count: 10	Embargo tokens: 0
+2285c2288
+< 	Supply: 13	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 7	Embargo tokens: 0
+2294c2297
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 22	Count: 4	Embargo tokens: 0
+2296c2299
+< 	Supply: 24	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 7	Embargo tokens: 0
+2300c2303
+< Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+2304,2305c2307,2308
+< 	Deck Count: 1
+< 		0 
+---
+> 	Deck Count: 0
+> 		
+2307c2310
+< 		10 4 4 5 4 1 1 4 4 4 1 4 1 1 4 5 1 4 0 1 10 4 1 
+---
+> 		22 10 4 4 4 1 24 4 4 4 4 4 1 1 4 5 1 4 0 1 10 4 1 
+2310,2314c2313,2317
+< 		1 10 5 5 4 
+< 	Deck Count: 1
+< 		4 
+< 	Num Discard: 20
+< 		4 4 0 1 1 4 24 5 4 1 3 4 10 4 7 4 1 5 4 4 
+---
+> 		22 10 11 5 4 
+> 	Deck Count: 0
+> 		
+> 	Num Discard: 19
+> 		4 0 1 0 4 1 5 4 1 2 4 10 4 1 4 1 5 4 4 
+2319,2320c2322,2324
+< Trying card 10...
+< Player 2 bought card 11
+---
+> Trying card 22...
+> Card 22 played by player 2!
+> Player 2 bought card 1
+2325,2330c2329,2334
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+< 	Supply: 1	Count: 1	Embargo tokens: 1
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 37	Embargo tokens: 1
+< 	Supply: 5	Count: 34	Embargo tokens: 0
+---
+> 	Supply: 0	Count: 7	Embargo tokens: 0
+> 	Supply: 1	Count: 0	Embargo tokens: 1
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 39	Embargo tokens: 1
+> 	Supply: 5	Count: 36	Embargo tokens: 0
+2332c2336
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 7	Count: 10	Embargo tokens: 0
+2336c2340
+< 	Supply: 11	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+2338c2342
+< 	Supply: 13	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 7	Embargo tokens: 0
+2347c2351
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 22	Count: 4	Embargo tokens: 0
+2349c2353
+< 	Supply: 24	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 7	Embargo tokens: 0
+2353c2357
+< Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+2356,2358c2360,2362
+< 		0 4 1 4 10 
+< 	Deck Count: 19
+< 		1 10 1 1 1 4 4 4 4 5 4 4 5 4 1 1 1 4 0 
+---
+> 		4 4 24 0 4 
+> 	Deck Count: 18
+> 		1 1 22 1 1 1 4 4 4 4 10 4 5 10 4 4 4 1 
+2364,2367c2368,2371
+< 	Deck Count: 1
+< 		4 
+< 	Num Discard: 26
+< 		4 4 0 1 1 4 24 5 4 1 3 4 10 4 7 4 1 5 4 4 11 1 10 5 5 4 
+---
+> 	Deck Count: 0
+> 		
+> 	Num Discard: 24
+> 		4 0 1 0 4 1 5 4 1 2 4 10 4 1 4 1 5 4 4 1 4 10 11 5 
+2372,2373c2376,2378
+< Trying card 10...
+< Player 1 bought card 1
+---
+> Trying card 24...
+> Card 24 played by player 1!
+> Player 1 bought card 4
+2378c2383
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+---
+> 	Supply: 0	Count: 7	Embargo tokens: 0
+2380,2383c2385,2388
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 37	Embargo tokens: 1
+< 	Supply: 5	Count: 34	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 38	Embargo tokens: 1
+> 	Supply: 5	Count: 36	Embargo tokens: 0
+2385c2390
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 7	Count: 10	Embargo tokens: 0
+2389c2394
+< 	Supply: 11	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+2391c2396
+< 	Supply: 13	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 7	Embargo tokens: 0
+2400c2405
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 22	Count: 4	Embargo tokens: 0
+2402c2407
+< 	Supply: 24	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 7	Embargo tokens: 0
+2406c2411
+< Phase: 0	Number of actions: 1	 Coins: 1	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 0	Number of buys: 1
+2410,2413c2415,2418
+< 	Deck Count: 19
+< 		1 10 1 1 1 4 4 4 4 5 4 4 5 4 1 1 1 4 0 
+< 	Num Discard: 6
+< 		1 0 4 1 4 10 
+---
+> 	Deck Count: 18
+> 		1 1 22 1 1 1 4 4 4 4 10 4 5 10 4 4 4 1 
+> 	Num Discard: 4
+> 		4 4 4 4 
+2416,2418c2421,2423
+< 		4 1 1 10 0 
+< 	Deck Count: 22
+< 		4 4 4 5 4 5 5 4 4 10 3 4 1 4 7 4 5 1 4 11 24 1 
+---
+> 		0 1 10 11 1 
+> 	Deck Count: 19
+> 		4 1 2 4 4 1 5 4 4 4 10 1 4 1 4 5 4 5 0 
+2425a2431
+> Trying card 11...
+2431c2437
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+---
+> 	Supply: 0	Count: 7	Embargo tokens: 0
+2433,2436c2439,2442
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 36	Embargo tokens: 1
+< 	Supply: 5	Count: 34	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 37	Embargo tokens: 1
+> 	Supply: 5	Count: 36	Embargo tokens: 0
+2438c2444
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 7	Count: 10	Embargo tokens: 0
+2442c2448
+< 	Supply: 11	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+2444c2450
+< 	Supply: 13	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 7	Embargo tokens: 0
+2453c2459
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 22	Count: 4	Embargo tokens: 0
+2455c2461
+< 	Supply: 24	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 7	Embargo tokens: 0
+2459c2465
+< Phase: 0	Number of actions: 1	 Coins: 1	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+2462,2466c2468,2472
+< 		0 4 1 1 1 
+< 	Deck Count: 14
+< 		1 10 1 1 1 4 4 4 4 5 4 4 5 4 
+< 	Num Discard: 6
+< 		1 0 4 1 4 10 
+---
+> 		1 4 4 4 10 
+> 	Deck Count: 13
+> 		1 1 22 1 1 1 4 4 4 4 10 4 5 
+> 	Num Discard: 4
+> 		4 4 4 4 
+2470,2471c2476,2477
+< 	Deck Count: 22
+< 		4 4 4 5 4 5 5 4 4 10 3 4 1 4 7 4 5 1 4 11 24 1 
+---
+> 	Deck Count: 19
+> 		4 1 2 4 4 1 5 4 4 4 10 1 4 1 4 5 4 5 0 
+2473c2479
+< 		4 4 1 1 10 0 
+---
+> 		4 0 1 10 11 1 
+2478c2484,2485
+< Player 1 bought card 11
+---
+> Trying card 10...
+> Player 1 bought card 5
+2483c2490
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+---
+> 	Supply: 0	Count: 7	Embargo tokens: 0
+2485,2488c2492,2495
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 36	Embargo tokens: 1
+< 	Supply: 5	Count: 34	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 37	Embargo tokens: 1
+> 	Supply: 5	Count: 35	Embargo tokens: 0
+2490c2497
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 7	Count: 10	Embargo tokens: 0
+2494c2501
+< 	Supply: 11	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+2496c2503
+< 	Supply: 13	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 7	Embargo tokens: 0
+2505c2512
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 22	Count: 4	Embargo tokens: 0
+2507c2514
+< 	Supply: 24	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 7	Embargo tokens: 0
+2511c2518
+< Phase: 0	Number of actions: 1	 Coins: 1	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 6	Number of buys: 1
+2515,2518c2522,2525
+< 	Deck Count: 14
+< 		1 10 1 1 1 4 4 4 4 5 4 4 5 4 
+< 	Num Discard: 11
+< 		1 0 4 1 4 10 0 4 1 1 1 
+---
+> 	Deck Count: 13
+> 		1 1 22 1 1 1 4 4 4 4 10 4 5 
+> 	Num Discard: 10
+> 		4 4 4 4 5 1 4 4 4 10 
+2521,2523c2528,2530
+< 		1 24 11 4 1 
+< 	Deck Count: 17
+< 		4 4 4 5 4 5 5 4 4 10 3 4 1 4 7 4 5 
+---
+> 		0 5 4 5 4 
+> 	Deck Count: 14
+> 		4 1 2 4 4 1 5 4 4 4 10 1 4 1 
+2525c2532
+< 		4 4 1 1 10 0 
+---
+> 		4 0 1 10 11 1 
+2530,2533c2537
+< Trying card 24...
+< Card 24 played by player 2!
+< Player 2 bought card 6
+< Player 2 bought card 15
+---
+> Player 2 bought card 21
+2538c2542
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+---
+> 	Supply: 0	Count: 7	Embargo tokens: 0
+2540,2543c2544,2547
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 36	Embargo tokens: 1
+< 	Supply: 5	Count: 34	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 37	Embargo tokens: 1
+> 	Supply: 5	Count: 35	Embargo tokens: 0
+2545c2549
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 7	Count: 10	Embargo tokens: 0
+2549c2553
+< 	Supply: 11	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+2551c2555
+< 	Supply: 13	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 7	Embargo tokens: 0
+2559,2560c2563,2564
+< 	Supply: 21	Count: 9	Embargo tokens: 0
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 21	Count: 8	Embargo tokens: 0
+> 	Supply: 22	Count: 4	Embargo tokens: 0
+2562c2566
+< 	Supply: 24	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 7	Embargo tokens: 0
+2566c2570
+< Phase: 0	Number of actions: 1	 Coins: 7	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+2569,2573c2573,2577
+< 		4 5 4 4 5 
+< 	Deck Count: 9
+< 		1 10 1 1 1 4 4 4 4 
+< 	Num Discard: 11
+< 		1 0 4 1 4 10 0 4 1 1 1 
+---
+> 		5 4 10 4 4 
+> 	Deck Count: 8
+> 		1 1 22 1 1 1 4 4 
+> 	Num Discard: 10
+> 		4 4 4 4 5 1 4 4 4 10 
+2577,2580c2581,2584
+< 	Deck Count: 17
+< 		4 4 4 5 4 5 5 4 4 10 3 4 1 4 7 4 5 
+< 	Num Discard: 10
+< 		4 4 1 1 10 0 1 1 11 4 
+---
+> 	Deck Count: 14
+> 		4 1 2 4 4 1 5 4 4 4 10 1 4 1 
+> 	Num Discard: 12
+> 		4 0 1 10 11 1 21 0 5 4 5 4 
+2585c2589,2590
+< Player 1 bought card 10
+---
+> Trying card 10...
+> Player 1 bought card 21
+2590c2595
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+---
+> 	Supply: 0	Count: 7	Embargo tokens: 0
+2592,2595c2597,2600
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 36	Embargo tokens: 1
+< 	Supply: 5	Count: 34	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 37	Embargo tokens: 1
+> 	Supply: 5	Count: 35	Embargo tokens: 0
+2597c2602
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 7	Count: 10	Embargo tokens: 0
+2600,2601c2605,2606
+< 	Supply: 10	Count: 3	Embargo tokens: 0
+< 	Supply: 11	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 4	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+2603c2608
+< 	Supply: 13	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 7	Embargo tokens: 0
+2611,2612c2616,2617
+< 	Supply: 21	Count: 9	Embargo tokens: 0
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 21	Count: 7	Embargo tokens: 0
+> 	Supply: 22	Count: 4	Embargo tokens: 0
+2614c2619
+< 	Supply: 24	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 7	Embargo tokens: 0
+2618c2623
+< Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+2622,2625c2627,2630
+< 	Deck Count: 9
+< 		1 10 1 1 1 4 4 4 4 
+< 	Num Discard: 17
+< 		1 0 4 1 4 10 0 4 1 1 1 10 4 5 4 4 5 
+---
+> 	Deck Count: 8
+> 		1 1 22 1 1 1 4 4 
+> 	Num Discard: 16
+> 		4 4 4 4 5 1 4 4 4 10 21 5 4 10 4 4 
+2628,2632c2633,2637
+< 		5 4 7 4 1 
+< 	Deck Count: 12
+< 		4 4 4 5 4 5 5 4 4 10 3 4 
+< 	Num Discard: 10
+< 		4 4 1 1 10 0 1 1 11 4 
+---
+> 		1 4 1 10 4 
+> 	Deck Count: 9
+> 		4 1 2 4 4 1 5 4 4 
+> 	Num Discard: 12
+> 		4 0 1 10 11 1 21 0 5 4 5 4 
+2637,2639c2642,2643
+< Trying card 7...
+< Card 7 played by player 2!
+< Player 2 bought card 5
+---
+> Trying card 10...
+> Player 2 bought card 4
+2644c2648
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+---
+> 	Supply: 0	Count: 7	Embargo tokens: 0
+2646,2647c2650,2651
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+2649c2653
+< 	Supply: 5	Count: 33	Embargo tokens: 0
+---
+> 	Supply: 5	Count: 35	Embargo tokens: 0
+2651c2655
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 7	Count: 10	Embargo tokens: 0
+2654,2655c2658,2659
+< 	Supply: 10	Count: 3	Embargo tokens: 0
+< 	Supply: 11	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 4	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+2657c2661
+< 	Supply: 13	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 7	Embargo tokens: 0
+2665,2666c2669,2670
+< 	Supply: 21	Count: 9	Embargo tokens: 0
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 21	Count: 7	Embargo tokens: 0
+> 	Supply: 22	Count: 4	Embargo tokens: 0
+2668c2672
+< 	Supply: 24	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 7	Embargo tokens: 0
+2672c2676
+< Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+2675,2679c2679,2683
+< 		4 4 4 4 1 
+< 	Deck Count: 4
+< 		1 10 1 1 
+< 	Num Discard: 17
+< 		1 0 4 1 4 10 0 4 1 1 1 10 4 5 4 4 5 
+---
+> 		4 4 1 1 1 
+> 	Deck Count: 3
+> 		1 1 22 
+> 	Num Discard: 16
+> 		4 4 4 4 5 1 4 4 4 10 21 5 4 10 4 4 
+2683,2686c2687,2690
+< 	Deck Count: 8
+< 		4 4 4 5 4 5 5 4 
+< 	Num Discard: 20
+< 		4 4 1 1 10 0 1 1 11 4 10 3 5 5 4 7 4 1 4 4 
+---
+> 	Deck Count: 9
+> 		4 1 2 4 4 1 5 4 4 
+> 	Num Discard: 18
+> 		4 0 1 10 11 1 21 0 5 4 5 4 4 1 4 1 10 4 
+2691c2695
+< Player 1 bought card 25
+---
+> Player 1 bought card 0
+2696c2700
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+---
+> 	Supply: 0	Count: 6	Embargo tokens: 0
+2698,2699c2702,2703
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+2701c2705
+< 	Supply: 5	Count: 33	Embargo tokens: 0
+---
+> 	Supply: 5	Count: 35	Embargo tokens: 0
+2703c2707
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 7	Count: 10	Embargo tokens: 0
+2706,2707c2710,2711
+< 	Supply: 10	Count: 3	Embargo tokens: 0
+< 	Supply: 11	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 4	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+2709c2713
+< 	Supply: 13	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 7	Embargo tokens: 0
+2717,2718c2721,2722
+< 	Supply: 21	Count: 9	Embargo tokens: 0
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 21	Count: 7	Embargo tokens: 0
+> 	Supply: 22	Count: 4	Embargo tokens: 0
+2720,2721c2724,2725
+< 	Supply: 24	Count: 8	Embargo tokens: 0
+< 	Supply: 25	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 7	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+2724c2728
+< Phase: 0	Number of actions: 1	 Coins: 8	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+2728,2731c2732,2735
+< 	Deck Count: 4
+< 		1 10 1 1 
+< 	Num Discard: 23
+< 		1 0 4 1 4 10 0 4 1 1 1 10 4 5 4 4 5 25 4 4 4 4 1 
+---
+> 	Deck Count: 3
+> 		1 1 22 
+> 	Num Discard: 22
+> 		4 4 4 4 5 1 4 4 4 10 21 5 4 10 4 4 0 4 4 1 1 1 
+2734,2738c2738,2742
+< 		4 5 5 4 5 
+< 	Deck Count: 3
+< 		4 4 4 
+< 	Num Discard: 20
+< 		4 4 1 1 10 0 1 1 11 4 10 3 5 5 4 7 4 1 4 4 
+---
+> 		4 4 5 1 4 
+> 	Deck Count: 4
+> 		4 1 2 4 
+> 	Num Discard: 18
+> 		4 0 1 10 11 1 21 0 5 4 5 4 4 1 4 1 10 4 
+2748c2752
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+---
+> 	Supply: 0	Count: 6	Embargo tokens: 0
+2750,2751c2754,2755
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+2753c2757
+< 	Supply: 5	Count: 33	Embargo tokens: 0
+---
+> 	Supply: 5	Count: 35	Embargo tokens: 0
+2755c2759
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 7	Count: 10	Embargo tokens: 0
+2758,2759c2762,2763
+< 	Supply: 10	Count: 3	Embargo tokens: 0
+< 	Supply: 11	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 4	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+2761c2765
+< 	Supply: 13	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 7	Embargo tokens: 0
+2769,2770c2773,2774
+< 	Supply: 21	Count: 8	Embargo tokens: 0
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 21	Count: 6	Embargo tokens: 0
+> 	Supply: 22	Count: 4	Embargo tokens: 0
+2772,2773c2776,2777
+< 	Supply: 24	Count: 8	Embargo tokens: 0
+< 	Supply: 25	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 7	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+2776c2780
+< Phase: 0	Number of actions: 1	 Coins: 1	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+2779,2781c2783,2785
+< 		1 1 10 1 4 
+< 	Deck Count: 22
+< 		1 4 0 4 5 4 1 0 4 10 4 4 1 4 25 10 5 1 4 4 1 1 
+---
+> 		22 1 1 4 4 
+> 	Deck Count: 20
+> 		21 5 1 1 4 0 4 5 4 4 1 4 10 4 4 1 4 10 4 4 
+2787,2790c2791,2794
+< 	Deck Count: 3
+< 		4 4 4 
+< 	Num Discard: 26
+< 		4 4 1 1 10 0 1 1 11 4 10 3 5 5 4 7 4 1 4 4 21 4 5 5 4 5 
+---
+> 	Deck Count: 4
+> 		4 1 2 4 
+> 	Num Discard: 24
+> 		4 0 1 10 11 1 21 0 5 4 5 4 4 1 4 1 10 4 21 4 4 5 1 4 
+2795,2796c2799,2801
+< Trying card 10...
+< Player 1 bought card 4
+---
+> Trying card 22...
+> Card 22 played by player 1!
+> Player 1 bought card 6
+2801,2806c2806,2811
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 35	Embargo tokens: 1
+< 	Supply: 5	Count: 33	Embargo tokens: 0
+---
+> 	Supply: 0	Count: 6	Embargo tokens: 0
+> 	Supply: 1	Count: 0	Embargo tokens: 2
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 36	Embargo tokens: 1
+> 	Supply: 5	Count: 35	Embargo tokens: 0
+2808c2813
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 7	Count: 10	Embargo tokens: 0
+2811,2812c2816,2817
+< 	Supply: 10	Count: 3	Embargo tokens: 0
+< 	Supply: 11	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 4	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+2814c2819
+< 	Supply: 13	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 7	Embargo tokens: 0
+2822,2823c2827,2828
+< 	Supply: 21	Count: 8	Embargo tokens: 0
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 21	Count: 6	Embargo tokens: 0
+> 	Supply: 22	Count: 4	Embargo tokens: 0
+2825,2826c2830,2831
+< 	Supply: 24	Count: 8	Embargo tokens: 0
+< 	Supply: 25	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 7	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+2829c2834
+< Phase: 0	Number of actions: 1	 Coins: 6	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+2833,2836c2838,2841
+< 	Deck Count: 22
+< 		1 4 0 4 5 4 1 0 4 10 4 4 1 4 25 10 5 1 4 4 1 1 
+< 	Num Discard: 6
+< 		4 1 1 10 1 4 
+---
+> 	Deck Count: 20
+> 		21 5 1 1 4 0 4 5 4 4 1 4 10 4 4 1 4 10 4 4 
+> 	Num Discard: 4
+> 		4 1 1 4 
+2839,2841c2844,2846
+< 		4 4 4 5 4 
+< 	Deck Count: 24
+< 		1 1 10 21 5 4 11 10 5 4 3 5 1 4 1 4 4 5 4 4 4 1 0 7 
+---
+> 		4 2 1 4 1 
+> 	Deck Count: 23
+> 		21 4 4 10 1 1 10 21 4 1 11 5 5 4 1 4 0 4 0 4 4 5 4 
+2848c2853
+< Player 2 bought card 19
+---
+> Player 2 bought card 4
+2853,2856c2858,2861
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 0	Count: 6	Embargo tokens: 0
+> 	Supply: 1	Count: 0	Embargo tokens: 2
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+2858c2863
+< 	Supply: 5	Count: 33	Embargo tokens: 0
+---
+> 	Supply: 5	Count: 35	Embargo tokens: 0
+2860c2865
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 7	Count: 10	Embargo tokens: 0
+2863,2864c2868,2869
+< 	Supply: 10	Count: 3	Embargo tokens: 0
+< 	Supply: 11	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 4	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+2866c2871
+< 	Supply: 13	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 7	Embargo tokens: 0
+2872c2877
+< 	Supply: 19	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 10	Embargo tokens: 0
+2874,2875c2879,2880
+< 	Supply: 21	Count: 8	Embargo tokens: 0
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 21	Count: 6	Embargo tokens: 0
+> 	Supply: 22	Count: 4	Embargo tokens: 0
+2877,2878c2882,2883
+< 	Supply: 24	Count: 8	Embargo tokens: 0
+< 	Supply: 25	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 7	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+2881c2886
+< Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+2884,2888c2889,2893
+< 		1 1 4 4 1 
+< 	Deck Count: 17
+< 		1 4 0 4 5 4 1 0 4 10 4 4 1 4 25 10 5 
+< 	Num Discard: 6
+< 		4 1 1 10 1 4 
+---
+> 		4 4 10 4 1 
+> 	Deck Count: 15
+> 		21 5 1 1 4 0 4 5 4 4 1 4 10 4 4 
+> 	Num Discard: 4
+> 		4 1 1 4 
+2892,2893c2897,2898
+< 	Deck Count: 24
+< 		1 1 10 21 5 4 11 10 5 4 3 5 1 4 1 4 4 5 4 4 4 1 0 7 
+---
+> 	Deck Count: 23
+> 		21 4 4 10 1 1 10 21 4 1 11 5 5 4 1 4 0 4 0 4 4 5 4 
+2895c2900
+< 		19 4 4 4 5 4 
+---
+> 		4 4 2 1 4 1 
+2900c2905,2906
+< Player 1 bought card 23
+---
+> Trying card 10...
+> Player 1 bought card 5
+2905,2908c2911,2914
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 0	Count: 6	Embargo tokens: 0
+> 	Supply: 1	Count: 0	Embargo tokens: 2
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+2910c2916
+< 	Supply: 5	Count: 33	Embargo tokens: 0
+---
+> 	Supply: 5	Count: 34	Embargo tokens: 0
+2912c2918
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 7	Count: 10	Embargo tokens: 0
+2915,2916c2921,2922
+< 	Supply: 10	Count: 3	Embargo tokens: 0
+< 	Supply: 11	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 4	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+2918c2924
+< 	Supply: 13	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 7	Embargo tokens: 0
+2924c2930
+< 	Supply: 19	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 10	Embargo tokens: 0
+2926,2927c2932,2933
+< 	Supply: 21	Count: 8	Embargo tokens: 0
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 21	Count: 6	Embargo tokens: 0
+> 	Supply: 22	Count: 4	Embargo tokens: 0
+2929,2930c2935,2936
+< 	Supply: 24	Count: 8	Embargo tokens: 0
+< 	Supply: 25	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 7	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+2933c2939
+< Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+2937,2940c2943,2946
+< 	Deck Count: 17
+< 		1 4 0 4 5 4 1 0 4 10 4 4 1 4 25 10 5 
+< 	Num Discard: 11
+< 		4 1 1 10 1 4 1 1 4 4 1 
+---
+> 	Deck Count: 15
+> 		21 5 1 1 4 0 4 5 4 4 1 4 10 4 4 
+> 	Num Discard: 10
+> 		4 1 1 4 5 4 4 10 4 1 
+2943,2945c2949,2951
+< 		7 0 1 4 4 
+< 	Deck Count: 19
+< 		1 1 10 21 5 4 11 10 5 4 3 5 1 4 1 4 4 5 4 
+---
+> 		4 5 4 4 0 
+> 	Deck Count: 18
+> 		21 4 4 10 1 1 10 21 4 1 11 5 5 4 1 4 0 4 
+2947c2953
+< 		19 4 4 4 5 4 
+---
+> 		4 4 2 1 4 1 
+2952,2954c2958
+< Trying card 7...
+< Card 7 played by player 2!
+< Player 2 bought card 10
+---
+> Player 2 bought card 24
+2959,2962c2963,2966
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 0	Count: 6	Embargo tokens: 0
+> 	Supply: 1	Count: 0	Embargo tokens: 2
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+2964c2968
+< 	Supply: 5	Count: 33	Embargo tokens: 0
+---
+> 	Supply: 5	Count: 34	Embargo tokens: 0
+2966c2970
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 7	Count: 10	Embargo tokens: 0
+2969,2970c2973,2974
+< 	Supply: 10	Count: 2	Embargo tokens: 0
+< 	Supply: 11	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 4	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+2972c2976
+< 	Supply: 13	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 7	Embargo tokens: 0
+2978c2982
+< 	Supply: 19	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 10	Embargo tokens: 0
+2980,2981c2984,2985
+< 	Supply: 21	Count: 8	Embargo tokens: 0
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 21	Count: 6	Embargo tokens: 0
+> 	Supply: 22	Count: 4	Embargo tokens: 0
+2983,2984c2987,2988
+< 	Supply: 24	Count: 8	Embargo tokens: 0
+< 	Supply: 25	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 6	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+2990,2994c2994,2998
+< 		5 10 25 4 1 
+< 	Deck Count: 12
+< 		1 4 0 4 5 4 1 0 4 10 4 4 
+< 	Num Discard: 11
+< 		4 1 1 10 1 4 1 1 4 4 1 
+---
+> 		4 4 10 4 1 
+> 	Deck Count: 10
+> 		21 5 1 1 4 0 4 5 4 4 
+> 	Num Discard: 10
+> 		4 1 1 4 5 4 4 10 4 1 
+2998,3001c3002,3005
+< 	Deck Count: 17
+< 		1 1 10 21 5 4 11 10 5 4 3 5 1 4 1 4 4 
+< 	Num Discard: 14
+< 		19 4 4 4 5 4 10 7 0 1 4 4 4 5 
+---
+> 	Deck Count: 18
+> 		21 4 4 10 1 1 10 21 4 1 11 5 5 4 1 4 0 4 
+> 	Num Discard: 12
+> 		4 4 2 1 4 1 24 4 5 4 4 0 
+3007,3008d3010
+< Trying card 25...
+< Card 25 played by player 1!
+3014,3017c3016,3019
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 0	Count: 6	Embargo tokens: 0
+> 	Supply: 1	Count: 0	Embargo tokens: 2
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+3019c3021
+< 	Supply: 5	Count: 32	Embargo tokens: 0
+---
+> 	Supply: 5	Count: 33	Embargo tokens: 0
+3021c3023
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 7	Count: 10	Embargo tokens: 0
+3024,3025c3026,3027
+< 	Supply: 10	Count: 2	Embargo tokens: 0
+< 	Supply: 11	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 4	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+3027c3029
+< 	Supply: 13	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 7	Embargo tokens: 0
+3033c3035
+< 	Supply: 19	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 10	Embargo tokens: 0
+3035,3036c3037,3038
+< 	Supply: 21	Count: 8	Embargo tokens: 0
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 21	Count: 6	Embargo tokens: 0
+> 	Supply: 22	Count: 4	Embargo tokens: 0
+3038,3039c3040,3041
+< 	Supply: 24	Count: 8	Embargo tokens: 0
+< 	Supply: 25	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 6	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+3042c3044
+< Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+3046,3049c3048,3051
+< 	Deck Count: 12
+< 		1 4 0 4 5 4 1 0 4 10 4 4 
+< 	Num Discard: 17
+< 		4 1 1 10 1 4 1 1 4 4 1 5 5 10 25 4 1 
+---
+> 	Deck Count: 10
+> 		21 5 1 1 4 0 4 5 4 4 
+> 	Num Discard: 16
+> 		4 1 1 4 5 4 4 10 4 1 5 4 4 10 4 1 
+3052,3056c3054,3058
+< 		4 1 5 3 4 
+< 	Deck Count: 9
+< 		1 1 10 21 5 4 11 10 5 
+< 	Num Discard: 15
+< 		19 4 4 4 5 4 10 7 0 1 4 4 4 5 5 
+---
+> 		4 0 4 1 4 
+> 	Deck Count: 13
+> 		21 4 4 10 1 1 10 21 4 1 11 5 5 
+> 	Num Discard: 12
+> 		4 4 2 1 4 1 24 4 5 4 4 0 
+3061c3063
+< Player 2 bought card 24
+---
+> Player 2 bought card 4
+3066,3071c3068,3073
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 35	Embargo tokens: 1
+< 	Supply: 5	Count: 32	Embargo tokens: 0
+---
+> 	Supply: 0	Count: 6	Embargo tokens: 0
+> 	Supply: 1	Count: 0	Embargo tokens: 2
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 34	Embargo tokens: 1
+> 	Supply: 5	Count: 33	Embargo tokens: 0
+3073c3075
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 7	Count: 10	Embargo tokens: 0
+3076,3077c3078,3079
+< 	Supply: 10	Count: 2	Embargo tokens: 0
+< 	Supply: 11	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 4	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+3079c3081
+< 	Supply: 13	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 7	Embargo tokens: 0
+3085c3087
+< 	Supply: 19	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 10	Embargo tokens: 0
+3087,3088c3089,3090
+< 	Supply: 21	Count: 8	Embargo tokens: 0
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 21	Count: 6	Embargo tokens: 0
+> 	Supply: 22	Count: 4	Embargo tokens: 0
+3090,3091c3092,3093
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 6	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+3094c3096
+< Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+3097,3101c3099,3103
+< 		4 4 10 4 0 
+< 	Deck Count: 7
+< 		1 4 0 4 5 4 1 
+< 	Num Discard: 17
+< 		4 1 1 10 1 4 1 1 4 4 1 5 5 10 25 4 1 
+---
+> 		4 4 5 4 0 
+> 	Deck Count: 5
+> 		21 5 1 1 4 
+> 	Num Discard: 16
+> 		4 1 1 4 5 4 4 10 4 1 5 4 4 10 4 1 
+3105,3108c3107,3110
+< 	Deck Count: 9
+< 		1 1 10 21 5 4 11 10 5 
+< 	Num Discard: 21
+< 		19 4 4 4 5 4 10 7 0 1 4 4 4 5 5 24 4 1 5 3 4 
+---
+> 	Deck Count: 13
+> 		21 4 4 10 1 1 10 21 4 1 11 5 5 
+> 	Num Discard: 18
+> 		4 4 2 1 4 1 24 4 5 4 4 0 4 4 0 4 1 4 
+3113,3114c3115
+< Trying card 10...
+< Player 1 bought card 5
+---
+> Player 1 bought card 13
+3119,3124c3120,3125
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 35	Embargo tokens: 1
+< 	Supply: 5	Count: 31	Embargo tokens: 0
+---
+> 	Supply: 0	Count: 6	Embargo tokens: 0
+> 	Supply: 1	Count: 0	Embargo tokens: 2
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 34	Embargo tokens: 1
+> 	Supply: 5	Count: 33	Embargo tokens: 0
+3126c3127
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 7	Count: 10	Embargo tokens: 0
+3129,3130c3130,3131
+< 	Supply: 10	Count: 2	Embargo tokens: 0
+< 	Supply: 11	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 4	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+3132c3133
+< 	Supply: 13	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+3138c3139
+< 	Supply: 19	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 10	Embargo tokens: 0
+3140,3141c3141,3142
+< 	Supply: 21	Count: 8	Embargo tokens: 0
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 21	Count: 6	Embargo tokens: 0
+> 	Supply: 22	Count: 4	Embargo tokens: 0
+3143,3144c3144,3145
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 6	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+3151,3154c3152,3155
+< 	Deck Count: 7
+< 		1 4 0 4 5 4 1 
+< 	Num Discard: 23
+< 		4 1 1 10 1 4 1 1 4 4 1 5 5 10 25 4 1 5 4 4 10 4 0 
+---
+> 	Deck Count: 5
+> 		21 5 1 1 4 
+> 	Num Discard: 22
+> 		4 1 1 4 5 4 4 10 4 1 5 4 4 10 4 1 13 4 4 5 4 0 
+3157,3161c3158,3162
+< 		5 10 11 4 5 
+< 	Deck Count: 4
+< 		1 1 10 21 
+< 	Num Discard: 21
+< 		19 4 4 4 5 4 10 7 0 1 4 4 4 5 5 24 4 1 5 3 4 
+---
+> 		5 5 11 1 4 
+> 	Deck Count: 8
+> 		21 4 4 10 1 1 10 21 
+> 	Num Discard: 18
+> 		4 4 2 1 4 1 24 4 5 4 4 0 4 4 0 4 1 4 
+3166d3166
+< Trying card 10...
+3169c3169
+< Player 2 bought card 11
+---
+> Player 2 bought card 5
+3174,3179c3174,3179
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 35	Embargo tokens: 1
+< 	Supply: 5	Count: 31	Embargo tokens: 0
+---
+> 	Supply: 0	Count: 6	Embargo tokens: 0
+> 	Supply: 1	Count: 0	Embargo tokens: 2
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 34	Embargo tokens: 1
+> 	Supply: 5	Count: 32	Embargo tokens: 0
+3181c3181
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 7	Count: 10	Embargo tokens: 0
+3184,3185c3184,3185
+< 	Supply: 10	Count: 2	Embargo tokens: 0
+< 	Supply: 11	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 4	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+3187c3187
+< 	Supply: 13	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+3193c3193
+< 	Supply: 19	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 10	Embargo tokens: 0
+3195,3196c3195,3196
+< 	Supply: 21	Count: 8	Embargo tokens: 0
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 21	Count: 6	Embargo tokens: 0
+> 	Supply: 22	Count: 4	Embargo tokens: 0
+3198,3199c3198,3199
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 6	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+3202c3202
+< Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+3205,3209c3205,3209
+< 		1 4 5 4 0 
+< 	Deck Count: 2
+< 		1 4 
+< 	Num Discard: 23
+< 		4 1 1 10 1 4 1 1 4 4 1 5 5 10 25 4 1 5 4 4 10 4 0 
+---
+> 		4 1 1 5 21 
+> 	Deck Count: 0
+> 		
+> 	Num Discard: 22
+> 		4 1 1 4 5 4 4 10 4 1 5 4 4 10 4 1 13 4 4 5 4 0 
+3213,3216c3213,3216
+< 	Deck Count: 4
+< 		1 1 10 21 
+< 	Num Discard: 27
+< 		19 4 4 4 5 4 10 7 0 1 4 4 4 5 5 24 4 1 5 3 4 11 5 10 11 4 5 
+---
+> 	Deck Count: 8
+> 		21 4 4 10 1 1 10 21 
+> 	Num Discard: 24
+> 		4 4 2 1 4 1 24 4 5 4 4 0 4 4 0 4 1 4 5 5 5 11 1 4 
+3221c3221,3223
+< Player 1 bought card 5
+---
+> Trying card 21...
+> Card 21 played by player 1!
+> Player 1 bought card 22
+3226,3231c3228,3233
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 35	Embargo tokens: 1
+< 	Supply: 5	Count: 30	Embargo tokens: 0
+---
+> 	Supply: 0	Count: 6	Embargo tokens: 0
+> 	Supply: 1	Count: 0	Embargo tokens: 2
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 34	Embargo tokens: 1
+> 	Supply: 5	Count: 32	Embargo tokens: 0
+3233c3235
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 7	Count: 10	Embargo tokens: 0
+3236,3237c3238,3239
+< 	Supply: 10	Count: 2	Embargo tokens: 0
+< 	Supply: 11	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 4	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+3239c3241
+< 	Supply: 13	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+3245c3247
+< 	Supply: 19	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 10	Embargo tokens: 0
+3247,3248c3249,3250
+< 	Supply: 21	Count: 8	Embargo tokens: 0
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 21	Count: 6	Embargo tokens: 0
+> 	Supply: 22	Count: 3	Embargo tokens: 0
+3250,3251c3252,3253
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 6	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+3254c3256
+< Phase: 0	Number of actions: 1	 Coins: 1	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 0	Number of buys: 1
+3258,3261c3260,3263
+< 	Deck Count: 2
+< 		1 4 
+< 	Num Discard: 29
+< 		4 1 1 10 1 4 1 1 4 4 1 5 5 10 25 4 1 5 4 4 10 4 0 5 1 4 5 4 0 
+---
+> 	Deck Count: 0
+> 		
+> 	Num Discard: 27
+> 		4 1 1 4 5 4 4 10 4 1 5 4 4 10 4 1 13 4 4 5 4 0 22 4 1 1 5 
+3264,3268c3266,3270
+< 		21 10 1 1 4 
+< 	Deck Count: 26
+< 		1 5 4 5 4 3 19 24 4 11 10 0 4 4 1 5 5 4 10 5 4 11 4 5 4 7 
+< 	Num Discard: 0
+< 		
+---
+> 		21 10 1 1 10 
+> 	Deck Count: 3
+> 		21 4 4 
+> 	Num Discard: 24
+> 		4 4 2 1 4 1 24 4 5 4 4 0 4 4 0 4 1 4 5 5 5 11 1 4 
+3275c3277
+< Player 2 bought card 4
+---
+> Player 2 bought card 2
+3280,3283c3282,3285
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 0	Count: 6	Embargo tokens: 0
+> 	Supply: 1	Count: 0	Embargo tokens: 2
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+3285c3287
+< 	Supply: 5	Count: 30	Embargo tokens: 0
+---
+> 	Supply: 5	Count: 32	Embargo tokens: 0
+3287c3289
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 7	Count: 10	Embargo tokens: 0
+3290,3291c3292,3293
+< 	Supply: 10	Count: 2	Embargo tokens: 0
+< 	Supply: 11	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 4	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+3293c3295
+< 	Supply: 13	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+3299c3301
+< 	Supply: 19	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 10	Embargo tokens: 0
+3301,3302c3303,3304
+< 	Supply: 21	Count: 8	Embargo tokens: 0
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 21	Count: 6	Embargo tokens: 0
+> 	Supply: 22	Count: 3	Embargo tokens: 0
+3304,3305c3306,3307
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 6	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+3308c3310
+< Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 7	Number of buys: 1
+3311,3313c3313,3315
+< 		4 1 10 10 5 
+< 	Deck Count: 26
+< 		1 10 4 25 5 4 0 4 5 4 4 4 5 4 0 1 4 1 5 4 1 1 1 1 4 1 
+---
+> 		4 5 5 4 4 
+> 	Deck Count: 22
+> 		4 4 1 13 0 4 1 4 4 4 4 1 10 22 1 5 10 1 4 4 1 5 
+3319,3322c3321,3324
+< 	Deck Count: 26
+< 		1 5 4 5 4 3 19 24 4 11 10 0 4 4 1 5 5 4 10 5 4 11 4 5 4 7 
+< 	Num Discard: 5
+< 		4 4 10 1 1 
+---
+> 	Deck Count: 3
+> 		21 4 4 
+> 	Num Discard: 28
+> 		4 4 2 1 4 1 24 4 5 4 4 0 4 4 0 4 1 4 5 5 5 11 1 4 10 10 1 1 
+3327,3329c3329
+< Trying card 10...
+< Trying card 10...
+< Player 1 bought card 4
+---
+> Player 1 bought card 7
+3334,3339c3334,3339
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 33	Embargo tokens: 1
+< 	Supply: 5	Count: 30	Embargo tokens: 0
+---
+> 	Supply: 0	Count: 6	Embargo tokens: 0
+> 	Supply: 1	Count: 0	Embargo tokens: 2
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 34	Embargo tokens: 1
+> 	Supply: 5	Count: 32	Embargo tokens: 0
+3344,3345c3344,3345
+< 	Supply: 10	Count: 2	Embargo tokens: 0
+< 	Supply: 11	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 4	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+3347c3347
+< 	Supply: 13	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+3353c3353
+< 	Supply: 19	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 10	Embargo tokens: 0
+3355,3356c3355,3356
+< 	Supply: 21	Count: 8	Embargo tokens: 0
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 21	Count: 6	Embargo tokens: 0
+> 	Supply: 22	Count: 3	Embargo tokens: 0
+3358,3359c3358,3359
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 6	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+3362c3362
+< Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+3366,3367c3366,3367
+< 	Deck Count: 26
+< 		1 10 4 25 5 4 0 4 5 4 4 4 5 4 0 1 4 1 5 4 1 1 1 1 4 1 
+---
+> 	Deck Count: 22
+> 		4 4 1 13 0 4 1 4 4 4 4 1 10 22 1 5 10 1 4 4 1 5 
+3369c3369
+< 		4 4 1 10 10 5 
+---
+> 		7 4 5 5 4 4 
+3372,3376c3372,3376
+< 		7 4 5 4 11 
+< 	Deck Count: 21
+< 		1 5 4 5 4 3 19 24 4 11 10 0 4 4 1 5 5 4 10 5 4 
+< 	Num Discard: 5
+< 		4 4 10 1 1 
+---
+> 		4 4 21 4 1 
+> 	Deck Count: 26
+> 		24 4 4 4 5 5 0 10 4 11 5 4 0 4 4 1 4 2 5 4 1 1 4 1 10 1 
+> 	Num Discard: 0
+> 		
+3381,3383c3381,3383
+< Trying card 7...
+< Card 7 played by player 2!
+< Player 2 bought card 13
+---
+> Trying card 21...
+> Card 21 played by player 2!
+> Player 2 bought card 0
+3388,3393c3388,3393
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 33	Embargo tokens: 1
+< 	Supply: 5	Count: 30	Embargo tokens: 0
+---
+> 	Supply: 0	Count: 5	Embargo tokens: 0
+> 	Supply: 1	Count: 0	Embargo tokens: 2
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 34	Embargo tokens: 1
+> 	Supply: 5	Count: 32	Embargo tokens: 0
+3398,3399c3398,3399
+< 	Supply: 10	Count: 2	Embargo tokens: 0
+< 	Supply: 11	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 4	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+3401c3401
+< 	Supply: 13	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+3407c3407
+< 	Supply: 19	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 10	Embargo tokens: 0
+3409,3410c3409,3410
+< 	Supply: 21	Count: 8	Embargo tokens: 0
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 21	Count: 6	Embargo tokens: 0
+> 	Supply: 22	Count: 3	Embargo tokens: 0
+3412,3413c3412,3413
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 6	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+3416c3416
+< Phase: 0	Number of actions: 1	 Coins: 1	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+3419,3421c3419,3421
+< 		1 4 1 1 1 
+< 	Deck Count: 21
+< 		1 10 4 25 5 4 0 4 5 4 4 4 5 4 0 1 4 1 5 4 1 
+---
+> 		5 1 4 4 1 
+> 	Deck Count: 17
+> 		4 4 1 13 0 4 1 4 4 4 4 1 10 22 1 5 10 
+3423c3423
+< 		4 4 1 10 10 5 
+---
+> 		7 4 5 5 4 4 
+3427,3430c3427,3430
+< 	Deck Count: 19
+< 		1 5 4 5 4 3 19 24 4 11 10 0 4 4 1 5 5 4 10 
+< 	Num Discard: 13
+< 		4 4 10 1 1 13 7 4 5 4 11 4 5 
+---
+> 	Deck Count: 26
+> 		24 4 4 4 5 5 0 10 4 11 5 4 0 4 4 1 4 2 5 4 1 1 4 1 10 1 
+> 	Num Discard: 5
+> 		0 4 4 1 4 
+3435c3435
+< Player 1 bought card 4
+---
+> Player 1 bought card 5
+3440,4517c3440,3445
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 32	Embargo tokens: 1
+< 	Supply: 5	Count: 30	Embargo tokens: 0
+< 	Supply: 6	Count: 30	Embargo tokens: 0
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+< 	Supply: 8	Count: 10	Embargo tokens: 0
+< 	Supply: 9	Count: -1	Embargo tokens: 0
+< 	Supply: 10	Count: 2	Embargo tokens: 0
+< 	Supply: 11	Count: 7	Embargo tokens: 0
+< 	Supply: 12	Count: -1	Embargo tokens: 0
+< 	Supply: 13	Count: 7	Embargo tokens: 0
+< 	Supply: 14	Count: -1	Embargo tokens: 0
+< 	Supply: 15	Count: -1	Embargo tokens: 0
+< 	Supply: 16	Count: -1	Embargo tokens: 0
+< 	Supply: 17	Count: -1	Embargo tokens: 0
+< 	Supply: 18	Count: -1	Embargo tokens: 0
+< 	Supply: 19	Count: 9	Embargo tokens: 0
+< 	Supply: 20	Count: -1	Embargo tokens: 0
+< 	Supply: 21	Count: 8	Embargo tokens: 0
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+< 	Supply: 23	Count: -1	Embargo tokens: 0
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 9	Embargo tokens: 0
+< 	Supply: 26	Count: -1	Embargo tokens: 0
+< Outpost played: 0	Outpost Turn: 0
+< Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+< Player 1:
+< 	Hand Count: 0
+< 		
+< 	Deck Count: 21
+< 		1 10 4 25 5 4 0 4 5 4 4 4 5 4 0 1 4 1 5 4 1 
+< 	Num Discard: 12
+< 		4 4 1 10 10 5 4 1 4 1 1 1 
+< Player 2:
+< 	Hand Count: 5
+< 		10 4 5 5 1 
+< 	Deck Count: 14
+< 		1 5 4 5 4 3 19 24 4 11 10 0 4 4 
+< 	Num Discard: 13
+< 		4 4 10 1 1 13 7 4 5 4 11 4 5 
+< 
+< Played Cards: 0
+< 	
+< Player 2 actions: 
+< Trying card 10...
+< Player 2 bought card 8
+< Turn 67:
+< Full Game State:
+< Number of players: 2
+< Supplies:
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 32	Embargo tokens: 1
+< 	Supply: 5	Count: 30	Embargo tokens: 0
+< 	Supply: 6	Count: 30	Embargo tokens: 0
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+< 	Supply: 8	Count: 9	Embargo tokens: 0
+< 	Supply: 9	Count: -1	Embargo tokens: 0
+< 	Supply: 10	Count: 2	Embargo tokens: 0
+< 	Supply: 11	Count: 7	Embargo tokens: 0
+< 	Supply: 12	Count: -1	Embargo tokens: 0
+< 	Supply: 13	Count: 7	Embargo tokens: 0
+< 	Supply: 14	Count: -1	Embargo tokens: 0
+< 	Supply: 15	Count: -1	Embargo tokens: 0
+< 	Supply: 16	Count: -1	Embargo tokens: 0
+< 	Supply: 17	Count: -1	Embargo tokens: 0
+< 	Supply: 18	Count: -1	Embargo tokens: 0
+< 	Supply: 19	Count: 9	Embargo tokens: 0
+< 	Supply: 20	Count: -1	Embargo tokens: 0
+< 	Supply: 21	Count: 8	Embargo tokens: 0
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+< 	Supply: 23	Count: -1	Embargo tokens: 0
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 9	Embargo tokens: 0
+< 	Supply: 26	Count: -1	Embargo tokens: 0
+< Outpost played: 0	Outpost Turn: 0
+< Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+< Player 1:
+< 	Hand Count: 5
+< 		1 4 5 1 4 
+< 	Deck Count: 16
+< 		1 10 4 25 5 4 0 4 5 4 4 4 5 4 0 1 
+< 	Num Discard: 12
+< 		4 4 1 10 10 5 4 1 4 1 1 1 
+< Player 2:
+< 	Hand Count: 0
+< 		
+< 	Deck Count: 14
+< 		1 5 4 5 4 3 19 24 4 11 10 0 4 4 
+< 	Num Discard: 19
+< 		4 4 10 1 1 13 7 4 5 4 11 4 5 8 10 4 5 5 1 
+< 
+< Played Cards: 0
+< 	
+< Player 1 actions: 
+< Player 1 bought card 10
+< Turn 68:
+< Full Game State:
+< Number of players: 2
+< Supplies:
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 8	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 32	Embargo tokens: 1
+< 	Supply: 5	Count: 30	Embargo tokens: 0
+< 	Supply: 6	Count: 30	Embargo tokens: 0
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+< 	Supply: 8	Count: 9	Embargo tokens: 0
+< 	Supply: 9	Count: -1	Embargo tokens: 0
+< 	Supply: 10	Count: 1	Embargo tokens: 0
+< 	Supply: 11	Count: 7	Embargo tokens: 0
+< 	Supply: 12	Count: -1	Embargo tokens: 0
+< 	Supply: 13	Count: 7	Embargo tokens: 0
+< 	Supply: 14	Count: -1	Embargo tokens: 0
+< 	Supply: 15	Count: -1	Embargo tokens: 0
+< 	Supply: 16	Count: -1	Embargo tokens: 0
+< 	Supply: 17	Count: -1	Embargo tokens: 0
+< 	Supply: 18	Count: -1	Embargo tokens: 0
+< 	Supply: 19	Count: 9	Embargo tokens: 0
+< 	Supply: 20	Count: -1	Embargo tokens: 0
+< 	Supply: 21	Count: 8	Embargo tokens: 0
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+< 	Supply: 23	Count: -1	Embargo tokens: 0
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 9	Embargo tokens: 0
+< 	Supply: 26	Count: -1	Embargo tokens: 0
+< Outpost played: 0	Outpost Turn: 0
+< Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+< Player 1:
+< 	Hand Count: 0
+< 		
+< 	Deck Count: 16
+< 		1 10 4 25 5 4 0 4 5 4 4 4 5 4 0 1 
+< 	Num Discard: 18
+< 		4 4 1 10 10 5 4 1 4 1 1 1 10 1 4 5 1 4 
+< Player 2:
+< 	Hand Count: 5
+< 		4 4 0 10 11 
+< 	Deck Count: 9
+< 		1 5 4 5 4 3 19 24 4 
+< 	Num Discard: 19
+< 		4 4 10 1 1 13 7 4 5 4 11 4 5 8 10 4 5 5 1 
+< 
+< Played Cards: 0
+< 	
+< Player 2 actions: 
+< Trying card 10...
+< Trying card 11...
+< Card 11 played by player 2!
+< Player 2 bought card 24
+< Turn 69:
+< Full Game State:
+< Number of players: 2
+< Supplies:
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 32	Embargo tokens: 1
+< 	Supply: 5	Count: 30	Embargo tokens: 0
+< 	Supply: 6	Count: 30	Embargo tokens: 0
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+< 	Supply: 8	Count: 9	Embargo tokens: 0
+< 	Supply: 9	Count: -1	Embargo tokens: 0
+< 	Supply: 10	Count: 1	Embargo tokens: 0
+< 	Supply: 11	Count: 7	Embargo tokens: 0
+< 	Supply: 12	Count: -1	Embargo tokens: 0
+< 	Supply: 13	Count: 7	Embargo tokens: 0
+< 	Supply: 14	Count: -1	Embargo tokens: 0
+< 	Supply: 15	Count: -1	Embargo tokens: 0
+< 	Supply: 16	Count: -1	Embargo tokens: 0
+< 	Supply: 17	Count: -1	Embargo tokens: 0
+< 	Supply: 18	Count: -1	Embargo tokens: 0
+< 	Supply: 19	Count: 9	Embargo tokens: 0
+< 	Supply: 20	Count: -1	Embargo tokens: 0
+< 	Supply: 21	Count: 8	Embargo tokens: 0
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+< 	Supply: 23	Count: -1	Embargo tokens: 0
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 9	Embargo tokens: 0
+< 	Supply: 26	Count: -1	Embargo tokens: 0
+< Outpost played: 0	Outpost Turn: 0
+< Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+< Player 1:
+< 	Hand Count: 5
+< 		1 0 4 5 4 
+< 	Deck Count: 11
+< 		1 10 4 25 5 4 0 4 5 4 4 
+< 	Num Discard: 18
+< 		4 4 1 10 10 5 4 1 4 1 1 1 10 1 4 5 1 4 
+< Player 2:
+< 	Hand Count: 0
+< 		
+< 	Deck Count: 9
+< 		1 5 4 5 4 3 19 24 4 
+< 	Num Discard: 23
+< 		4 4 10 1 1 13 7 4 5 4 11 4 5 8 10 4 5 5 1 2 4 0 10 
+< 
+< Played Cards: 0
+< 	
+< Player 1 actions: 
+< Player 1 bought card 21
+< Turn 70:
+< Full Game State:
+< Number of players: 2
+< Supplies:
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 32	Embargo tokens: 1
+< 	Supply: 5	Count: 30	Embargo tokens: 0
+< 	Supply: 6	Count: 30	Embargo tokens: 0
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+< 	Supply: 8	Count: 9	Embargo tokens: 0
+< 	Supply: 9	Count: -1	Embargo tokens: 0
+< 	Supply: 10	Count: 1	Embargo tokens: 0
+< 	Supply: 11	Count: 7	Embargo tokens: 0
+< 	Supply: 12	Count: -1	Embargo tokens: 0
+< 	Supply: 13	Count: 7	Embargo tokens: 0
+< 	Supply: 14	Count: -1	Embargo tokens: 0
+< 	Supply: 15	Count: -1	Embargo tokens: 0
+< 	Supply: 16	Count: -1	Embargo tokens: 0
+< 	Supply: 17	Count: -1	Embargo tokens: 0
+< 	Supply: 18	Count: -1	Embargo tokens: 0
+< 	Supply: 19	Count: 9	Embargo tokens: 0
+< 	Supply: 20	Count: -1	Embargo tokens: 0
+< 	Supply: 21	Count: 7	Embargo tokens: 0
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+< 	Supply: 23	Count: -1	Embargo tokens: 0
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 9	Embargo tokens: 0
+< 	Supply: 26	Count: -1	Embargo tokens: 0
+< Outpost played: 0	Outpost Turn: 0
+< Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+< Player 1:
+< 	Hand Count: 0
+< 		
+< 	Deck Count: 11
+< 		1 10 4 25 5 4 0 4 5 4 4 
+< 	Num Discard: 24
+< 		4 4 1 10 10 5 4 1 4 1 1 1 10 1 4 5 1 4 21 1 0 4 5 4 
+< Player 2:
+< 	Hand Count: 5
+< 		4 24 19 3 4 
+< 	Deck Count: 4
+< 		1 5 4 5 
+< 	Num Discard: 23
+< 		4 4 10 1 1 13 7 4 5 4 11 4 5 8 10 4 5 5 1 2 4 0 10 
+< 
+< Played Cards: 0
+< 	
+< Player 2 actions: 
+< Trying card 24...
+< Card 24 played by player 2!
+< Player 2 bought card 3
+< Player 2 bought card 8
+< Turn 71:
+< Full Game State:
+< Number of players: 2
+< Supplies:
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 32	Embargo tokens: 1
+< 	Supply: 5	Count: 30	Embargo tokens: 0
+< 	Supply: 6	Count: 30	Embargo tokens: 0
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+< 	Supply: 8	Count: 9	Embargo tokens: 0
+< 	Supply: 9	Count: -1	Embargo tokens: 0
+< 	Supply: 10	Count: 1	Embargo tokens: 0
+< 	Supply: 11	Count: 7	Embargo tokens: 0
+< 	Supply: 12	Count: -1	Embargo tokens: 0
+< 	Supply: 13	Count: 7	Embargo tokens: 0
+< 	Supply: 14	Count: -1	Embargo tokens: 0
+< 	Supply: 15	Count: -1	Embargo tokens: 0
+< 	Supply: 16	Count: -1	Embargo tokens: 0
+< 	Supply: 17	Count: -1	Embargo tokens: 0
+< 	Supply: 18	Count: -1	Embargo tokens: 0
+< 	Supply: 19	Count: 9	Embargo tokens: 0
+< 	Supply: 20	Count: -1	Embargo tokens: 0
+< 	Supply: 21	Count: 7	Embargo tokens: 0
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+< 	Supply: 23	Count: -1	Embargo tokens: 0
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 9	Embargo tokens: 0
+< 	Supply: 26	Count: -1	Embargo tokens: 0
+< Outpost played: 0	Outpost Turn: 0
+< Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+< Player 1:
+< 	Hand Count: 5
+< 		4 4 5 4 0 
+< 	Deck Count: 6
+< 		1 10 4 25 5 4 
+< 	Num Discard: 24
+< 		4 4 1 10 10 5 4 1 4 1 1 1 10 1 4 5 1 4 21 1 0 4 5 4 
+< Player 2:
+< 	Hand Count: 0
+< 		
+< 	Deck Count: 4
+< 		1 5 4 5 
+< 	Num Discard: 26
+< 		4 4 10 1 1 13 7 4 5 4 11 4 5 8 10 4 5 5 1 2 4 0 10 4 3 19 
+< 
+< Played Cards: 0
+< 	
+< Player 1 actions: 
+< Player 1 bought card 11
+< Turn 72:
+< Full Game State:
+< Number of players: 2
+< Supplies:
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 32	Embargo tokens: 1
+< 	Supply: 5	Count: 30	Embargo tokens: 0
+< 	Supply: 6	Count: 30	Embargo tokens: 0
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+< 	Supply: 8	Count: 9	Embargo tokens: 0
+< 	Supply: 9	Count: -1	Embargo tokens: 0
+< 	Supply: 10	Count: 1	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+< 	Supply: 12	Count: -1	Embargo tokens: 0
+< 	Supply: 13	Count: 7	Embargo tokens: 0
+< 	Supply: 14	Count: -1	Embargo tokens: 0
+< 	Supply: 15	Count: -1	Embargo tokens: 0
+< 	Supply: 16	Count: -1	Embargo tokens: 0
+< 	Supply: 17	Count: -1	Embargo tokens: 0
+< 	Supply: 18	Count: -1	Embargo tokens: 0
+< 	Supply: 19	Count: 9	Embargo tokens: 0
+< 	Supply: 20	Count: -1	Embargo tokens: 0
+< 	Supply: 21	Count: 7	Embargo tokens: 0
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+< 	Supply: 23	Count: -1	Embargo tokens: 0
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 9	Embargo tokens: 0
+< 	Supply: 26	Count: -1	Embargo tokens: 0
+< Outpost played: 0	Outpost Turn: 0
+< Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+< Player 1:
+< 	Hand Count: 0
+< 		
+< 	Deck Count: 6
+< 		1 10 4 25 5 4 
+< 	Num Discard: 30
+< 		4 4 1 10 10 5 4 1 4 1 1 1 10 1 4 5 1 4 21 1 0 4 5 4 11 4 4 5 4 0 
+< Player 2:
+< 	Hand Count: 5
+< 		5 4 5 1 10 
+< 	Deck Count: 25
+< 		5 4 0 10 5 5 5 11 7 4 4 1 13 4 3 19 4 2 4 1 4 1 4 10 8 
+< 	Num Discard: 0
+< 		
+< 
+< Played Cards: 0
+< 	
+< Player 2 actions: 
+< Trying card 10...
+< Player 2 bought card 19
+< Turn 73:
+< Full Game State:
+< Number of players: 2
+< Supplies:
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 32	Embargo tokens: 1
+< 	Supply: 5	Count: 30	Embargo tokens: 0
+< 	Supply: 6	Count: 30	Embargo tokens: 0
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+< 	Supply: 8	Count: 9	Embargo tokens: 0
+< 	Supply: 9	Count: -1	Embargo tokens: 0
+< 	Supply: 10	Count: 1	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+< 	Supply: 12	Count: -1	Embargo tokens: 0
+< 	Supply: 13	Count: 7	Embargo tokens: 0
+< 	Supply: 14	Count: -1	Embargo tokens: 0
+< 	Supply: 15	Count: -1	Embargo tokens: 0
+< 	Supply: 16	Count: -1	Embargo tokens: 0
+< 	Supply: 17	Count: -1	Embargo tokens: 0
+< 	Supply: 18	Count: -1	Embargo tokens: 0
+< 	Supply: 19	Count: 8	Embargo tokens: 0
+< 	Supply: 20	Count: -1	Embargo tokens: 0
+< 	Supply: 21	Count: 7	Embargo tokens: 0
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+< 	Supply: 23	Count: -1	Embargo tokens: 0
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 9	Embargo tokens: 0
+< 	Supply: 26	Count: -1	Embargo tokens: 0
+< Outpost played: 0	Outpost Turn: 0
+< Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+< Player 1:
+< 	Hand Count: 5
+< 		4 5 25 4 10 
+< 	Deck Count: 1
+< 		1 
+< 	Num Discard: 30
+< 		4 4 1 10 10 5 4 1 4 1 1 1 10 1 4 5 1 4 21 1 0 4 5 4 11 4 4 5 4 0 
+< Player 2:
+< 	Hand Count: 0
+< 		
+< 	Deck Count: 25
+< 		5 4 0 10 5 5 5 11 7 4 4 1 13 4 3 19 4 2 4 1 4 1 4 10 8 
+< 	Num Discard: 6
+< 		19 5 4 5 1 10 
+< 
+< Played Cards: 0
+< 	
+< Player 1 actions: 
+< Trying card 25...
+< Card 25 played by player 1!
+< Player 1 bought card 13
+< Turn 74:
+< Full Game State:
+< Number of players: 2
+< Supplies:
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 32	Embargo tokens: 1
+< 	Supply: 5	Count: 30	Embargo tokens: 0
+< 	Supply: 6	Count: 30	Embargo tokens: 0
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+< 	Supply: 8	Count: 9	Embargo tokens: 0
+< 	Supply: 9	Count: -1	Embargo tokens: 0
+< 	Supply: 10	Count: 1	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+< 	Supply: 12	Count: -1	Embargo tokens: 0
+< 	Supply: 13	Count: 6	Embargo tokens: 0
+< 	Supply: 14	Count: -1	Embargo tokens: 0
+< 	Supply: 15	Count: -1	Embargo tokens: 0
+< 	Supply: 16	Count: -1	Embargo tokens: 0
+< 	Supply: 17	Count: -1	Embargo tokens: 0
+< 	Supply: 18	Count: -1	Embargo tokens: 0
+< 	Supply: 19	Count: 8	Embargo tokens: 0
+< 	Supply: 20	Count: -1	Embargo tokens: 0
+< 	Supply: 21	Count: 7	Embargo tokens: 0
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+< 	Supply: 23	Count: -1	Embargo tokens: 0
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 9	Embargo tokens: 0
+< 	Supply: 26	Count: -1	Embargo tokens: 0
+< Outpost played: 0	Outpost Turn: 0
+< Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+< Player 1:
+< 	Hand Count: 0
+< 		
+< 	Deck Count: 1
+< 		1 
+< 	Num Discard: 36
+< 		4 4 1 10 10 5 4 1 4 1 1 1 10 1 4 5 1 4 21 1 0 4 5 4 11 4 4 5 4 0 13 4 5 25 4 10 
+< Player 2:
+< 	Hand Count: 5
+< 		1 4 1 4 2 
+< 	Deck Count: 17
+< 		5 4 0 10 5 5 5 11 7 4 4 1 13 4 3 19 4 
+< 	Num Discard: 7
+< 		19 5 4 5 1 10 10 
+< 
+< Played Cards: 0
+< 	
+< Player 2 actions: 
+< Player 2 bought card 19
+< Turn 75:
+< Full Game State:
+< Number of players: 2
+< Supplies:
+< 	Supply: 0	Count: 7	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 32	Embargo tokens: 1
+< 	Supply: 5	Count: 30	Embargo tokens: 0
+< 	Supply: 6	Count: 30	Embargo tokens: 0
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+< 	Supply: 8	Count: 9	Embargo tokens: 0
+< 	Supply: 9	Count: -1	Embargo tokens: 0
+< 	Supply: 10	Count: 1	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+< 	Supply: 12	Count: -1	Embargo tokens: 0
+< 	Supply: 13	Count: 6	Embargo tokens: 0
+< 	Supply: 14	Count: -1	Embargo tokens: 0
+< 	Supply: 15	Count: -1	Embargo tokens: 0
+< 	Supply: 16	Count: -1	Embargo tokens: 0
+< 	Supply: 17	Count: -1	Embargo tokens: 0
+< 	Supply: 18	Count: -1	Embargo tokens: 0
+< 	Supply: 19	Count: 8	Embargo tokens: 0
+< 	Supply: 20	Count: -1	Embargo tokens: 0
+< 	Supply: 21	Count: 7	Embargo tokens: 0
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+< 	Supply: 23	Count: -1	Embargo tokens: 0
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 9	Embargo tokens: 0
+< 	Supply: 26	Count: -1	Embargo tokens: 0
+< Outpost played: 0	Outpost Turn: 0
+< Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+< Player 1:
+< 	Hand Count: 5
+< 		1 4 4 4 1 
+< 	Deck Count: 32
+< 		5 4 21 11 5 1 4 1 4 1 1 1 4 13 10 0 4 4 5 25 10 5 4 1 4 10 5 10 1 4 0 4 
+< 	Num Discard: 0
+< 		
+< Player 2:
+< 	Hand Count: 0
+< 		
+< 	Deck Count: 17
+< 		5 4 0 10 5 5 5 11 7 4 4 1 13 4 3 19 4 
+< 	Num Discard: 12
+< 		19 5 4 5 1 10 10 1 4 1 4 2 
+< 
+< Played Cards: 0
+< 	
+< Player 1 actions: 
+< Player 1 bought card 0
+< Turn 76:
+< Full Game State:
+< Number of players: 2
+< Supplies:
+< 	Supply: 0	Count: 6	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 32	Embargo tokens: 1
+< 	Supply: 5	Count: 30	Embargo tokens: 0
+< 	Supply: 6	Count: 30	Embargo tokens: 0
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+< 	Supply: 8	Count: 9	Embargo tokens: 0
+< 	Supply: 9	Count: -1	Embargo tokens: 0
+< 	Supply: 10	Count: 1	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+< 	Supply: 12	Count: -1	Embargo tokens: 0
+< 	Supply: 13	Count: 6	Embargo tokens: 0
+< 	Supply: 14	Count: -1	Embargo tokens: 0
+< 	Supply: 15	Count: -1	Embargo tokens: 0
+< 	Supply: 16	Count: -1	Embargo tokens: 0
+< 	Supply: 17	Count: -1	Embargo tokens: 0
+< 	Supply: 18	Count: -1	Embargo tokens: 0
+< 	Supply: 19	Count: 8	Embargo tokens: 0
+< 	Supply: 20	Count: -1	Embargo tokens: 0
+< 	Supply: 21	Count: 7	Embargo tokens: 0
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+< 	Supply: 23	Count: -1	Embargo tokens: 0
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 9	Embargo tokens: 0
+< 	Supply: 26	Count: -1	Embargo tokens: 0
+< Outpost played: 0	Outpost Turn: 0
+< Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+< Player 1:
+< 	Hand Count: 0
+< 		
+< 	Deck Count: 32
+< 		5 4 21 11 5 1 4 1 4 1 1 1 4 13 10 0 4 4 5 25 10 5 4 1 4 10 5 10 1 4 0 4 
+< 	Num Discard: 6
+< 		0 1 4 4 4 1 
+< Player 2:
+< 	Hand Count: 5
+< 		4 19 3 4 13 
+< 	Deck Count: 12
+< 		5 4 0 10 5 5 5 11 7 4 4 1 
+< 	Num Discard: 12
+< 		19 5 4 5 1 10 10 1 4 1 4 2 
+< 
+< Played Cards: 0
+< 	
+< Player 2 actions: 
+< Trying card 19...
+< Card 19 played by player 2!
+< Player 2 actions: 
+< Trying card 13...
+< Card 13 played by player 2!
+< Player 2 bought card 25
+< Turn 77:
+< Full Game State:
+< Number of players: 2
+< Supplies:
+< 	Supply: 0	Count: 6	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 32	Embargo tokens: 1
+< 	Supply: 5	Count: 30	Embargo tokens: 0
+< 	Supply: 6	Count: 30	Embargo tokens: 0
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+< 	Supply: 8	Count: 9	Embargo tokens: 0
+< 	Supply: 9	Count: -1	Embargo tokens: 0
+< 	Supply: 10	Count: 1	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+< 	Supply: 12	Count: -1	Embargo tokens: 0
+< 	Supply: 13	Count: 6	Embargo tokens: 0
+< 	Supply: 14	Count: -1	Embargo tokens: 0
+< 	Supply: 15	Count: -1	Embargo tokens: 0
+< 	Supply: 16	Count: -1	Embargo tokens: 0
+< 	Supply: 17	Count: -1	Embargo tokens: 0
+< 	Supply: 18	Count: -1	Embargo tokens: 0
+< 	Supply: 19	Count: 8	Embargo tokens: 0
+< 	Supply: 20	Count: -1	Embargo tokens: 0
+< 	Supply: 21	Count: 7	Embargo tokens: 0
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+< 	Supply: 23	Count: -1	Embargo tokens: 0
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 8	Embargo tokens: 0
+< 	Supply: 26	Count: -1	Embargo tokens: 0
+< Outpost played: 0	Outpost Turn: 0
+< Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+< Player 1:
+< 	Hand Count: 5
+< 		4 1 10 5 10 
+< 	Deck Count: 25
+< 		5 4 21 11 5 1 4 1 4 1 1 1 4 13 10 0 4 4 5 25 10 5 4 1 4 
+< 	Num Discard: 8
+< 		0 1 4 4 4 1 4 0 
+< Player 2:
+< 	Hand Count: 0
+< 		
+< 	Deck Count: 7
+< 		5 4 0 10 5 5 5 
+< 	Num Discard: 21
+< 		19 5 4 5 1 10 10 1 4 1 4 2 25 4 4 3 4 11 1 4 7 
+< 
+< Played Cards: 0
+< 	
+< Player 1 actions: 
+< Trying card 10...
+< Trying card 10...
+< Player 1 bought card 5
+< Turn 78:
+< Full Game State:
+< Number of players: 2
+< Supplies:
+< 	Supply: 0	Count: 6	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 32	Embargo tokens: 1
+< 	Supply: 5	Count: 29	Embargo tokens: 0
+< 	Supply: 6	Count: 30	Embargo tokens: 0
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+< 	Supply: 8	Count: 9	Embargo tokens: 0
+< 	Supply: 9	Count: -1	Embargo tokens: 0
+< 	Supply: 10	Count: 1	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+< 	Supply: 12	Count: -1	Embargo tokens: 0
+< 	Supply: 13	Count: 6	Embargo tokens: 0
+< 	Supply: 14	Count: -1	Embargo tokens: 0
+< 	Supply: 15	Count: -1	Embargo tokens: 0
+< 	Supply: 16	Count: -1	Embargo tokens: 0
+< 	Supply: 17	Count: -1	Embargo tokens: 0
+< 	Supply: 18	Count: -1	Embargo tokens: 0
+< 	Supply: 19	Count: 8	Embargo tokens: 0
+< 	Supply: 20	Count: -1	Embargo tokens: 0
+< 	Supply: 21	Count: 7	Embargo tokens: 0
+< 	Supply: 22	Count: 5	Embargo tokens: 0
+< 	Supply: 23	Count: -1	Embargo tokens: 0
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 8	Embargo tokens: 0
+< 	Supply: 26	Count: -1	Embargo tokens: 0
+< Outpost played: 0	Outpost Turn: 0
+< Phase: 0	Number of actions: 1	 Coins: 6	Number of buys: 1
+< Player 1:
+< 	Hand Count: 0
+< 		
+< 	Deck Count: 25
+< 		5 4 21 11 5 1 4 1 4 1 1 1 4 13 10 0 4 4 5 25 10 5 4 1 4 
+< 	Num Discard: 14
+< 		0 1 4 4 4 1 4 0 5 4 1 10 5 10 
+< Player 2:
+< 	Hand Count: 5
+< 		5 5 5 10 0 
+< 	Deck Count: 2
+< 		5 4 
+< 	Num Discard: 21
+< 		19 5 4 5 1 10 10 1 4 1 4 2 25 4 4 3 4 11 1 4 7 
+< 
+< Played Cards: 0
+< 	
+< Player 2 actions: 
+< Trying card 10...
+< Player 2 bought card 22
+< Turn 79:
+< Full Game State:
+< Number of players: 2
+< Supplies:
+< 	Supply: 0	Count: 6	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 32	Embargo tokens: 1
+< 	Supply: 5	Count: 29	Embargo tokens: 0
+< 	Supply: 6	Count: 30	Embargo tokens: 0
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+< 	Supply: 8	Count: 9	Embargo tokens: 0
+< 	Supply: 9	Count: -1	Embargo tokens: 0
+< 	Supply: 10	Count: 1	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+< 	Supply: 12	Count: -1	Embargo tokens: 0
+< 	Supply: 13	Count: 6	Embargo tokens: 0
+< 	Supply: 14	Count: -1	Embargo tokens: 0
+< 	Supply: 15	Count: -1	Embargo tokens: 0
+< 	Supply: 16	Count: -1	Embargo tokens: 0
+< 	Supply: 17	Count: -1	Embargo tokens: 0
+< 	Supply: 18	Count: -1	Embargo tokens: 0
+< 	Supply: 19	Count: 8	Embargo tokens: 0
+< 	Supply: 20	Count: -1	Embargo tokens: 0
+< 	Supply: 21	Count: 7	Embargo tokens: 0
+< 	Supply: 22	Count: 4	Embargo tokens: 0
+< 	Supply: 23	Count: -1	Embargo tokens: 0
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 8	Embargo tokens: 0
+< 	Supply: 26	Count: -1	Embargo tokens: 0
+< Outpost played: 0	Outpost Turn: 0
+< Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+< Player 1:
+< 	Hand Count: 5
+< 		4 1 4 5 10 
+< 	Deck Count: 20
+< 		5 4 21 11 5 1 4 1 4 1 1 1 4 13 10 0 4 4 5 25 
+< 	Num Discard: 14
+< 		0 1 4 4 4 1 4 0 5 4 1 10 5 10 
+< Player 2:
+< 	Hand Count: 0
+< 		
+< 	Deck Count: 2
+< 		5 4 
+< 	Num Discard: 27
+< 		19 5 4 5 1 10 10 1 4 1 4 2 25 4 4 3 4 11 1 4 7 22 5 5 5 10 0 
+< 
+< Played Cards: 0
+< 	
+< Player 1 actions: 
+< Trying card 10...
+< Player 1 bought card 5
+< Turn 80:
+< Full Game State:
+< Number of players: 2
+< Supplies:
+< 	Supply: 0	Count: 6	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 32	Embargo tokens: 1
+< 	Supply: 5	Count: 28	Embargo tokens: 0
+< 	Supply: 6	Count: 30	Embargo tokens: 0
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+< 	Supply: 8	Count: 9	Embargo tokens: 0
+< 	Supply: 9	Count: -1	Embargo tokens: 0
+< 	Supply: 10	Count: 1	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+< 	Supply: 12	Count: -1	Embargo tokens: 0
+< 	Supply: 13	Count: 6	Embargo tokens: 0
+< 	Supply: 14	Count: -1	Embargo tokens: 0
+< 	Supply: 15	Count: -1	Embargo tokens: 0
+< 	Supply: 16	Count: -1	Embargo tokens: 0
+< 	Supply: 17	Count: -1	Embargo tokens: 0
+< 	Supply: 18	Count: -1	Embargo tokens: 0
+< 	Supply: 19	Count: 8	Embargo tokens: 0
+< 	Supply: 20	Count: -1	Embargo tokens: 0
+< 	Supply: 21	Count: 7	Embargo tokens: 0
+< 	Supply: 22	Count: 4	Embargo tokens: 0
+< 	Supply: 23	Count: -1	Embargo tokens: 0
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 8	Embargo tokens: 0
+< 	Supply: 26	Count: -1	Embargo tokens: 0
+< Outpost played: 0	Outpost Turn: 0
+< Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+< Player 1:
+< 	Hand Count: 0
+< 		
+< 	Deck Count: 20
+< 		5 4 21 11 5 1 4 1 4 1 1 1 4 13 10 0 4 4 5 25 
+< 	Num Discard: 20
+< 		0 1 4 4 4 1 4 0 5 4 1 10 5 10 5 4 1 4 5 10 
+< Player 2:
+< 	Hand Count: 5
+< 		4 5 1 4 10 
+< 	Deck Count: 24
+< 		5 5 1 2 10 1 5 7 4 3 5 4 25 4 10 4 11 19 4 4 5 1 0 22 
+< 	Num Discard: 0
+< 		
+< 
+< Played Cards: 0
+< 	
+< Player 2 actions: 
+< Trying card 10...
+< Player 2 bought card 4
+< Turn 81:
+< Full Game State:
+< Number of players: 2
+< Supplies:
+< 	Supply: 0	Count: 6	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 31	Embargo tokens: 1
+< 	Supply: 5	Count: 28	Embargo tokens: 0
+< 	Supply: 6	Count: 30	Embargo tokens: 0
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+< 	Supply: 8	Count: 9	Embargo tokens: 0
+< 	Supply: 9	Count: -1	Embargo tokens: 0
+< 	Supply: 10	Count: 1	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+< 	Supply: 12	Count: -1	Embargo tokens: 0
+< 	Supply: 13	Count: 6	Embargo tokens: 0
+< 	Supply: 14	Count: -1	Embargo tokens: 0
+< 	Supply: 15	Count: -1	Embargo tokens: 0
+< 	Supply: 16	Count: -1	Embargo tokens: 0
+< 	Supply: 17	Count: -1	Embargo tokens: 0
+< 	Supply: 18	Count: -1	Embargo tokens: 0
+< 	Supply: 19	Count: 8	Embargo tokens: 0
+< 	Supply: 20	Count: -1	Embargo tokens: 0
+< 	Supply: 21	Count: 7	Embargo tokens: 0
+< 	Supply: 22	Count: 4	Embargo tokens: 0
+< 	Supply: 23	Count: -1	Embargo tokens: 0
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 8	Embargo tokens: 0
+< 	Supply: 26	Count: -1	Embargo tokens: 0
+< Outpost played: 0	Outpost Turn: 0
+< Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+< Player 1:
+< 	Hand Count: 5
+< 		25 5 4 4 0 
+< 	Deck Count: 15
+< 		5 4 21 11 5 1 4 1 4 1 1 1 4 13 10 
+< 	Num Discard: 20
+< 		0 1 4 4 4 1 4 0 5 4 1 10 5 10 5 4 1 4 5 10 
+< Player 2:
+< 	Hand Count: 0
+< 		
+< 	Deck Count: 24
+< 		5 5 1 2 10 1 5 7 4 3 5 4 25 4 10 4 11 19 4 4 5 1 0 22 
+< 	Num Discard: 6
+< 		4 4 5 1 4 10 
+< 
+< Played Cards: 0
+< 	
+< Player 1 actions: 
+< Trying card 25...
+< Card 25 played by player 1!
+< Player 1 bought card 0
+< Turn 82:
+< Full Game State:
+< Number of players: 2
+< Supplies:
+< 	Supply: 0	Count: 5	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 31	Embargo tokens: 1
+< 	Supply: 5	Count: 28	Embargo tokens: 0
+< 	Supply: 6	Count: 30	Embargo tokens: 0
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+< 	Supply: 8	Count: 9	Embargo tokens: 0
+< 	Supply: 9	Count: -1	Embargo tokens: 0
+< 	Supply: 10	Count: 1	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+< 	Supply: 12	Count: -1	Embargo tokens: 0
+< 	Supply: 13	Count: 6	Embargo tokens: 0
+< 	Supply: 14	Count: -1	Embargo tokens: 0
+< 	Supply: 15	Count: -1	Embargo tokens: 0
+< 	Supply: 16	Count: -1	Embargo tokens: 0
+< 	Supply: 17	Count: -1	Embargo tokens: 0
+< 	Supply: 18	Count: -1	Embargo tokens: 0
+< 	Supply: 19	Count: 8	Embargo tokens: 0
+< 	Supply: 20	Count: -1	Embargo tokens: 0
+< 	Supply: 21	Count: 7	Embargo tokens: 0
+< 	Supply: 22	Count: 4	Embargo tokens: 0
+< 	Supply: 23	Count: -1	Embargo tokens: 0
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 8	Embargo tokens: 0
+< 	Supply: 26	Count: -1	Embargo tokens: 0
+< Outpost played: 0	Outpost Turn: 0
+< Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+< Player 1:
+< 	Hand Count: 0
+< 		
+< 	Deck Count: 15
+< 		5 4 21 11 5 1 4 1 4 1 1 1 4 13 10 
+< 	Num Discard: 26
+< 		0 1 4 4 4 1 4 0 5 4 1 10 5 10 5 4 1 4 5 10 0 25 5 4 4 0 
+< Player 2:
+< 	Hand Count: 5
+< 		5 4 4 19 11 
+< 	Deck Count: 16
+< 		5 5 1 2 10 1 5 7 4 3 5 4 25 4 10 4 
+< 	Num Discard: 7
+< 		4 4 5 1 4 10 10 
+< 
+< Played Cards: 0
+< 	
+< Player 2 actions: 
+< Trying card 19...
+< Card 19 played by player 2!
+< Player 2 actions: 
+< Trying card 10...
+< Trying card 11...
+< Card 11 played by player 2!
+< Player 2 bought card 21
+< Turn 83:
+< Full Game State:
+< Number of players: 2
+< Supplies:
+< 	Supply: 0	Count: 5	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 31	Embargo tokens: 1
+< 	Supply: 5	Count: 28	Embargo tokens: 0
+< 	Supply: 6	Count: 30	Embargo tokens: 0
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+< 	Supply: 8	Count: 9	Embargo tokens: 0
+< 	Supply: 9	Count: -1	Embargo tokens: 0
+< 	Supply: 10	Count: 1	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+< 	Supply: 12	Count: -1	Embargo tokens: 0
+< 	Supply: 13	Count: 6	Embargo tokens: 0
+< 	Supply: 14	Count: -1	Embargo tokens: 0
+< 	Supply: 15	Count: -1	Embargo tokens: 0
+< 	Supply: 16	Count: -1	Embargo tokens: 0
+< 	Supply: 17	Count: -1	Embargo tokens: 0
+< 	Supply: 18	Count: -1	Embargo tokens: 0
+< 	Supply: 19	Count: 8	Embargo tokens: 0
+< 	Supply: 20	Count: -1	Embargo tokens: 0
+< 	Supply: 21	Count: 6	Embargo tokens: 0
+< 	Supply: 22	Count: 4	Embargo tokens: 0
+< 	Supply: 23	Count: -1	Embargo tokens: 0
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 8	Embargo tokens: 0
+< 	Supply: 26	Count: -1	Embargo tokens: 0
+< Outpost played: 0	Outpost Turn: 0
+< Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+< Player 1:
+< 	Hand Count: 5
+< 		4 1 1 1 4 
+< 	Deck Count: 8
+< 		5 4 21 11 5 1 4 1 
+< 	Num Discard: 28
+< 		0 1 4 4 4 1 4 0 5 4 1 10 5 10 5 4 1 4 5 10 0 25 5 4 4 0 10 13 
+< Player 2:
+< 	Hand Count: 0
+< 		
+< 	Deck Count: 14
+< 		5 5 1 2 10 1 5 7 4 3 5 4 25 4 
+< 	Num Discard: 14
+< 		4 4 5 1 4 10 10 21 5 4 4 10 11 4 
+< 
+< Played Cards: 0
+< 	
+< Player 1 actions: 
+< Player 1 bought card 22
+< Turn 84:
+< Full Game State:
+< Number of players: 2
+< Supplies:
+< 	Supply: 0	Count: 5	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 31	Embargo tokens: 1
+< 	Supply: 5	Count: 28	Embargo tokens: 0
+< 	Supply: 6	Count: 30	Embargo tokens: 0
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+< 	Supply: 8	Count: 9	Embargo tokens: 0
+< 	Supply: 9	Count: -1	Embargo tokens: 0
+< 	Supply: 10	Count: 1	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+< 	Supply: 12	Count: -1	Embargo tokens: 0
+< 	Supply: 13	Count: 6	Embargo tokens: 0
+< 	Supply: 14	Count: -1	Embargo tokens: 0
+< 	Supply: 15	Count: -1	Embargo tokens: 0
+< 	Supply: 16	Count: -1	Embargo tokens: 0
+< 	Supply: 17	Count: -1	Embargo tokens: 0
+< 	Supply: 18	Count: -1	Embargo tokens: 0
+< 	Supply: 19	Count: 8	Embargo tokens: 0
+< 	Supply: 20	Count: -1	Embargo tokens: 0
+< 	Supply: 21	Count: 6	Embargo tokens: 0
+< 	Supply: 22	Count: 3	Embargo tokens: 0
+< 	Supply: 23	Count: -1	Embargo tokens: 0
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 8	Embargo tokens: 0
+< 	Supply: 26	Count: -1	Embargo tokens: 0
+< Outpost played: 0	Outpost Turn: 0
+< Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+< Player 1:
+< 	Hand Count: 0
+< 		
+< 	Deck Count: 8
+< 		5 4 21 11 5 1 4 1 
+< 	Num Discard: 34
+< 		0 1 4 4 4 1 4 0 5 4 1 10 5 10 5 4 1 4 5 10 0 25 5 4 4 0 10 13 22 4 1 1 1 4 
+< Player 2:
+< 	Hand Count: 5
+< 		4 25 4 5 3 
+< 	Deck Count: 9
+< 		5 5 1 2 10 1 5 7 4 
+< 	Num Discard: 14
+< 		4 4 5 1 4 10 10 21 5 4 4 10 11 4 
+< 
+< Played Cards: 0
+< 	
+< Player 2 actions: 
+< Trying card 25...
+< Card 25 played by player 2!
+< Player 2 bought card 13
+< Turn 85:
+< Full Game State:
+< Number of players: 2
+< Supplies:
+< 	Supply: 0	Count: 5	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 31	Embargo tokens: 1
+< 	Supply: 5	Count: 28	Embargo tokens: 0
+< 	Supply: 6	Count: 30	Embargo tokens: 0
+< 	Supply: 7	Count: 9	Embargo tokens: 0
+< 	Supply: 8	Count: 9	Embargo tokens: 0
+< 	Supply: 9	Count: -1	Embargo tokens: 0
+< 	Supply: 10	Count: 1	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+< 	Supply: 12	Count: -1	Embargo tokens: 0
+< 	Supply: 13	Count: 5	Embargo tokens: 0
+< 	Supply: 14	Count: -1	Embargo tokens: 0
+< 	Supply: 15	Count: -1	Embargo tokens: 0
+< 	Supply: 16	Count: -1	Embargo tokens: 0
+< 	Supply: 17	Count: -1	Embargo tokens: 0
+< 	Supply: 18	Count: -1	Embargo tokens: 0
+< 	Supply: 19	Count: 8	Embargo tokens: 0
+< 	Supply: 20	Count: -1	Embargo tokens: 0
+< 	Supply: 21	Count: 6	Embargo tokens: 0
+< 	Supply: 22	Count: 3	Embargo tokens: 0
+< 	Supply: 23	Count: -1	Embargo tokens: 0
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 8	Embargo tokens: 0
+< 	Supply: 26	Count: -1	Embargo tokens: 0
+< Outpost played: 0	Outpost Turn: 0
+< Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+< Player 1:
+< 	Hand Count: 5
+< 		5 11 21 4 5 
+< 	Deck Count: 0
+< 		
+< 	Num Discard: 35
+< 		0 1 4 4 4 1 4 0 5 4 1 10 5 10 5 4 1 4 5 10 0 25 5 4 4 0 10 13 22 4 1 1 1 4 4 
+< Player 2:
+< 	Hand Count: 0
+< 		
+< 	Deck Count: 9
+< 		5 5 1 2 10 1 5 7 4 
+< 	Num Discard: 20
+< 		4 4 5 1 4 10 10 21 5 4 4 10 11 4 13 4 25 4 5 3 
+< 
+< Played Cards: 0
+< 	
+< Player 1 actions: 
+< Trying card 11...
+< Card 11 played by player 1!
+< Player 1 bought card 19
+< Turn 86:
+< Full Game State:
+< Number of players: 2
+< Supplies:
+< 	Supply: 0	Count: 5	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 31	Embargo tokens: 1
+< 	Supply: 5	Count: 28	Embargo tokens: 0
+---
+> 	Supply: 0	Count: 5	Embargo tokens: 0
+> 	Supply: 1	Count: 0	Embargo tokens: 2
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 34	Embargo tokens: 1
+> 	Supply: 5	Count: 31	Embargo tokens: 0
+4520c3448
+< 	Supply: 8	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 8	Count: 10	Embargo tokens: 0
+4522,4523c3450,3451
+< 	Supply: 10	Count: 1	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 4	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+4525c3453
+< 	Supply: 13	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+4531c3459
+< 	Supply: 19	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 10	Embargo tokens: 0
+4536,4537c3464,3465
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 6	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+4540c3468
+< Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 1	Number of buys: 1
+4544,4547c3472,3475
+< 	Deck Count: 0
+< 		
+< 	Num Discard: 41
+< 		0 1 4 4 4 1 4 0 5 4 1 10 5 10 5 4 1 4 5 10 0 25 5 4 4 0 10 13 22 4 1 1 1 4 4 19 5 11 21 4 5 
+---
+> 	Deck Count: 17
+> 		4 4 1 13 0 4 1 4 4 4 4 1 10 22 1 5 10 
+> 	Num Discard: 12
+> 		7 4 5 5 4 4 5 5 1 4 4 1 
+4550,4554c3478,3482
+< 		4 7 5 1 10 
+< 	Deck Count: 4
+< 		5 5 1 2 
+< 	Num Discard: 20
+< 		4 4 5 1 4 10 10 21 5 4 4 10 11 4 13 4 25 4 5 3 
+---
+> 		1 10 1 4 1 
+> 	Deck Count: 21
+> 		24 4 4 4 5 5 0 10 4 11 5 4 0 4 4 1 4 2 5 4 1 
+> 	Num Discard: 5
+> 		0 4 4 1 4 
+4559,4562c3487,3489
+< Trying card 7...
+< Card 7 played by player 2!
+< Player 2 bought card 5
+< Turn 87:
+---
+> Trying card 10...
+> Player 2 bought card 4
+> Turn 67:
+4566,4571c3493,3498
+< 	Supply: 0	Count: 5	Embargo tokens: 1
+< 	Supply: 1	Count: 0	Embargo tokens: 1
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 31	Embargo tokens: 1
+< 	Supply: 5	Count: 27	Embargo tokens: 0
+---
+> 	Supply: 0	Count: 5	Embargo tokens: 0
+> 	Supply: 1	Count: 0	Embargo tokens: 2
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 33	Embargo tokens: 1
+> 	Supply: 5	Count: 31	Embargo tokens: 0
+4574c3501
+< 	Supply: 8	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 8	Count: 10	Embargo tokens: 0
+4576,4577c3503,3504
+< 	Supply: 10	Count: 1	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 4	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+4579c3506
+< 	Supply: 13	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+4585c3512
+< 	Supply: 19	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 10	Embargo tokens: 0
+4590,4591c3517,3518
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 6	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+4597,4601c3524,3528
+< 		1 4 22 1 4 
+< 	Deck Count: 36
+< 		4 4 5 21 4 4 5 1 10 19 5 4 0 5 13 4 11 4 5 10 0 10 1 4 5 25 1 0 4 1 1 4 4 5 0 10 
+< 	Num Discard: 0
+< 		
+---
+> 		10 5 1 22 10 
+> 	Deck Count: 12
+> 		4 4 1 13 0 4 1 4 4 4 4 1 
+> 	Num Discard: 12
+> 		7 4 5 5 4 4 5 5 1 4 4 1 
+4605,4608c3532,3535
+< 	Deck Count: 0
+< 		
+< 	Num Discard: 30
+< 		4 4 5 1 4 10 10 21 5 4 4 10 11 4 13 4 25 4 5 3 1 2 5 4 7 5 1 10 5 5 
+---
+> 	Deck Count: 21
+> 		24 4 4 4 5 5 0 10 4 11 5 4 0 4 4 1 4 2 5 4 1 
+> 	Num Discard: 11
+> 		0 4 4 1 4 4 1 10 1 4 1 
+4612a3540
+> Trying card 10...
+4615,4616c3543,3544
+< Player 1 bought card 0
+< Turn 88:
+---
+> Player 1 bought card 4
+> Turn 68:
+4620c3548
+< 	Supply: 0	Count: 4	Embargo tokens: 1
+---
+> 	Supply: 0	Count: 5	Embargo tokens: 1
+4622,4625c3550,3553
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 31	Embargo tokens: 1
+< 	Supply: 5	Count: 27	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 32	Embargo tokens: 1
+> 	Supply: 5	Count: 31	Embargo tokens: 0
+4628c3556
+< 	Supply: 8	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 8	Count: 10	Embargo tokens: 0
+4630,4631c3558,3559
+< 	Supply: 10	Count: 1	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 4	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+4633c3561
+< 	Supply: 13	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+4639c3567
+< 	Supply: 19	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 10	Embargo tokens: 0
+4644,4645c3572,3573
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 6	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+4648c3576
+< Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+4652,4655c3580,3583
+< 	Deck Count: 36
+< 		4 4 5 21 4 4 5 1 10 19 5 4 0 5 13 4 11 4 5 10 0 10 1 4 5 25 1 0 4 1 1 4 4 5 0 10 
+< 	Num Discard: 5
+< 		0 1 4 4 1 
+---
+> 	Deck Count: 12
+> 		4 4 1 13 0 4 1 4 4 4 4 1 
+> 	Num Discard: 17
+> 		7 4 5 5 4 4 5 5 1 4 4 1 4 10 5 1 10 
+4658,4662c3586,3590
+< 		7 5 1 10 4 
+< 	Deck Count: 25
+< 		4 5 21 13 25 3 4 4 10 10 4 4 11 10 5 5 4 5 1 4 1 4 2 5 5 
+< 	Num Discard: 0
+< 		
+---
+> 		1 4 5 2 4 
+> 	Deck Count: 16
+> 		24 4 4 4 5 5 0 10 4 11 5 4 0 4 4 1 
+> 	Num Discard: 11
+> 		0 4 4 1 4 4 1 10 1 4 1 
+4667,4670c3595,3596
+< Trying card 7...
+< Card 7 played by player 2!
+< Player 2 bought card 6
+< Turn 89:
+---
+> Player 2 bought card 5
+> Turn 69:
+4674c3600
+< 	Supply: 0	Count: 4	Embargo tokens: 1
+---
+> 	Supply: 0	Count: 5	Embargo tokens: 1
+4676,4680c3602,3606
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 31	Embargo tokens: 1
+< 	Supply: 5	Count: 27	Embargo tokens: 0
+< 	Supply: 6	Count: 29	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 32	Embargo tokens: 1
+> 	Supply: 5	Count: 30	Embargo tokens: 0
+> 	Supply: 6	Count: 30	Embargo tokens: 0
+4682c3608
+< 	Supply: 8	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 8	Count: 10	Embargo tokens: 0
+4684,4685c3610,3611
+< 	Supply: 10	Count: 1	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 4	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+4687c3613
+< 	Supply: 13	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+4693c3619
+< 	Supply: 19	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 10	Embargo tokens: 0
+4698,4699c3624,3625
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 6	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+4705,4709c3631,3635
+< 		10 0 5 4 4 
+< 	Deck Count: 31
+< 		4 4 5 21 4 4 5 1 10 19 5 4 0 5 13 4 11 4 5 10 0 10 1 4 5 25 1 0 4 1 1 
+< 	Num Discard: 5
+< 		0 1 4 4 1 
+---
+> 		1 4 4 4 4 
+> 	Deck Count: 7
+> 		4 4 1 13 0 4 1 
+> 	Num Discard: 17
+> 		7 4 5 5 4 4 5 5 1 4 4 1 4 10 5 1 10 
+4713,4716c3639,3642
+< 	Deck Count: 23
+< 		4 5 21 13 25 3 4 4 10 10 4 4 11 10 5 5 4 5 1 4 1 4 2 
+< 	Num Discard: 8
+< 		6 7 5 1 10 4 5 5 
+---
+> 	Deck Count: 16
+> 		24 4 4 4 5 5 0 10 4 11 5 4 0 4 4 1 
+> 	Num Discard: 17
+> 		0 4 4 1 4 4 1 10 1 4 1 5 1 4 5 2 4 
+4721,4723c3647,3648
+< Trying card 10...
+< Player 1 bought card 10
+< Turn 90:
+---
+> Player 1 bought card 24
+> Turn 70:
+4727c3652
+< 	Supply: 0	Count: 4	Embargo tokens: 1
+---
+> 	Supply: 0	Count: 5	Embargo tokens: 1
+4729,4733c3654,3658
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 31	Embargo tokens: 1
+< 	Supply: 5	Count: 27	Embargo tokens: 0
+< 	Supply: 6	Count: 29	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+> 	Supply: 4	Count: 32	Embargo tokens: 1
+> 	Supply: 5	Count: 30	Embargo tokens: 0
+> 	Supply: 6	Count: 30	Embargo tokens: 0
+4735c3660
+< 	Supply: 8	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 8	Count: 10	Embargo tokens: 0
+4737,4738c3662,3663
+< 	Supply: 10	Count: 0	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 4	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+4740c3665
+< 	Supply: 13	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+4746c3671
+< 	Supply: 19	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 10	Embargo tokens: 0
+4751,4752c3676,3677
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 5	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+4755c3680
+< Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+4759,4762c3684,3687
+< 	Deck Count: 31
+< 		4 4 5 21 4 4 5 1 10 19 5 4 0 5 13 4 11 4 5 10 0 10 1 4 5 25 1 0 4 1 1 
+< 	Num Discard: 11
+< 		0 1 4 4 1 10 10 0 5 4 4 
+---
+> 	Deck Count: 7
+> 		4 4 1 13 0 4 1 
+> 	Num Discard: 23
+> 		7 4 5 5 4 4 5 5 1 4 4 1 4 10 5 1 10 24 1 4 4 4 4 
+4765,4769c3690,3694
+< 		2 4 1 4 1 
+< 	Deck Count: 18
+< 		4 5 21 13 25 3 4 4 10 10 4 4 11 10 5 5 4 5 
+< 	Num Discard: 8
+< 		6 7 5 1 10 4 5 5 
+---
+> 		1 4 4 0 4 
+> 	Deck Count: 11
+> 		24 4 4 4 5 5 0 10 4 11 5 
+> 	Num Discard: 17
+> 		0 4 4 1 4 4 1 10 1 4 1 5 1 4 5 2 4 
+4774,4775c3699,3700
+< Player 2 bought card 6
+< Turn 91:
+---
+> Player 2 bought card 4
+> Turn 71:
+4779c3704
+< 	Supply: 0	Count: 4	Embargo tokens: 1
+---
+> 	Supply: 0	Count: 5	Embargo tokens: 1
+4781,4782c3706,3707
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+4784,4785c3709,3710
+< 	Supply: 5	Count: 27	Embargo tokens: 0
+< 	Supply: 6	Count: 29	Embargo tokens: 0
+---
+> 	Supply: 5	Count: 30	Embargo tokens: 0
+> 	Supply: 6	Count: 30	Embargo tokens: 0
+4787c3712
+< 	Supply: 8	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 8	Count: 10	Embargo tokens: 0
+4789,4790c3714,3715
+< 	Supply: 10	Count: 0	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 4	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+4792c3717
+< 	Supply: 13	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+4798c3723
+< 	Supply: 19	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 10	Embargo tokens: 0
+4803,4804c3728,3729
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 5	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+4810,4814c3735,3739
+< 		1 1 4 0 1 
+< 	Deck Count: 26
+< 		4 4 5 21 4 4 5 1 10 19 5 4 0 5 13 4 11 4 5 10 0 10 1 4 5 25 
+< 	Num Discard: 11
+< 		0 1 4 4 1 10 10 0 5 4 4 
+---
+> 		1 4 0 13 1 
+> 	Deck Count: 2
+> 		4 4 
+> 	Num Discard: 23
+> 		7 4 5 5 4 4 5 5 1 4 4 1 4 10 5 1 10 24 1 4 4 4 4 
+4818,4821c3743,3746
+< 	Deck Count: 18
+< 		4 5 21 13 25 3 4 4 10 10 4 4 11 10 5 5 4 5 
+< 	Num Discard: 13
+< 		6 7 5 1 10 4 5 5 2 4 1 4 1 
+---
+> 	Deck Count: 11
+> 		24 4 4 4 5 5 0 10 4 11 5 
+> 	Num Discard: 23
+> 		0 4 4 1 4 4 1 10 1 4 1 5 1 4 5 2 4 4 1 4 4 0 4 
+4826,4827c3751,3754
+< Player 1 bought card 25
+< Turn 92:
+---
+> Trying card 13...
+> Card 13 played by player 1!
+> Player 1 bought card 10
+> Turn 72:
+4831c3758
+< 	Supply: 0	Count: 4	Embargo tokens: 1
+---
+> 	Supply: 0	Count: 5	Embargo tokens: 1
+4833,4834c3760,3761
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 8	Embargo tokens: 2
+4836,4837c3763,3764
+< 	Supply: 5	Count: 27	Embargo tokens: 0
+< 	Supply: 6	Count: 29	Embargo tokens: 0
+---
+> 	Supply: 5	Count: 30	Embargo tokens: 0
+> 	Supply: 6	Count: 30	Embargo tokens: 0
+4839c3766
+< 	Supply: 8	Count: 9	Embargo tokens: 0
+---
+> 	Supply: 8	Count: 10	Embargo tokens: 0
+4841,4842c3768,3769
+< 	Supply: 10	Count: 0	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 3	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+4844c3771
+< 	Supply: 13	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+4850c3777
+< 	Supply: 19	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 10	Embargo tokens: 0
+4855,4856c3782,3783
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 5	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+4859c3786
+< Phase: 0	Number of actions: 1	 Coins: 7	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+4863,4866c3790,3793
+< 	Deck Count: 26
+< 		4 4 5 21 4 4 5 1 10 19 5 4 0 5 13 4 11 4 5 10 0 10 1 4 5 25 
+< 	Num Discard: 16
+< 		0 1 4 4 1 10 10 0 5 4 4 1 1 4 0 1 
+---
+> 	Deck Count: 22
+> 		1 1 4 4 1 4 4 5 4 1 7 5 5 5 10 5 4 4 4 24 10 4 
+> 	Num Discard: 8
+> 		10 1 4 0 4 1 4 4 
+4869,4873c3796,3800
+< 		5 4 5 5 10 
+< 	Deck Count: 13
+< 		4 5 21 13 25 3 4 4 10 10 4 4 11 
+< 	Num Discard: 13
+< 		6 7 5 1 10 4 5 5 2 4 1 4 1 
+---
+> 		5 11 4 10 0 
+> 	Deck Count: 6
+> 		24 4 4 4 5 5 
+> 	Num Discard: 23
+> 		0 4 4 1 4 4 1 10 1 4 1 5 1 4 5 2 4 4 1 4 4 0 4 
+4878,4880c3805,3808
+< Trying card 10...
+< Player 2 bought card 8
+< Turn 93:
+---
+> Trying card 11...
+> Card 11 played by player 2!
+> Player 2 bought card 4
+> Turn 73:
+4884c3812
+< 	Supply: 0	Count: 4	Embargo tokens: 1
+---
+> 	Supply: 0	Count: 5	Embargo tokens: 1
+4886,4890c3814,3818
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 31	Embargo tokens: 1
+< 	Supply: 5	Count: 27	Embargo tokens: 0
+< 	Supply: 6	Count: 29	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 7	Embargo tokens: 2
+> 	Supply: 4	Count: 30	Embargo tokens: 1
+> 	Supply: 5	Count: 30	Embargo tokens: 0
+> 	Supply: 6	Count: 30	Embargo tokens: 0
+4892c3820
+< 	Supply: 8	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 8	Count: 10	Embargo tokens: 0
+4894,4895c3822,3823
+< 	Supply: 10	Count: 0	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 3	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+4897c3825
+< 	Supply: 13	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+4903c3831
+< 	Supply: 19	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 10	Embargo tokens: 0
+4908,4909c3836,3837
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 5	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+4915,4919c3843,3847
+< 		25 5 4 1 10 
+< 	Deck Count: 21
+< 		4 4 5 21 4 4 5 1 10 19 5 4 0 5 13 4 11 4 5 10 0 
+< 	Num Discard: 16
+< 		0 1 4 4 1 10 10 0 5 4 4 1 1 4 0 1 
+---
+> 		4 10 24 4 4 
+> 	Deck Count: 17
+> 		1 1 4 4 1 4 4 5 4 1 7 5 5 5 10 5 4 
+> 	Num Discard: 8
+> 		10 1 4 0 4 1 4 4 
+4923,4926c3851,3854
+< 	Deck Count: 13
+< 		4 5 21 13 25 3 4 4 10 10 4 4 11 
+< 	Num Discard: 19
+< 		6 7 5 1 10 4 5 5 2 4 1 4 1 8 5 4 5 5 10 
+---
+> 	Deck Count: 6
+> 		24 4 4 4 5 5 
+> 	Num Discard: 28
+> 		0 4 4 1 4 4 1 10 1 4 1 5 1 4 5 2 4 4 1 4 4 0 4 4 5 11 3 10 
+4931,4934c3859,3863
+< Trying card 25...
+< Card 25 played by player 1!
+< Player 1 bought card 5
+< Turn 94:
+---
+> Trying card 10...
+> Trying card 24...
+> Card 24 played by player 1!
+> Player 1 bought card 4
+> Turn 74:
+4938c3867
+< 	Supply: 0	Count: 4	Embargo tokens: 1
+---
+> 	Supply: 0	Count: 5	Embargo tokens: 1
+4940,4944c3869,3873
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 31	Embargo tokens: 1
+< 	Supply: 5	Count: 26	Embargo tokens: 0
+< 	Supply: 6	Count: 29	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 7	Embargo tokens: 2
+> 	Supply: 4	Count: 29	Embargo tokens: 1
+> 	Supply: 5	Count: 30	Embargo tokens: 0
+> 	Supply: 6	Count: 30	Embargo tokens: 0
+4946c3875
+< 	Supply: 8	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 8	Count: 10	Embargo tokens: 0
+4948,4949c3877,3878
+< 	Supply: 10	Count: 0	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 3	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+4951c3880
+< 	Supply: 13	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+4957c3886
+< 	Supply: 19	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 10	Embargo tokens: 0
+4962,4963c3891,3892
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 5	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+4966c3895
+< Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 7	Number of buys: 1
+4970,4973c3899,3902
+< 	Deck Count: 21
+< 		4 4 5 21 4 4 5 1 10 19 5 4 0 5 13 4 11 4 5 10 0 
+< 	Num Discard: 22
+< 		0 1 4 4 1 10 10 0 5 4 4 1 1 4 0 1 5 25 5 4 1 10 
+---
+> 	Deck Count: 17
+> 		1 1 4 4 1 4 4 5 4 1 7 5 5 5 10 5 4 
+> 	Num Discard: 13
+> 		10 1 4 0 4 1 4 4 4 4 10 4 4 
+4976,4980c3905,3909
+< 		10 10 4 4 3 
+< 	Deck Count: 5
+< 		4 5 21 13 25 
+< 	Num Discard: 20
+< 		6 7 5 1 10 4 5 5 2 4 1 4 1 8 5 4 5 5 10 10 
+---
+> 		5 5 4 4 4 
+> 	Deck Count: 1
+> 		24 
+> 	Num Discard: 28
+> 		0 4 4 1 4 4 1 10 1 4 1 5 1 4 5 2 4 4 1 4 4 0 4 4 5 11 3 10 
+4983,4988c3912,3915
+< 	
+< Player 2 actions: 
+< Trying card 10...
+< Trying card 10...
+< Player 2 bought card 0
+< Turn 95:
+---
+> 	
+> Player 2 actions: 
+> Player 2 bought card 19
+> Turn 75:
+4992c3919
+< 	Supply: 0	Count: 3	Embargo tokens: 1
+---
+> 	Supply: 0	Count: 5	Embargo tokens: 1
+4994,4998c3921,3925
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 31	Embargo tokens: 1
+< 	Supply: 5	Count: 26	Embargo tokens: 0
+< 	Supply: 6	Count: 29	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 7	Embargo tokens: 2
+> 	Supply: 4	Count: 29	Embargo tokens: 1
+> 	Supply: 5	Count: 30	Embargo tokens: 0
+> 	Supply: 6	Count: 30	Embargo tokens: 0
+5000c3927
+< 	Supply: 8	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 8	Count: 10	Embargo tokens: 0
+5002,5003c3929,3930
+< 	Supply: 10	Count: 0	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 3	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+5005c3932
+< 	Supply: 13	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+5011c3938
+< 	Supply: 19	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 9	Embargo tokens: 0
+5016,5017c3943,3944
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 5	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+5020c3947
+< Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 7	Number of buys: 1
+5023,5027c3950,3954
+< 		0 10 5 4 11 
+< 	Deck Count: 16
+< 		4 4 5 21 4 4 5 1 10 19 5 4 0 5 13 4 
+< 	Num Discard: 22
+< 		0 1 4 4 1 10 10 0 5 4 4 1 1 4 0 1 5 25 5 4 1 10 
+---
+> 		4 5 10 5 5 
+> 	Deck Count: 12
+> 		1 1 4 4 1 4 4 5 4 1 7 5 
+> 	Num Discard: 13
+> 		10 1 4 0 4 1 4 4 4 4 10 4 4 
+5031,5034c3958,3961
+< 	Deck Count: 5
+< 		4 5 21 13 25 
+< 	Num Discard: 26
+< 		6 7 5 1 10 4 5 5 2 4 1 4 1 8 5 4 5 5 10 10 0 10 10 4 4 3 
+---
+> 	Deck Count: 1
+> 		24 
+> 	Num Discard: 34
+> 		0 4 4 1 4 4 1 10 1 4 1 5 1 4 5 2 4 4 1 4 4 0 4 4 5 11 3 10 19 5 5 4 4 4 
+5040,5043c3967,3968
+< Trying card 11...
+< Card 11 played by player 1!
+< Player 1 bought card 4
+< Turn 96:
+---
+> Player 1 bought card 10
+> Turn 76:
+5047c3972
+< 	Supply: 0	Count: 3	Embargo tokens: 1
+---
+> 	Supply: 0	Count: 5	Embargo tokens: 1
+5049,5053c3974,3978
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 30	Embargo tokens: 1
+< 	Supply: 5	Count: 26	Embargo tokens: 0
+< 	Supply: 6	Count: 29	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 7	Embargo tokens: 2
+> 	Supply: 4	Count: 29	Embargo tokens: 1
+> 	Supply: 5	Count: 30	Embargo tokens: 0
+> 	Supply: 6	Count: 30	Embargo tokens: 0
+5055c3980
+< 	Supply: 8	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 8	Count: 10	Embargo tokens: 0
+5057,5058c3982,3983
+< 	Supply: 10	Count: 0	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 2	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+5060c3985
+< 	Supply: 13	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+5066c3991
+< 	Supply: 19	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 9	Embargo tokens: 0
+5071,5072c3996,3997
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 5	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+5075c4000
+< Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+5079,5082c4004,4007
+< 	Deck Count: 16
+< 		4 4 5 21 4 4 5 1 10 19 5 4 0 5 13 4 
+< 	Num Discard: 28
+< 		0 1 4 4 1 10 10 0 5 4 4 1 1 4 0 1 5 25 5 4 1 10 4 0 10 5 4 11 
+---
+> 	Deck Count: 12
+> 		1 1 4 4 1 4 4 5 4 1 7 5 
+> 	Num Discard: 19
+> 		10 1 4 0 4 1 4 4 4 4 10 4 4 10 4 5 10 5 5 
+5085,5086c4010,4013
+< 		25 13 21 5 4 
+< 	Deck Count: 0
+---
+> 		24 4 4 4 4 
+> 	Deck Count: 30
+> 		4 4 4 1 2 1 0 5 1 4 5 4 19 10 5 3 4 4 4 1 1 1 4 11 5 0 4 4 5 10 
+> 	Num Discard: 0
+5088,5089d4014
+< 	Num Discard: 26
+< 		6 7 5 1 10 4 5 5 2 4 1 4 1 8 5 4 5 5 10 10 0 10 10 4 4 3 
+5094,5095c4019,4020
+< Trying card 25...
+< Card 25 played by player 2!
+---
+> Trying card 24...
+> Card 24 played by player 2!
+5097c4022
+< Turn 97:
+---
+> Turn 77:
+5101c4026
+< 	Supply: 0	Count: 2	Embargo tokens: 1
+---
+> 	Supply: 0	Count: 4	Embargo tokens: 1
+5103,5107c4028,4032
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 30	Embargo tokens: 1
+< 	Supply: 5	Count: 26	Embargo tokens: 0
+< 	Supply: 6	Count: 29	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 7	Embargo tokens: 2
+> 	Supply: 4	Count: 29	Embargo tokens: 1
+> 	Supply: 5	Count: 30	Embargo tokens: 0
+> 	Supply: 6	Count: 30	Embargo tokens: 0
+5109c4034
+< 	Supply: 8	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 8	Count: 10	Embargo tokens: 0
+5111,5112c4036,4037
+< 	Supply: 10	Count: 0	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 2	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+5114c4039
+< 	Supply: 13	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+5120c4045
+< 	Supply: 19	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 9	Embargo tokens: 0
+5125,5126c4050,4051
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 5	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+5129c4054
+< Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+5132,5136c4057,4061
+< 		0 4 5 19 10 
+< 	Deck Count: 8
+< 		4 4 5 21 4 4 5 1 
+< 	Num Discard: 29
+< 		0 1 4 4 1 10 10 0 5 4 4 1 1 4 0 1 5 25 5 4 1 10 4 0 10 5 4 11 11 
+---
+> 		5 7 1 4 5 
+> 	Deck Count: 7
+> 		1 1 4 4 1 4 4 
+> 	Num Discard: 19
+> 		10 1 4 0 4 1 4 4 4 4 10 4 4 10 4 5 10 5 5 
+5140,5143c4065,4068
+< 	Deck Count: 0
+< 		
+< 	Num Discard: 32
+< 		6 7 5 1 10 4 5 5 2 4 1 4 1 8 5 4 5 5 10 10 0 10 10 4 4 3 0 25 13 21 5 4 
+---
+> 	Deck Count: 30
+> 		4 4 4 1 2 1 0 5 1 4 5 4 19 10 5 3 4 4 4 1 1 1 4 11 5 0 4 4 5 10 
+> 	Num Discard: 4
+> 		0 4 4 4 
+5148,5151c4073,4076
+< Trying card 19...
+< Card 19 played by player 1!
+< Player 1 bought card 22
+< Turn 98:
+---
+> Trying card 7...
+> Card 7 played by player 1!
+> Player 1 bought card 0
+> Turn 78:
+5155c4080
+< 	Supply: 0	Count: 2	Embargo tokens: 1
+---
+> 	Supply: 0	Count: 3	Embargo tokens: 1
+5157,5161c4082,4086
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 30	Embargo tokens: 1
+< 	Supply: 5	Count: 26	Embargo tokens: 0
+< 	Supply: 6	Count: 29	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 7	Embargo tokens: 2
+> 	Supply: 4	Count: 29	Embargo tokens: 1
+> 	Supply: 5	Count: 30	Embargo tokens: 0
+> 	Supply: 6	Count: 30	Embargo tokens: 0
+5163c4088
+< 	Supply: 8	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 8	Count: 10	Embargo tokens: 0
+5165,5166c4090,4091
+< 	Supply: 10	Count: 0	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 2	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+5168c4093
+< 	Supply: 13	Count: 5	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+5174c4099
+< 	Supply: 19	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 9	Embargo tokens: 0
+5177c4102
+< 	Supply: 22	Count: 2	Embargo tokens: 0
+---
+> 	Supply: 22	Count: 3	Embargo tokens: 0
+5179,5180c4104,4105
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 5	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+5183c4108
+< Phase: 0	Number of actions: 1	 Coins: 8	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+5187,5190c4112,4115
+< 	Deck Count: 6
+< 		4 4 5 21 4 4 
+< 	Num Discard: 36
+< 		0 1 4 4 1 10 10 0 5 4 4 1 1 4 0 1 5 25 5 4 1 10 4 0 10 5 4 11 11 22 0 4 5 5 10 1 
+---
+> 	Deck Count: 5
+> 		1 1 4 4 1 
+> 	Num Discard: 27
+> 		10 1 4 0 4 1 4 4 4 4 10 4 4 10 4 5 10 5 5 0 5 7 1 4 5 4 4 
+5193,5197c4118,4122
+< 		5 5 5 7 5 
+< 	Deck Count: 9
+< 		1 2 10 4 1 8 4 6 4 
+< 	Num Discard: 18
+< 		-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 1 4 
+---
+> 		10 5 4 4 0 
+> 	Deck Count: 25
+> 		4 4 4 1 2 1 0 5 1 4 5 4 19 10 5 3 4 4 4 1 1 1 4 11 5 
+> 	Num Discard: 4
+> 		0 4 4 4 
+5202,5205c4127,4129
+< Trying card 7...
+< Card 7 played by player 2!
+< Player 2 bought card 13
+< Turn 99:
+---
+> Trying card 10...
+> Player 2 bought card 4
+> Turn 79:
+5209c4133
+< 	Supply: 0	Count: 2	Embargo tokens: 1
+---
+> 	Supply: 0	Count: 3	Embargo tokens: 1
+5211,5215c4135,4139
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 30	Embargo tokens: 1
+< 	Supply: 5	Count: 26	Embargo tokens: 0
+< 	Supply: 6	Count: 29	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 7	Embargo tokens: 2
+> 	Supply: 4	Count: 28	Embargo tokens: 1
+> 	Supply: 5	Count: 30	Embargo tokens: 0
+> 	Supply: 6	Count: 30	Embargo tokens: 0
+5217c4141
+< 	Supply: 8	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 8	Count: 10	Embargo tokens: 0
+5219,5220c4143,4144
+< 	Supply: 10	Count: 0	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 2	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+5222c4146
+< 	Supply: 13	Count: 4	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+5228c4152
+< 	Supply: 19	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 9	Embargo tokens: 0
+5231c4155
+< 	Supply: 22	Count: 2	Embargo tokens: 0
+---
+> 	Supply: 22	Count: 3	Embargo tokens: 0
+5233,5234c4157,4158
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 5	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+5237c4161
+< Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+5240,5244c4164,4168
+< 		4 4 21 5 4 
+< 	Deck Count: 1
+< 		4 
+< 	Num Discard: 36
+< 		0 1 4 4 1 10 10 0 5 4 4 1 1 4 0 1 5 25 5 4 1 10 4 0 10 5 4 11 11 22 0 4 5 5 10 1 
+---
+> 		1 4 4 1 1 
+> 	Deck Count: 0
+> 		
+> 	Num Discard: 27
+> 		10 1 4 0 4 1 4 4 4 4 10 4 4 10 4 5 10 5 5 0 5 7 1 4 5 4 4 
+5248,5251c4172,4175
+< 	Deck Count: 7
+< 		1 2 10 4 1 8 4 
+< 	Num Discard: 26
+< 		-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 1 4 13 5 5 5 7 5 4 6 
+---
+> 	Deck Count: 25
+> 		4 4 4 1 2 1 0 5 1 4 5 4 19 10 5 3 4 4 4 1 1 1 4 11 5 
+> 	Num Discard: 10
+> 		0 4 4 4 4 10 5 4 4 0 
+5256,5259c4180,4181
+< Trying card 21...
+< Card 21 played by player 1!
+< Player 1 bought card 0
+< Turn 100:
+---
+> Player 1 bought card 22
+> Turn 80:
+5263c4185
+< 	Supply: 0	Count: 1	Embargo tokens: 1
+---
+> 	Supply: 0	Count: 3	Embargo tokens: 1
+5265,5269c4187,4191
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 30	Embargo tokens: 1
+< 	Supply: 5	Count: 26	Embargo tokens: 0
+< 	Supply: 6	Count: 29	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 7	Embargo tokens: 2
+> 	Supply: 4	Count: 28	Embargo tokens: 1
+> 	Supply: 5	Count: 30	Embargo tokens: 0
+> 	Supply: 6	Count: 30	Embargo tokens: 0
+5271c4193
+< 	Supply: 8	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 8	Count: 10	Embargo tokens: 0
+5273,5274c4195,4196
+< 	Supply: 10	Count: 0	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 2	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+5276c4198
+< 	Supply: 13	Count: 4	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+5282c4204
+< 	Supply: 19	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 9	Embargo tokens: 0
+5287,5288c4209,4210
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 5	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+5291c4213
+< Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+5295,5298c4217,4220
+< 	Deck Count: 1
+< 		4 
+< 	Num Discard: 41
+< 		0 1 4 4 1 10 10 0 5 4 4 1 1 4 0 1 5 25 5 4 1 10 4 0 10 5 4 11 11 22 0 4 5 5 10 1 0 4 4 4 5 
+---
+> 	Deck Count: 0
+> 		
+> 	Num Discard: 33
+> 		10 1 4 0 4 1 4 4 4 4 10 4 4 10 4 5 10 5 5 0 5 7 1 4 5 4 4 22 1 4 4 1 1 
+5301,5305c4223,4227
+< 		4 8 1 4 10 
+< 	Deck Count: 2
+< 		1 2 
+< 	Num Discard: 26
+< 		-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 1 4 13 5 5 5 7 5 4 6 
+---
+> 		5 11 4 1 1 
+> 	Deck Count: 20
+> 		4 4 4 1 2 1 0 5 1 4 5 4 19 10 5 3 4 4 4 1 
+> 	Num Discard: 10
+> 		0 4 4 4 4 10 5 4 4 0 
+5310,5311c4232,4233
+< Trying card 8...
+< Card 8 played by player 2!
+---
+> Trying card 11...
+> Card 11 played by player 2!
+5313,5314c4235
+< Player 2 bought card 11
+< Turn 101:
+---
+> Turn 81:
+5318c4239
+< 	Supply: 0	Count: 1	Embargo tokens: 1
+---
+> 	Supply: 0	Count: 3	Embargo tokens: 1
+5320,5324c4241,4245
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 30	Embargo tokens: 1
+< 	Supply: 5	Count: 26	Embargo tokens: 0
+< 	Supply: 6	Count: 29	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 6	Embargo tokens: 2
+> 	Supply: 4	Count: 28	Embargo tokens: 1
+> 	Supply: 5	Count: 30	Embargo tokens: 0
+> 	Supply: 6	Count: 30	Embargo tokens: 0
+5326c4247
+< 	Supply: 8	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 8	Count: 10	Embargo tokens: 0
+5328,5329c4249,4250
+< 	Supply: 10	Count: 0	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 2	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+5331c4252
+< 	Supply: 13	Count: 4	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+5337c4258
+< 	Supply: 19	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 9	Embargo tokens: 0
+5342,5343c4263,4264
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 5	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+5346c4267
+< Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 1	Number of buys: 1
+5349,5351c4270,4272
+< 		4 4 5 11 25 
+< 	Deck Count: 36
+< 		1 4 10 11 5 1 0 4 4 0 1 4 0 4 4 5 0 4 5 1 1 10 5 10 22 10 5 4 1 0 5 10 4 4 0 1 
+---
+> 		0 4 1 10 10 
+> 	Deck Count: 28
+> 		4 22 7 10 4 5 1 5 1 4 4 4 4 4 1 1 5 0 4 5 4 1 4 4 10 4 5 4 
+5357,5360c4278,4281
+< 	Deck Count: 24
+< 		7 -1 -1 4 -1 -1 -1 -1 -1 -1 -1 4 5 -1 5 13 -1 5 -1 -1 5 1 -1 6 
+< 	Num Discard: 8
+< 		4 -1 1 4 10 2 1 -1 
+---
+> 	Deck Count: 20
+> 		4 4 4 1 2 1 0 5 1 4 5 4 19 10 5 3 4 4 4 1 
+> 	Num Discard: 14
+> 		0 4 4 4 4 10 5 4 4 0 3 11 4 1 
+5365,5368c4286,4289
+< Trying card 11...
+< Card 11 played by player 1!
+< Player 1 bought card 25
+< Turn 102:
+---
+> Trying card 10...
+> Trying card 10...
+> Player 1 bought card 4
+> Turn 82:
+5372c4293
+< 	Supply: 0	Count: 1	Embargo tokens: 1
+---
+> 	Supply: 0	Count: 3	Embargo tokens: 1
+5374,5378c4295,4299
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 30	Embargo tokens: 1
+< 	Supply: 5	Count: 26	Embargo tokens: 0
+< 	Supply: 6	Count: 29	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 6	Embargo tokens: 2
+> 	Supply: 4	Count: 27	Embargo tokens: 1
+> 	Supply: 5	Count: 30	Embargo tokens: 0
+> 	Supply: 6	Count: 30	Embargo tokens: 0
+5380c4301
+< 	Supply: 8	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 8	Count: 10	Embargo tokens: 0
+5382,5383c4303,4304
+< 	Supply: 10	Count: 0	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 2	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+5385c4306
+< 	Supply: 13	Count: 4	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+5391c4312
+< 	Supply: 19	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 9	Embargo tokens: 0
+5396,5397c4317,4318
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 5	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+5400c4321
+< Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+5404,5405c4325,4326
+< 	Deck Count: 36
+< 		1 4 10 11 5 1 0 4 4 0 1 4 0 4 4 5 0 4 5 1 1 10 5 10 22 10 5 4 1 0 5 10 4 4 0 1 
+---
+> 	Deck Count: 28
+> 		4 22 7 10 4 5 1 5 1 4 4 4 4 4 1 1 5 0 4 5 4 1 4 4 10 4 5 4 
+5407c4328
+< 		25 4 4 5 11 25 
+---
+> 		4 0 4 1 10 10 
+5410,5414c4331,4335
+< 		6 -1 1 5 -1 
+< 	Deck Count: 19
+< 		7 -1 -1 4 -1 -1 -1 -1 -1 -1 -1 4 5 -1 5 13 -1 5 -1 
+< 	Num Discard: 8
+< 		4 -1 1 4 10 2 1 -1 
+---
+> 		1 4 4 4 3 
+> 	Deck Count: 15
+> 		4 4 4 1 2 1 0 5 1 4 5 4 19 10 5 
+> 	Num Discard: 14
+> 		0 4 4 4 4 10 5 4 4 0 3 11 4 1 
+5419,5420c4340,4341
+< Player 2 bought card 22
+< Turn 103:
+---
+> Player 2 bought card 4
+> Turn 83:
+5424c4345
+< 	Supply: 0	Count: 1	Embargo tokens: 1
+---
+> 	Supply: 0	Count: 3	Embargo tokens: 1
+5426,5430c4347,4351
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 30	Embargo tokens: 1
+< 	Supply: 5	Count: 26	Embargo tokens: 0
+< 	Supply: 6	Count: 29	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 6	Embargo tokens: 2
+> 	Supply: 4	Count: 26	Embargo tokens: 1
+> 	Supply: 5	Count: 30	Embargo tokens: 0
+> 	Supply: 6	Count: 30	Embargo tokens: 0
+5432c4353
+< 	Supply: 8	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 8	Count: 10	Embargo tokens: 0
+5434,5435c4355,4356
+< 	Supply: 10	Count: 0	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 2	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+5437c4358
+< 	Supply: 13	Count: 4	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+5443c4364
+< 	Supply: 19	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 9	Embargo tokens: 0
+5446c4367
+< 	Supply: 22	Count: 1	Embargo tokens: 0
+---
+> 	Supply: 22	Count: 2	Embargo tokens: 0
+5448,5449c4369,4370
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 5	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+5452c4373
+< Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+5455,5457c4376,4378
+< 		1 0 4 4 10 
+< 	Deck Count: 31
+< 		1 4 10 11 5 1 0 4 4 0 1 4 0 4 4 5 0 4 5 1 1 10 5 10 22 10 5 4 1 0 5 
+---
+> 		4 5 4 10 4 
+> 	Deck Count: 23
+> 		4 22 7 10 4 5 1 5 1 4 4 4 4 4 1 1 5 0 4 5 4 1 4 
+5459c4380
+< 		25 4 4 5 11 25 
+---
+> 		4 0 4 1 10 10 
+5463,5466c4384,4387
+< 	Deck Count: 19
+< 		7 -1 -1 4 -1 -1 -1 -1 -1 -1 -1 4 5 -1 5 13 -1 5 -1 
+< 	Num Discard: 14
+< 		4 -1 1 4 10 2 1 -1 22 6 -1 1 5 -1 
+---
+> 	Deck Count: 15
+> 		4 4 4 1 2 1 0 5 1 4 5 4 19 10 5 
+> 	Num Discard: 20
+> 		0 4 4 4 4 10 5 4 4 0 3 11 4 1 4 1 4 4 4 3 
+5472,5473c4393,4394
+< Player 1 bought card 4
+< Turn 104:
+---
+> Player 1 bought card 5
+> Turn 84:
+5477c4398
+< 	Supply: 0	Count: 1	Embargo tokens: 1
+---
+> 	Supply: 0	Count: 3	Embargo tokens: 1
+5479,5483c4400,4404
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 29	Embargo tokens: 1
+< 	Supply: 5	Count: 26	Embargo tokens: 0
+< 	Supply: 6	Count: 29	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 6	Embargo tokens: 2
+> 	Supply: 4	Count: 26	Embargo tokens: 1
+> 	Supply: 5	Count: 29	Embargo tokens: 0
+> 	Supply: 6	Count: 30	Embargo tokens: 0
+5485c4406
+< 	Supply: 8	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 8	Count: 10	Embargo tokens: 0
+5487,5488c4408,4409
+< 	Supply: 10	Count: 0	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 2	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+5490c4411
+< 	Supply: 13	Count: 4	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+5496c4417
+< 	Supply: 19	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 9	Embargo tokens: 0
+5499c4420
+< 	Supply: 22	Count: 1	Embargo tokens: 0
+---
+> 	Supply: 22	Count: 2	Embargo tokens: 0
+5501,5502c4422,4423
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 5	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+5505c4426
+< Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+5509,5510c4430,4431
+< 	Deck Count: 31
+< 		1 4 10 11 5 1 0 4 4 0 1 4 0 4 4 5 0 4 5 1 1 10 5 10 22 10 5 4 1 0 5 
+---
+> 	Deck Count: 23
+> 		4 22 7 10 4 5 1 5 1 4 4 4 4 4 1 1 5 0 4 5 4 1 4 
+5512c4433
+< 		25 4 4 5 11 25 4 1 0 4 4 10 
+---
+> 		4 0 4 1 10 10 5 4 5 4 10 4 
+5515,5519c4436,4440
+< 		-1 5 -1 13 5 
+< 	Deck Count: 14
+< 		7 -1 -1 4 -1 -1 -1 -1 -1 -1 -1 4 5 -1 
+< 	Num Discard: 14
+< 		4 -1 1 4 10 2 1 -1 22 6 -1 1 5 -1 
+---
+> 		5 10 19 4 5 
+> 	Deck Count: 10
+> 		4 4 4 1 2 1 0 5 1 4 
+> 	Num Discard: 20
+> 		0 4 4 4 4 10 5 4 4 0 3 11 4 1 4 1 4 4 4 3 
+5524,5527c4445,4451
+< Trying card 13...
+< Card 13 played by player 2!
+< Player 2 bought card 19
+< Turn 105:
+---
+> Trying card 10...
+> Trying card 19...
+> Card 19 played by player 2!
+> Player 2 actions: 
+> Trying card 10...
+> Player 2 bought card 8
+> Turn 85:
+5531c4455
+< 	Supply: 0	Count: 1	Embargo tokens: 1
+---
+> 	Supply: 0	Count: 3	Embargo tokens: 1
+5533,5537c4457,4461
+< 	Supply: 2	Count: 7	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 29	Embargo tokens: 1
+< 	Supply: 5	Count: 26	Embargo tokens: 0
+< 	Supply: 6	Count: 29	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 6	Embargo tokens: 2
+> 	Supply: 4	Count: 26	Embargo tokens: 1
+> 	Supply: 5	Count: 29	Embargo tokens: 0
+> 	Supply: 6	Count: 30	Embargo tokens: 0
+5539c4463
+< 	Supply: 8	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 8	Count: 9	Embargo tokens: 0
+5541,5542c4465,4466
+< 	Supply: 10	Count: 0	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 2	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+5544c4468
+< 	Supply: 13	Count: 4	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+5550c4474
+< 	Supply: 19	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 9	Embargo tokens: 0
+5553c4477
+< 	Supply: 22	Count: 1	Embargo tokens: 0
+---
+> 	Supply: 22	Count: 2	Embargo tokens: 0
+5555,5556c4479,4480
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 5	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+5559c4483
+< Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 6	Number of buys: 1
+5562,5566c4486,4490
+< 		5 0 1 4 5 
+< 	Deck Count: 26
+< 		1 4 10 11 5 1 0 4 4 0 1 4 0 4 4 5 0 4 5 1 1 10 5 10 22 10 
+< 	Num Discard: 12
+< 		25 4 4 5 11 25 4 1 0 4 4 10 
+---
+> 		4 5 4 0 5 
+> 	Deck Count: 16
+> 		4 22 7 10 4 5 1 5 1 4 4 4 4 4 1 1 
+> 	Num Discard: 14
+> 		4 0 4 1 10 10 5 4 5 4 10 4 4 1 
+5570,5573c4494,4497
+< 	Deck Count: 11
+< 		7 -1 -1 4 -1 -1 -1 -1 -1 -1 -1 
+< 	Num Discard: 22
+< 		4 -1 1 4 10 2 1 -1 22 6 -1 1 5 -1 19 -1 5 -1 4 5 -1 5 
+---
+> 	Deck Count: 8
+> 		4 4 4 1 2 1 0 5 
+> 	Num Discard: 27
+> 		0 4 4 4 4 10 5 4 4 0 3 11 4 1 4 1 4 4 4 3 8 5 10 1 4 5 4 
+5578,5579c4502,4503
+< Player 1 bought card 2
+< Turn 106:
+---
+> Player 1 bought card 22
+> Turn 86:
+5583c4507
+< 	Supply: 0	Count: 1	Embargo tokens: 1
+---
+> 	Supply: 0	Count: 3	Embargo tokens: 1
+5585,5589c4509,4513
+< 	Supply: 2	Count: 6	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 29	Embargo tokens: 1
+< 	Supply: 5	Count: 26	Embargo tokens: 0
+< 	Supply: 6	Count: 29	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 6	Embargo tokens: 2
+> 	Supply: 4	Count: 26	Embargo tokens: 1
+> 	Supply: 5	Count: 29	Embargo tokens: 0
+> 	Supply: 6	Count: 30	Embargo tokens: 0
+5591c4515
+< 	Supply: 8	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 8	Count: 9	Embargo tokens: 0
+5593,5594c4517,4518
+< 	Supply: 10	Count: 0	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 2	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+5596c4520
+< 	Supply: 13	Count: 4	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+5602c4526
+< 	Supply: 19	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 9	Embargo tokens: 0
+5607,5608c4531,4532
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 5	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+5611c4535
+< Phase: 0	Number of actions: 1	 Coins: 0	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+5615,5618c4539,4542
+< 	Deck Count: 26
+< 		1 4 10 11 5 1 0 4 4 0 1 4 0 4 4 5 0 4 5 1 1 10 5 10 22 10 
+< 	Num Discard: 18
+< 		25 4 4 5 11 25 4 1 0 4 4 10 2 5 0 1 4 5 
+---
+> 	Deck Count: 16
+> 		4 22 7 10 4 5 1 5 1 4 4 4 4 4 1 1 
+> 	Num Discard: 20
+> 		4 0 4 1 10 10 5 4 5 4 10 4 4 1 22 4 5 4 0 5 
+5621,5625c4545,4549
+< 		-1 -1 -1 -1 -1 
+< 	Deck Count: 6
+< 		7 -1 -1 4 -1 -1 
+< 	Num Discard: 22
+< 		4 -1 1 4 10 2 1 -1 22 6 -1 1 5 -1 19 -1 5 -1 4 5 -1 5 
+---
+> 		5 0 1 2 1 
+> 	Deck Count: 3
+> 		4 4 4 
+> 	Num Discard: 27
+> 		0 4 4 4 4 10 5 4 4 0 3 11 4 1 4 1 4 4 4 3 8 5 10 1 4 5 4 
+5630,5631c4554,4555
+< Player 2 bought card 18
+< Turn 107:
+---
+> Player 2 bought card 11
+> Turn 87:
+5635c4559
+< 	Supply: 0	Count: 1	Embargo tokens: 1
+---
+> 	Supply: 0	Count: 3	Embargo tokens: 1
+5637,5641c4561,4565
+< 	Supply: 2	Count: 6	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 29	Embargo tokens: 1
+< 	Supply: 5	Count: 26	Embargo tokens: 0
+< 	Supply: 6	Count: 29	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 6	Embargo tokens: 2
+> 	Supply: 4	Count: 26	Embargo tokens: 1
+> 	Supply: 5	Count: 29	Embargo tokens: 0
+> 	Supply: 6	Count: 30	Embargo tokens: 0
+5643c4567
+< 	Supply: 8	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 8	Count: 9	Embargo tokens: 0
+5645,5646c4569,4570
+< 	Supply: 10	Count: 0	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 2	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+5648c4572
+< 	Supply: 13	Count: 4	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+5654c4578
+< 	Supply: 19	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 9	Embargo tokens: 0
+5659,5660c4583,4584
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 5	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+5663c4587
+< Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+5666,5670c4590,4594
+< 		10 22 10 5 10 
+< 	Deck Count: 21
+< 		1 4 10 11 5 1 0 4 4 0 1 4 0 4 4 5 0 4 5 1 1 
+< 	Num Discard: 18
+< 		25 4 4 5 11 25 4 1 0 4 4 10 2 5 0 1 4 5 
+---
+> 		1 1 4 4 4 
+> 	Deck Count: 11
+> 		4 22 7 10 4 5 1 5 1 4 4 
+> 	Num Discard: 20
+> 		4 0 4 1 10 10 5 4 5 4 10 4 4 1 22 4 5 4 0 5 
+5674,5677c4598,4601
+< 	Deck Count: 6
+< 		7 -1 -1 4 -1 -1 
+< 	Num Discard: 27
+< 		4 -1 1 4 10 2 1 -1 22 6 -1 1 5 -1 19 -1 5 -1 4 5 -1 5 -1 -1 -1 -1 -1 
+---
+> 	Deck Count: 3
+> 		4 4 4 
+> 	Num Discard: 32
+> 		0 4 4 4 4 10 5 4 4 0 3 11 4 1 4 1 4 4 4 3 8 5 10 1 4 5 4 5 0 1 2 1 
+5682,5686c4606,4607
+< Trying card 10...
+< Trying card 22...
+< Card 22 played by player 1!
+< Player 1 bought card 4
+< Turn 108:
+---
+> Player 1 bought card 5
+> Turn 88:
+5690c4611
+< 	Supply: 0	Count: 1	Embargo tokens: 2
+---
+> 	Supply: 0	Count: 3	Embargo tokens: 1
+5692,5696c4613,4617
+< 	Supply: 2	Count: 6	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 28	Embargo tokens: 1
+< 	Supply: 5	Count: 26	Embargo tokens: 0
+< 	Supply: 6	Count: 29	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 6	Embargo tokens: 2
+> 	Supply: 4	Count: 26	Embargo tokens: 1
+> 	Supply: 5	Count: 28	Embargo tokens: 0
+> 	Supply: 6	Count: 30	Embargo tokens: 0
+5698c4619
+< 	Supply: 8	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 8	Count: 9	Embargo tokens: 0
+5700,5701c4621,4622
+< 	Supply: 10	Count: 0	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 2	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+5703c4624
+< 	Supply: 13	Count: 4	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+5709c4630
+< 	Supply: 19	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 9	Embargo tokens: 0
+5714,5715c4635,4636
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 5	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+5718c4639
+< Phase: 0	Number of actions: 1	 Coins: 1	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+5722,5725c4643,4646
+< 	Deck Count: 21
+< 		1 4 10 11 5 1 0 4 4 0 1 4 0 4 4 5 0 4 5 1 1 
+< 	Num Discard: 23
+< 		25 4 4 5 11 25 4 1 0 4 4 10 2 5 0 1 4 5 4 10 10 10 5 
+---
+> 	Deck Count: 11
+> 		4 22 7 10 4 5 1 5 1 4 4 
+> 	Num Discard: 26
+> 		4 0 4 1 10 10 5 4 5 4 10 4 4 1 22 4 5 4 0 5 5 1 1 4 4 4 
+5728,5732c4649,4653
+< 		-1 -1 4 -1 -1 
+< 	Deck Count: 1
+< 		7 
+< 	Num Discard: 27
+< 		4 -1 1 4 10 2 1 -1 22 6 -1 1 5 -1 19 -1 5 -1 4 5 -1 5 -1 -1 -1 -1 -1 
+---
+> 		4 4 4 1 1 
+> 	Deck Count: 30
+> 		3 0 11 4 10 4 2 4 4 8 3 4 4 1 5 5 4 4 0 4 10 4 5 4 4 4 0 5 1 1 
+> 	Num Discard: 0
+> 		
+5737,5738c4658,4659
+< Player 2 bought card 4
+< Turn 109:
+---
+> Player 2 bought card 22
+> Turn 89:
+5742c4663
+< 	Supply: 0	Count: 1	Embargo tokens: 2
+---
+> 	Supply: 0	Count: 3	Embargo tokens: 1
+5744,5748c4665,4669
+< 	Supply: 2	Count: 6	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 27	Embargo tokens: 1
+< 	Supply: 5	Count: 26	Embargo tokens: 0
+< 	Supply: 6	Count: 29	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 6	Embargo tokens: 2
+> 	Supply: 4	Count: 26	Embargo tokens: 1
+> 	Supply: 5	Count: 28	Embargo tokens: 0
+> 	Supply: 6	Count: 30	Embargo tokens: 0
+5750c4671
+< 	Supply: 8	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 8	Count: 9	Embargo tokens: 0
+5752,5753c4673,4674
+< 	Supply: 10	Count: 0	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 2	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+5755c4676
+< 	Supply: 13	Count: 4	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+5761c4682
+< 	Supply: 19	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 9	Embargo tokens: 0
+5764c4685
+< 	Supply: 22	Count: 1	Embargo tokens: 0
+---
+> 	Supply: 22	Count: 0	Embargo tokens: 0
+5766,5767c4687,4688
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 5	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+5770c4691
+< Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+5773,5777c4694,4698
+< 		1 1 5 4 0 
+< 	Deck Count: 16
+< 		1 4 10 11 5 1 0 4 4 0 1 4 0 4 4 5 
+< 	Num Discard: 23
+< 		25 4 4 5 11 25 4 1 0 4 4 10 2 5 0 1 4 5 4 10 10 10 5 
+---
+> 		4 4 1 5 1 
+> 	Deck Count: 6
+> 		4 22 7 10 4 5 
+> 	Num Discard: 26
+> 		4 0 4 1 10 10 5 4 5 4 10 4 4 1 22 4 5 4 0 5 5 1 1 4 4 4 
+5781,5784c4702,4705
+< 	Deck Count: 1
+< 		7 
+< 	Num Discard: 33
+< 		4 -1 1 4 10 2 1 -1 22 6 -1 1 5 -1 19 -1 5 -1 4 5 -1 5 -1 -1 -1 -1 -1 4 -1 -1 4 -1 -1 
+---
+> 	Deck Count: 30
+> 		3 0 11 4 10 4 2 4 4 8 3 4 4 1 5 5 4 4 0 4 10 4 5 4 4 4 0 5 1 1 
+> 	Num Discard: 6
+> 		22 4 4 4 1 1 
+5789,5790c4710,4711
+< Player 1 bought card 5
+< Turn 110:
+---
+> Player 1 bought card 10
+> Turn 90:
+5794c4715
+< 	Supply: 0	Count: 1	Embargo tokens: 2
+---
+> 	Supply: 0	Count: 3	Embargo tokens: 1
+5796,5800c4717,4721
+< 	Supply: 2	Count: 6	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 27	Embargo tokens: 1
+< 	Supply: 5	Count: 25	Embargo tokens: 0
+< 	Supply: 6	Count: 29	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 6	Embargo tokens: 2
+> 	Supply: 4	Count: 26	Embargo tokens: 1
+> 	Supply: 5	Count: 28	Embargo tokens: 0
+> 	Supply: 6	Count: 30	Embargo tokens: 0
+5802c4723
+< 	Supply: 8	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 8	Count: 9	Embargo tokens: 0
+5804,5805c4725,4726
+< 	Supply: 10	Count: 0	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 1	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+5807c4728
+< 	Supply: 13	Count: 4	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+5813c4734
+< 	Supply: 19	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 9	Embargo tokens: 0
+5816c4737
+< 	Supply: 22	Count: 1	Embargo tokens: 0
+---
+> 	Supply: 22	Count: 0	Embargo tokens: 0
+5818,5819c4739,4740
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 5	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+5822c4743
+< Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+5826,5829c4747,4750
+< 	Deck Count: 16
+< 		1 4 10 11 5 1 0 4 4 0 1 4 0 4 4 5 
+< 	Num Discard: 29
+< 		25 4 4 5 11 25 4 1 0 4 4 10 2 5 0 1 4 5 4 10 10 10 5 5 1 1 5 4 0 
+---
+> 	Deck Count: 6
+> 		4 22 7 10 4 5 
+> 	Num Discard: 32
+> 		4 0 4 1 10 10 5 4 5 4 10 4 4 1 22 4 5 4 0 5 5 1 1 4 4 4 10 4 4 1 5 1 
+5832,5836c4753,4757
+< 		7 5 -1 1 10 
+< 	Deck Count: 29
+< 		-1 5 -1 -1 -1 19 4 4 4 -1 -1 22 -1 5 2 -1 -1 4 -1 -1 6 -1 -1 5 -1 1 1 4 -1 
+< 	Num Discard: 0
+< 		
+---
+> 		1 1 5 0 4 
+> 	Deck Count: 25
+> 		3 0 11 4 10 4 2 4 4 8 3 4 4 1 5 5 4 4 0 4 10 4 5 4 4 
+> 	Num Discard: 6
+> 		22 4 4 4 1 1 
+5841,5842d4761
+< Trying card 7...
+< Card 7 played by player 2!
+5844c4763
+< Turn 111:
+---
+> Turn 91:
+5848c4767
+< 	Supply: 0	Count: 1	Embargo tokens: 2
+---
+> 	Supply: 0	Count: 3	Embargo tokens: 1
+5850,5854c4769,4773
+< 	Supply: 2	Count: 6	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 27	Embargo tokens: 1
+< 	Supply: 5	Count: 24	Embargo tokens: 0
+< 	Supply: 6	Count: 29	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 6	Embargo tokens: 2
+> 	Supply: 4	Count: 26	Embargo tokens: 1
+> 	Supply: 5	Count: 27	Embargo tokens: 0
+> 	Supply: 6	Count: 30	Embargo tokens: 0
+5856c4775
+< 	Supply: 8	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 8	Count: 9	Embargo tokens: 0
+5858,5859c4777,4778
+< 	Supply: 10	Count: 0	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 1	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+5861c4780
+< 	Supply: 13	Count: 4	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+5867c4786
+< 	Supply: 19	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 9	Embargo tokens: 0
+5870c4789
+< 	Supply: 22	Count: 1	Embargo tokens: 0
+---
+> 	Supply: 22	Count: 0	Embargo tokens: 0
+5872,5873c4791,4792
+< 	Supply: 24	Count: 7	Embargo tokens: 0
+< 	Supply: 25	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 5	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+5876c4795
+< Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+5879,5883c4798,4802
+< 		5 4 4 0 4 
+< 	Deck Count: 11
+< 		1 4 10 11 5 1 0 4 4 0 1 
+< 	Num Discard: 29
+< 		25 4 4 5 11 25 4 1 0 4 4 10 2 5 0 1 4 5 4 10 10 10 5 5 1 1 5 4 0 
+---
+> 		5 4 10 7 22 
+> 	Deck Count: 1
+> 		4 
+> 	Num Discard: 32
+> 		4 0 4 1 10 10 5 4 5 4 10 4 4 1 22 4 5 4 0 5 5 1 1 4 4 4 10 4 4 1 5 1 
+5887,5888c4806,4807
+< 	Deck Count: 23
+< 		-1 5 -1 -1 -1 19 4 4 4 -1 -1 22 -1 5 2 -1 -1 4 -1 -1 6 -1 -1 
+---
+> 	Deck Count: 25
+> 		3 0 11 4 10 4 2 4 4 8 3 4 4 1 5 5 4 4 0 4 10 4 5 4 4 
+5890c4809
+< 		-1 1 1 -1 5 7 5 -1 1 10 4 5 
+---
+> 		22 4 4 4 1 1 5 1 1 5 0 4 
+5894a4814,4816
+> Trying card 10...
+> Trying card 7...
+> Card 7 played by player 1!
+5896c4818
+< Turn 112:
+---
+> Turn 92:
+5900c4822
+< 	Supply: 0	Count: 1	Embargo tokens: 2
+---
+> 	Supply: 0	Count: 3	Embargo tokens: 1
+5902,5906c4824,4828
+< 	Supply: 2	Count: 6	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 27	Embargo tokens: 1
+< 	Supply: 5	Count: 24	Embargo tokens: 0
+< 	Supply: 6	Count: 29	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 6	Embargo tokens: 2
+> 	Supply: 4	Count: 26	Embargo tokens: 1
+> 	Supply: 5	Count: 27	Embargo tokens: 0
+> 	Supply: 6	Count: 30	Embargo tokens: 0
+5908c4830
+< 	Supply: 8	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 8	Count: 9	Embargo tokens: 0
+5910,5911c4832,4833
+< 	Supply: 10	Count: 0	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 1	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+5913c4835
+< 	Supply: 13	Count: 4	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+5919c4841
+< 	Supply: 19	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 9	Embargo tokens: 0
+5922c4844
+< 	Supply: 22	Count: 1	Embargo tokens: 0
+---
+> 	Supply: 22	Count: 0	Embargo tokens: 0
+5924,5925c4846,4847
+< 	Supply: 24	Count: 6	Embargo tokens: 0
+< 	Supply: 25	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 4	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+5928c4850
+< Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+5932,5935c4854,4857
+< 	Deck Count: 11
+< 		1 4 10 11 5 1 0 4 4 0 1 
+< 	Num Discard: 35
+< 		25 4 4 5 11 25 4 1 0 4 4 10 2 5 0 1 4 5 4 10 10 10 5 5 1 1 5 4 0 24 5 4 4 0 4 
+---
+> 	Deck Count: 30
+> 		4 0 5 4 1 4 4 5 1 5 5 1 5 4 10 4 4 10 22 10 1 4 4 5 4 1 1 10 4 4 
+> 	Num Discard: 9
+> 		0 24 5 4 10 7 22 4 4 
+5938,5940c4860,4862
+< 		-1 -1 6 -1 -1 
+< 	Deck Count: 18
+< 		-1 5 -1 -1 -1 19 4 4 4 -1 -1 22 -1 5 2 -1 -1 4 
+---
+> 		4 4 5 4 10 
+> 	Deck Count: 20
+> 		3 0 11 4 10 4 2 4 4 8 3 4 4 1 5 5 4 4 0 4 
+5942c4864
+< 		-1 1 1 -1 5 7 5 -1 1 10 4 5 
+---
+> 		22 4 4 4 1 1 5 1 1 5 0 4 
+5947,5948c4869,4871
+< Player 2 bought card 7
+< Turn 113:
+---
+> Trying card 10...
+> Player 2 bought card 19
+> Turn 93:
+5952c4875
+< 	Supply: 0	Count: 1	Embargo tokens: 2
+---
+> 	Supply: 0	Count: 3	Embargo tokens: 1
+5954,5958c4877,4881
+< 	Supply: 2	Count: 6	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+< 	Supply: 4	Count: 27	Embargo tokens: 1
+< 	Supply: 5	Count: 24	Embargo tokens: 0
+< 	Supply: 6	Count: 29	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 6	Embargo tokens: 2
+> 	Supply: 4	Count: 26	Embargo tokens: 1
+> 	Supply: 5	Count: 27	Embargo tokens: 0
+> 	Supply: 6	Count: 30	Embargo tokens: 0
+5960c4883
+< 	Supply: 8	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 8	Count: 9	Embargo tokens: 0
+5962,5963c4885,4886
+< 	Supply: 10	Count: 0	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 1	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+5965c4888
+< 	Supply: 13	Count: 4	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+5971c4894
+< 	Supply: 19	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 8	Embargo tokens: 0
+5974c4897
+< 	Supply: 22	Count: 1	Embargo tokens: 0
+---
+> 	Supply: 22	Count: 0	Embargo tokens: 0
+5976,5977c4899,4900
+< 	Supply: 24	Count: 6	Embargo tokens: 0
+< 	Supply: 25	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 4	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+5983,5987c4906,4910
+< 		1 0 4 4 0 
+< 	Deck Count: 6
+< 		1 4 10 11 5 1 
+< 	Num Discard: 35
+< 		25 4 4 5 11 25 4 1 0 4 4 10 2 5 0 1 4 5 4 10 10 10 5 5 1 1 5 4 0 24 5 4 4 0 4 
+---
+> 		4 4 10 1 1 
+> 	Deck Count: 25
+> 		4 0 5 4 1 4 4 5 1 5 5 1 5 4 10 4 4 10 22 10 1 4 4 5 4 
+> 	Num Discard: 9
+> 		0 24 5 4 10 7 22 4 4 
+5991,5994c4914,4917
+< 	Deck Count: 18
+< 		-1 5 -1 -1 -1 19 4 4 4 -1 -1 22 -1 5 2 -1 -1 4 
+< 	Num Discard: 17
+< 		-1 1 1 -1 5 7 5 -1 1 10 4 5 -1 -1 6 -1 -1 
+---
+> 	Deck Count: 20
+> 		3 0 11 4 10 4 2 4 4 8 3 4 4 1 5 5 4 4 0 4 
+> 	Num Discard: 18
+> 		22 4 4 4 1 1 5 1 1 5 0 4 19 4 4 5 4 10 
+5999,6000c4922,4924
+< Player 1 bought card 4
+< Turn 114:
+---
+> Trying card 10...
+> Player 1 bought card 0
+> Turn 94:
+6004c4928
+< 	Supply: 0	Count: 1	Embargo tokens: 2
+---
+> 	Supply: 0	Count: 2	Embargo tokens: 1
+6006,6007c4930,4931
+< 	Supply: 2	Count: 6	Embargo tokens: 2
+< 	Supply: 3	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 2	Count: 7	Embargo tokens: 1
+> 	Supply: 3	Count: 6	Embargo tokens: 2
+6009,6010c4933,4934
+< 	Supply: 5	Count: 24	Embargo tokens: 0
+< 	Supply: 6	Count: 29	Embargo tokens: 0
+---
+> 	Supply: 5	Count: 27	Embargo tokens: 0
+> 	Supply: 6	Count: 30	Embargo tokens: 0
+6012c4936
+< 	Supply: 8	Count: 8	Embargo tokens: 0
+---
+> 	Supply: 8	Count: 9	Embargo tokens: 0
+6014,6015c4938,4939
+< 	Supply: 10	Count: 0	Embargo tokens: 0
+< 	Supply: 11	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 10	Count: 1	Embargo tokens: 0
+> 	Supply: 11	Count: 9	Embargo tokens: 0
+6017c4941
+< 	Supply: 13	Count: 4	Embargo tokens: 0
+---
+> 	Supply: 13	Count: 6	Embargo tokens: 0
+6023c4947
+< 	Supply: 19	Count: 6	Embargo tokens: 0
+---
+> 	Supply: 19	Count: 8	Embargo tokens: 0
+6026c4950
+< 	Supply: 22	Count: 1	Embargo tokens: 0
+---
+> 	Supply: 22	Count: 0	Embargo tokens: 0
+6028,6029c4952,4953
+< 	Supply: 24	Count: 6	Embargo tokens: 0
+< 	Supply: 25	Count: 7	Embargo tokens: 0
+---
+> 	Supply: 24	Count: 4	Embargo tokens: 0
+> 	Supply: 25	Count: 10	Embargo tokens: 0
+6032c4956
+< Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+---
+> Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+6036,6039c4960,4963
+< 	Deck Count: 6
+< 		1 4 10 11 5 1 
+< 	Num Discard: 41
+< 		25 4 4 5 11 25 4 1 0 4 4 10 2 5 0 1 4 5 4 10 10 10 5 5 1 1 5 4 0 24 5 4 4 0 4 4 1 0 4 4 0 
+---
+> 	Deck Count: 25
+> 		4 0 5 4 1 4 4 5 1 5 5 1 5 4 10 4 4 10 22 10 1 4 4 5 4 
+> 	Num Discard: 15
+> 		0 24 5 4 10 7 22 4 4 0 4 4 10 1 1 
+6042,6046c4966,4970
+< 		4 -1 -1 2 5 
+< 	Deck Count: 13
+< 		-1 5 -1 -1 -1 19 4 4 4 -1 -1 22 -1 
+< 	Num Discard: 17
+< 		-1 1 1 -1 5 7 5 -1 1 10 4 5 -1 -1 6 -1 -1 
+---
+> 		4 0 4 4 5 
+> 	Deck Count: 15
+> 		3 0 11 4 10 4 2 4 4 8 3 4 4 1 5 
+> 	Num Discard: 18
+> 		22 4 4 4 1 1 5 1 1 5 0 4 19 4 4 5 4 10 
+6051c4975
+< Player 2 bought card 22
+---
+> Player 2 bought card 10

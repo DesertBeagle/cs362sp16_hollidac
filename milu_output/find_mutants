@@ -1,20 +1,20 @@
 #!/bin/bash
 
 for D in ./mutants/*;do
-	cp $D/src/src.c ./testing_facility/dominion.c
-	cd testing_facility/
+	cp $D/src/src.c ./testing/dominion.c
+	cd testing/
 	make clean
 	make testdominion > /dev/null
 	cd ../
-	if [ ! -a ./testing_facility/testdominion ];
+	if [ ! -e ./testing/testdominion ];then
 		echo $D >> DNC.txt
 		continue
 	fi
-	./testdominion 42 > OGoutput
-	./testing_facility/testdominion 42 > MUTANToutput
+	timeout 5 ./testdominion 42 > OGoutput
+	timeout 5 ./testing/testdominion 42 > MUTANToutput
 	diff OGoutput MUTANToutput > difference
 	count=`wc ./difference | awk '{print $1}'`
-	if [ $count -ne 0 ]
+	if [ $count -ne 0 ]; then
 		echo $D >> Killed.txt
 	else
 		echo $d >> Survived.txt

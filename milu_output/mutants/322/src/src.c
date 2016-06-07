@@ -3034,7 +3034,7 @@ return k ;
 }
 
  ;
-int initializeGame ( int numPlayers , ConstantArray kingdomCards , int randomSeed , struct gameState  * state )
+int initializeGame ( int numPlayers , int * kingdomCards , int randomSeed , struct gameState  * state )
 {
 int i ;
 int j ;
@@ -3489,7 +3489,7 @@ return score ;
 }
 
  ;
-int getWinners ( ConstantArray players , struct gameState  * state )
+int getWinners ( int * players , struct gameState  * state )
 {
 int i ;
 int j ;

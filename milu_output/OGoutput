@@ -1,0 +1,6055 @@
+Turn 1:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 10	Embargo tokens: 0
+	Supply: 1	Count: 8	Embargo tokens: 0
+	Supply: 2	Count: 8	Embargo tokens: 0
+	Supply: 3	Count: 8	Embargo tokens: 0
+	Supply: 4	Count: 46	Embargo tokens: 0
+	Supply: 5	Count: 40	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 8	Embargo tokens: 0
+	Supply: 11	Count: 10	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 10	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 10	Embargo tokens: 0
+	Supply: 22	Count: 10	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 10	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		1 1 4 4 4 
+	Deck Count: 5
+		1 4 4 4 4 
+	Num Discard: 0
+		
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 10
+		4 4 4 1 4 4 4 4 1 1 
+	Num Discard: 0
+		
+
+Played Cards: 0
+	
+Player 1 actions: 
+Player 1 bought card 1
+Turn 2:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 10	Embargo tokens: 0
+	Supply: 1	Count: 7	Embargo tokens: 0
+	Supply: 2	Count: 8	Embargo tokens: 0
+	Supply: 3	Count: 8	Embargo tokens: 0
+	Supply: 4	Count: 46	Embargo tokens: 0
+	Supply: 5	Count: 40	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 8	Embargo tokens: 0
+	Supply: 11	Count: 10	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 10	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 10	Embargo tokens: 0
+	Supply: 22	Count: 10	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 10	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 5
+		1 4 4 4 4 
+	Num Discard: 6
+		1 1 1 4 4 4 
+Player 2:
+	Hand Count: 5
+		1 1 4 4 4 
+	Deck Count: 5
+		4 4 4 1 4 
+	Num Discard: 0
+		
+
+Played Cards: 0
+	
+Player 2 actions: 
+Player 2 bought card 5
+Turn 3:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 10	Embargo tokens: 0
+	Supply: 1	Count: 7	Embargo tokens: 0
+	Supply: 2	Count: 8	Embargo tokens: 0
+	Supply: 3	Count: 8	Embargo tokens: 0
+	Supply: 4	Count: 46	Embargo tokens: 0
+	Supply: 5	Count: 39	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 8	Embargo tokens: 0
+	Supply: 11	Count: 10	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 10	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 10	Embargo tokens: 0
+	Supply: 22	Count: 10	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 10	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		4 4 4 4 1 
+	Deck Count: 0
+		
+	Num Discard: 6
+		1 1 1 4 4 4 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 5
+		4 4 4 1 4 
+	Num Discard: 6
+		5 1 1 4 4 4 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Player 1 bought card 10
+Turn 4:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 10	Embargo tokens: 0
+	Supply: 1	Count: 7	Embargo tokens: 0
+	Supply: 2	Count: 8	Embargo tokens: 0
+	Supply: 3	Count: 8	Embargo tokens: 0
+	Supply: 4	Count: 46	Embargo tokens: 0
+	Supply: 5	Count: 39	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 7	Embargo tokens: 0
+	Supply: 11	Count: 10	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 10	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 10	Embargo tokens: 0
+	Supply: 22	Count: 10	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 10	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 0
+		
+	Num Discard: 12
+		1 1 1 4 4 4 10 4 4 4 4 1 
+Player 2:
+	Hand Count: 5
+		4 1 4 4 4 
+	Deck Count: 0
+		
+	Num Discard: 6
+		5 1 1 4 4 4 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Player 2 bought card 13
+Turn 5:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 10	Embargo tokens: 0
+	Supply: 1	Count: 7	Embargo tokens: 0
+	Supply: 2	Count: 8	Embargo tokens: 0
+	Supply: 3	Count: 8	Embargo tokens: 0
+	Supply: 4	Count: 46	Embargo tokens: 0
+	Supply: 5	Count: 39	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 7	Embargo tokens: 0
+	Supply: 11	Count: 10	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 9	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 10	Embargo tokens: 0
+	Supply: 22	Count: 10	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 10	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		4 4 4 1 1 
+	Deck Count: 7
+		4 4 4 1 4 1 10 
+	Num Discard: 0
+		
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 0
+		
+	Num Discard: 12
+		5 1 1 4 4 4 13 4 1 4 4 4 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Player 1 bought card 22
+Turn 6:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 10	Embargo tokens: 0
+	Supply: 1	Count: 7	Embargo tokens: 0
+	Supply: 2	Count: 8	Embargo tokens: 0
+	Supply: 3	Count: 8	Embargo tokens: 0
+	Supply: 4	Count: 46	Embargo tokens: 0
+	Supply: 5	Count: 39	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 7	Embargo tokens: 0
+	Supply: 11	Count: 10	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 9	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 10	Embargo tokens: 0
+	Supply: 22	Count: 9	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 10	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 7
+		4 4 4 1 4 1 10 
+	Num Discard: 6
+		22 4 4 4 1 1 
+Player 2:
+	Hand Count: 5
+		4 1 1 4 4 
+	Deck Count: 7
+		13 4 4 1 5 4 4 
+	Num Discard: 0
+		
+
+Played Cards: 0
+	
+Player 2 actions: 
+Player 2 bought card 6
+Turn 7:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 10	Embargo tokens: 0
+	Supply: 1	Count: 7	Embargo tokens: 0
+	Supply: 2	Count: 8	Embargo tokens: 0
+	Supply: 3	Count: 8	Embargo tokens: 0
+	Supply: 4	Count: 46	Embargo tokens: 0
+	Supply: 5	Count: 39	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 7	Embargo tokens: 0
+	Supply: 11	Count: 10	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 9	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 10	Embargo tokens: 0
+	Supply: 22	Count: 9	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 10	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		10 1 4 1 4 
+	Deck Count: 2
+		4 4 
+	Num Discard: 6
+		22 4 4 4 1 1 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 7
+		13 4 4 1 5 4 4 
+	Num Discard: 5
+		4 1 1 4 4 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Trying card 10...
+Player 1 bought card 1
+Turn 8:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 10	Embargo tokens: 0
+	Supply: 1	Count: 6	Embargo tokens: 0
+	Supply: 2	Count: 8	Embargo tokens: 0
+	Supply: 3	Count: 8	Embargo tokens: 0
+	Supply: 4	Count: 46	Embargo tokens: 0
+	Supply: 5	Count: 39	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 7	Embargo tokens: 0
+	Supply: 11	Count: 10	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 9	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 10	Embargo tokens: 0
+	Supply: 22	Count: 9	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 10	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 2
+		4 4 
+	Num Discard: 12
+		22 4 4 4 1 1 1 10 1 4 1 4 
+Player 2:
+	Hand Count: 5
+		4 4 5 1 4 
+	Deck Count: 2
+		13 4 
+	Num Discard: 5
+		4 1 1 4 4 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Player 2 bought card 4
+Turn 9:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 10	Embargo tokens: 0
+	Supply: 1	Count: 6	Embargo tokens: 0
+	Supply: 2	Count: 8	Embargo tokens: 0
+	Supply: 3	Count: 8	Embargo tokens: 0
+	Supply: 4	Count: 45	Embargo tokens: 0
+	Supply: 5	Count: 39	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 7	Embargo tokens: 0
+	Supply: 11	Count: 10	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 9	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 10	Embargo tokens: 0
+	Supply: 22	Count: 9	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 10	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		4 4 1 1 1 
+	Deck Count: 9
+		4 4 1 1 4 10 4 4 22 
+	Num Discard: 0
+		
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 2
+		13 4 
+	Num Discard: 11
+		4 1 1 4 4 4 4 4 5 1 4 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Player 1 bought card 0
+Turn 10:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 9	Embargo tokens: 0
+	Supply: 1	Count: 6	Embargo tokens: 0
+	Supply: 2	Count: 8	Embargo tokens: 0
+	Supply: 3	Count: 8	Embargo tokens: 0
+	Supply: 4	Count: 45	Embargo tokens: 0
+	Supply: 5	Count: 39	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 7	Embargo tokens: 0
+	Supply: 11	Count: 10	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 9	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 10	Embargo tokens: 0
+	Supply: 22	Count: 9	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 10	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 9
+		4 4 1 1 4 10 4 4 22 
+	Num Discard: 6
+		0 4 4 1 1 1 
+Player 2:
+	Hand Count: 5
+		4 13 4 4 4 
+	Deck Count: 8
+		4 4 1 4 1 5 4 1 
+	Num Discard: 0
+		
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 13...
+Card 13 played by player 2!
+Player 2 bought card 11
+Turn 11:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 9	Embargo tokens: 0
+	Supply: 1	Count: 6	Embargo tokens: 0
+	Supply: 2	Count: 8	Embargo tokens: 0
+	Supply: 3	Count: 8	Embargo tokens: 0
+	Supply: 4	Count: 45	Embargo tokens: 0
+	Supply: 5	Count: 39	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 7	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 9	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 10	Embargo tokens: 0
+	Supply: 22	Count: 9	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 10	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		22 4 4 10 4 
+	Deck Count: 4
+		4 4 1 1 
+	Num Discard: 6
+		0 4 4 1 1 1 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 5
+		4 4 1 4 1 
+	Num Discard: 8
+		11 4 5 4 4 4 1 4 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Trying card 22...
+Card 22 played by player 1!
+Player 1 bought card 22
+Turn 12:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 9	Embargo tokens: 0
+	Supply: 1	Count: 6	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 0
+	Supply: 3	Count: 8	Embargo tokens: 0
+	Supply: 4	Count: 45	Embargo tokens: 0
+	Supply: 5	Count: 39	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 7	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 9	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 10	Embargo tokens: 0
+	Supply: 22	Count: 8	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 10	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 4
+		4 4 1 1 
+	Num Discard: 11
+		0 4 4 1 1 1 22 4 4 4 10 
+Player 2:
+	Hand Count: 5
+		1 4 1 4 4 
+	Deck Count: 0
+		
+	Num Discard: 8
+		11 4 5 4 4 4 1 4 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Player 2 bought card 1
+Turn 13:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 9	Embargo tokens: 0
+	Supply: 1	Count: 5	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 0
+	Supply: 3	Count: 8	Embargo tokens: 0
+	Supply: 4	Count: 45	Embargo tokens: 0
+	Supply: 5	Count: 39	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 7	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 9	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 10	Embargo tokens: 0
+	Supply: 22	Count: 8	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 10	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		1 1 4 4 0 
+	Deck Count: 10
+		1 4 4 1 4 1 4 22 10 4 
+	Num Discard: 0
+		
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 0
+		
+	Num Discard: 14
+		11 4 5 4 4 4 1 4 1 1 4 1 4 4 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Player 1 bought card 7
+Turn 14:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 9	Embargo tokens: 0
+	Supply: 1	Count: 5	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 0
+	Supply: 3	Count: 8	Embargo tokens: 0
+	Supply: 4	Count: 45	Embargo tokens: 0
+	Supply: 5	Count: 39	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 7	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 9	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 10	Embargo tokens: 0
+	Supply: 22	Count: 8	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 10	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 10
+		1 4 4 1 4 1 4 22 10 4 
+	Num Discard: 5
+		1 1 4 4 0 
+Player 2:
+	Hand Count: 5
+		1 4 5 4 4 
+	Deck Count: 9
+		1 11 4 4 4 4 1 1 4 
+	Num Discard: 0
+		
+
+Played Cards: 0
+	
+Player 2 actions: 
+Player 2 bought card 22
+Turn 15:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 9	Embargo tokens: 0
+	Supply: 1	Count: 5	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 0
+	Supply: 3	Count: 8	Embargo tokens: 0
+	Supply: 4	Count: 45	Embargo tokens: 0
+	Supply: 5	Count: 39	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 7	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 9	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 10	Embargo tokens: 0
+	Supply: 22	Count: 7	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 10	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		4 10 22 4 1 
+	Deck Count: 5
+		1 4 4 1 4 
+	Num Discard: 5
+		1 1 4 4 0 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 9
+		1 11 4 4 4 4 1 1 4 
+	Num Discard: 6
+		22 1 4 5 4 4 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Trying card 10...
+Trying card 22...
+Card 22 played by player 1!
+Player 1 bought card 1
+Turn 16:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 9	Embargo tokens: 0
+	Supply: 1	Count: 4	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 0
+	Supply: 3	Count: 8	Embargo tokens: 0
+	Supply: 4	Count: 45	Embargo tokens: 1
+	Supply: 5	Count: 39	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 7	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 9	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 10	Embargo tokens: 0
+	Supply: 22	Count: 7	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 10	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 5
+		1 4 4 1 4 
+	Num Discard: 10
+		1 1 4 4 0 1 4 10 1 4 
+Player 2:
+	Hand Count: 5
+		4 1 1 4 4 
+	Deck Count: 4
+		1 11 4 4 
+	Num Discard: 6
+		22 1 4 5 4 4 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Player 2 bought card 5
+Turn 17:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 9	Embargo tokens: 0
+	Supply: 1	Count: 4	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 0
+	Supply: 3	Count: 8	Embargo tokens: 0
+	Supply: 4	Count: 45	Embargo tokens: 1
+	Supply: 5	Count: 38	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 7	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 9	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 10	Embargo tokens: 0
+	Supply: 22	Count: 7	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 10	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		4 1 4 4 1 
+	Deck Count: 0
+		
+	Num Discard: 10
+		1 1 4 4 0 1 4 10 1 4 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 4
+		1 11 4 4 
+	Num Discard: 12
+		22 1 4 5 4 4 5 4 1 1 4 4 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Player 1 bought card 5
+Turn 18:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 9	Embargo tokens: 0
+	Supply: 1	Count: 4	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 0
+	Supply: 3	Count: 8	Embargo tokens: 0
+	Supply: 4	Count: 45	Embargo tokens: 1
+	Supply: 5	Count: 37	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 7	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 9	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 10	Embargo tokens: 0
+	Supply: 22	Count: 7	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 10	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 0
+		
+	Num Discard: 16
+		1 1 4 4 0 1 4 10 1 4 5 4 1 4 4 1 
+Player 2:
+	Hand Count: 5
+		4 4 11 1 1 
+	Deck Count: 11
+		4 4 4 4 5 1 1 4 4 5 22 
+	Num Discard: 0
+		
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 11...
+Card 11 played by player 2!
+Player 2 bought card 1
+Turn 19:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 9	Embargo tokens: 0
+	Supply: 1	Count: 3	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 0
+	Supply: 3	Count: 8	Embargo tokens: 0
+	Supply: 4	Count: 45	Embargo tokens: 1
+	Supply: 5	Count: 37	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 7	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 9	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 10	Embargo tokens: 0
+	Supply: 22	Count: 7	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 10	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		10 4 4 1 1 
+	Deck Count: 11
+		4 4 1 5 1 4 1 1 4 0 4 
+	Num Discard: 0
+		
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 11
+		4 4 4 4 5 1 1 4 4 5 22 
+	Num Discard: 6
+		1 4 4 11 1 1 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Trying card 10...
+Player 1 bought card 4
+Turn 20:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 9	Embargo tokens: 0
+	Supply: 1	Count: 3	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 0
+	Supply: 3	Count: 8	Embargo tokens: 0
+	Supply: 4	Count: 44	Embargo tokens: 1
+	Supply: 5	Count: 37	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 7	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 9	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 10	Embargo tokens: 0
+	Supply: 22	Count: 7	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 10	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 11
+		4 4 1 5 1 4 1 1 4 0 4 
+	Num Discard: 6
+		4 10 4 4 1 1 
+Player 2:
+	Hand Count: 5
+		22 5 4 4 1 
+	Deck Count: 6
+		4 4 4 4 5 1 
+	Num Discard: 6
+		1 4 4 11 1 1 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 22...
+Card 22 played by player 2!
+Player 2 bought card 0
+Turn 21:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 8	Embargo tokens: 0
+	Supply: 1	Count: 3	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 1
+	Supply: 3	Count: 8	Embargo tokens: 0
+	Supply: 4	Count: 44	Embargo tokens: 1
+	Supply: 5	Count: 37	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 7	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 9	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 10	Embargo tokens: 0
+	Supply: 22	Count: 7	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 10	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		4 0 4 1 1 
+	Deck Count: 6
+		4 4 1 5 1 4 
+	Num Discard: 6
+		4 10 4 4 1 1 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 6
+		4 4 4 4 5 1 
+	Num Discard: 11
+		1 4 4 11 1 1 0 1 5 4 4 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Player 1 bought card 22
+Turn 22:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 8	Embargo tokens: 0
+	Supply: 1	Count: 3	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 1
+	Supply: 3	Count: 8	Embargo tokens: 0
+	Supply: 4	Count: 44	Embargo tokens: 1
+	Supply: 5	Count: 37	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 7	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 9	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 10	Embargo tokens: 0
+	Supply: 22	Count: 6	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 10	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 6
+		4 4 1 5 1 4 
+	Num Discard: 12
+		4 10 4 4 1 1 22 4 0 4 1 1 
+Player 2:
+	Hand Count: 5
+		1 5 4 4 4 
+	Deck Count: 1
+		4 
+	Num Discard: 11
+		1 4 4 11 1 1 0 1 5 4 4 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Player 2 bought card 5
+Turn 23:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 8	Embargo tokens: 0
+	Supply: 1	Count: 3	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 1
+	Supply: 3	Count: 8	Embargo tokens: 0
+	Supply: 4	Count: 44	Embargo tokens: 1
+	Supply: 5	Count: 36	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 7	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 9	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 10	Embargo tokens: 0
+	Supply: 22	Count: 6	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 10	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		4 1 5 1 4 
+	Deck Count: 1
+		4 
+	Num Discard: 12
+		4 10 4 4 1 1 22 4 0 4 1 1 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 1
+		4 
+	Num Discard: 17
+		1 4 4 11 1 1 0 1 5 4 4 5 1 5 4 4 4 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Player 1 bought card 13
+Turn 24:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 8	Embargo tokens: 0
+	Supply: 1	Count: 3	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 1
+	Supply: 3	Count: 8	Embargo tokens: 0
+	Supply: 4	Count: 44	Embargo tokens: 1
+	Supply: 5	Count: 36	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 7	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 10	Embargo tokens: 0
+	Supply: 22	Count: 6	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 10	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 1
+		4 
+	Num Discard: 18
+		4 10 4 4 1 1 22 4 0 4 1 1 13 4 1 5 1 4 
+Player 2:
+	Hand Count: 5
+		4 11 1 4 1 
+	Deck Count: 13
+		4 1 4 4 4 4 5 4 0 1 5 1 5 
+	Num Discard: 0
+		
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 11...
+Card 11 played by player 2!
+Player 2 bought card 4
+Turn 25:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 8	Embargo tokens: 0
+	Supply: 1	Count: 3	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 1
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 43	Embargo tokens: 1
+	Supply: 5	Count: 36	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 7	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 10	Embargo tokens: 0
+	Supply: 22	Count: 6	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 10	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		4 10 5 4 1 
+	Deck Count: 14
+		1 13 1 0 4 4 4 22 4 1 4 4 1 1 
+	Num Discard: 0
+		
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 13
+		4 1 4 4 4 4 5 4 0 1 5 1 5 
+	Num Discard: 5
+		4 1 3 1 4 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Trying card 10...
+Player 1 bought card 24
+Turn 26:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 8	Embargo tokens: 0
+	Supply: 1	Count: 3	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 1
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 43	Embargo tokens: 1
+	Supply: 5	Count: 36	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 7	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 10	Embargo tokens: 0
+	Supply: 22	Count: 6	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 9	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 14
+		1 13 1 0 4 4 4 22 4 1 4 4 1 1 
+	Num Discard: 6
+		24 4 10 5 4 1 
+Player 2:
+	Hand Count: 5
+		5 1 5 1 0 
+	Deck Count: 8
+		4 1 4 4 4 4 5 4 
+	Num Discard: 5
+		4 1 3 1 4 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Player 2 bought card 21
+Turn 27:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 8	Embargo tokens: 0
+	Supply: 1	Count: 3	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 1
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 43	Embargo tokens: 1
+	Supply: 5	Count: 36	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 7	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 9	Embargo tokens: 0
+	Supply: 22	Count: 6	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 9	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		1 1 4 4 1 
+	Deck Count: 9
+		1 13 1 0 4 4 4 22 4 
+	Num Discard: 6
+		24 4 10 5 4 1 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 8
+		4 1 4 4 4 4 5 4 
+	Num Discard: 11
+		4 1 3 1 4 21 5 1 5 1 0 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Player 1 bought card 1
+Turn 28:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 8	Embargo tokens: 0
+	Supply: 1	Count: 2	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 1
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 43	Embargo tokens: 1
+	Supply: 5	Count: 36	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 7	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 9	Embargo tokens: 0
+	Supply: 22	Count: 6	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 9	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 6	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 9
+		1 13 1 0 4 4 4 22 4 
+	Num Discard: 12
+		24 4 10 5 4 1 1 1 1 4 4 1 
+Player 2:
+	Hand Count: 5
+		4 5 4 4 4 
+	Deck Count: 3
+		4 1 4 
+	Num Discard: 11
+		4 1 3 1 4 21 5 1 5 1 0 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Player 2 bought card 10
+Turn 29:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 8	Embargo tokens: 0
+	Supply: 1	Count: 2	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 1
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 43	Embargo tokens: 1
+	Supply: 5	Count: 36	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 6	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 9	Embargo tokens: 0
+	Supply: 22	Count: 6	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 9	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		4 22 4 4 4 
+	Deck Count: 4
+		1 13 1 0 
+	Num Discard: 12
+		24 4 10 5 4 1 1 1 1 4 4 1 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 3
+		4 1 4 
+	Num Discard: 17
+		4 1 3 1 4 21 5 1 5 1 0 10 4 5 4 4 4 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Trying card 22...
+Card 22 played by player 1!
+Player 1 bought card 4
+Turn 30:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 8	Embargo tokens: 0
+	Supply: 1	Count: 2	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 42	Embargo tokens: 1
+	Supply: 5	Count: 36	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 6	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 9	Embargo tokens: 0
+	Supply: 22	Count: 6	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 9	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 4
+		1 13 1 0 
+	Num Discard: 17
+		24 4 10 5 4 1 1 1 1 4 4 1 4 4 4 4 4 
+Player 2:
+	Hand Count: 5
+		4 1 4 10 4 
+	Deck Count: 15
+		4 3 5 5 4 4 1 21 4 1 1 5 0 4 1 
+	Num Discard: 0
+		
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 10...
+Player 2 bought card 5
+Turn 31:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 8	Embargo tokens: 0
+	Supply: 1	Count: 2	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 42	Embargo tokens: 1
+	Supply: 5	Count: 35	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 6	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 9	Embargo tokens: 0
+	Supply: 22	Count: 6	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 9	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 1	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		0 1 13 1 4 
+	Deck Count: 16
+		5 4 4 10 1 4 4 1 4 1 4 24 1 1 4 4 
+	Num Discard: 0
+		
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 15
+		4 3 5 5 4 4 1 21 4 1 1 5 0 4 1 
+	Num Discard: 6
+		5 4 1 4 10 4 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Trying card 13...
+Card 13 played by player 1!
+Player 1 bought card 5
+Turn 32:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 8	Embargo tokens: 0
+	Supply: 1	Count: 2	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 42	Embargo tokens: 1
+	Supply: 5	Count: 34	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 6	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 9	Embargo tokens: 0
+	Supply: 22	Count: 6	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 9	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 13
+		5 4 4 10 1 4 4 1 4 1 4 24 1 
+	Num Discard: 8
+		5 0 1 1 1 4 4 4 
+Player 2:
+	Hand Count: 5
+		1 4 0 5 1 
+	Deck Count: 10
+		4 3 5 5 4 4 1 21 4 1 
+	Num Discard: 6
+		5 4 1 4 10 4 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Player 2 bought card 4
+Turn 33:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 8	Embargo tokens: 0
+	Supply: 1	Count: 2	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 41	Embargo tokens: 1
+	Supply: 5	Count: 34	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 6	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 9	Embargo tokens: 0
+	Supply: 22	Count: 6	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 9	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		1 24 4 1 4 
+	Deck Count: 8
+		5 4 4 10 1 4 4 1 
+	Num Discard: 8
+		5 0 1 1 1 4 4 4 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 10
+		4 3 5 5 4 4 1 21 4 1 
+	Num Discard: 12
+		5 4 1 4 10 4 4 1 4 0 5 1 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Trying card 24...
+Card 24 played by player 1!
+Player 1 bought card 0
+Turn 34:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 0
+	Supply: 1	Count: 2	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 41	Embargo tokens: 1
+	Supply: 5	Count: 34	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 6	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 9	Embargo tokens: 0
+	Supply: 22	Count: 6	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 9	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 8
+		5 4 4 10 1 4 4 1 
+	Num Discard: 12
+		5 0 1 1 1 4 4 4 0 1 1 4 
+Player 2:
+	Hand Count: 5
+		1 4 21 1 4 
+	Deck Count: 5
+		4 3 5 5 4 
+	Num Discard: 12
+		5 4 1 4 10 4 4 1 4 0 5 1 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 21...
+Card 21 played by player 2!
+Player 2 bought card 4
+Turn 35:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 0
+	Supply: 1	Count: 2	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 40	Embargo tokens: 1
+	Supply: 5	Count: 34	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 6	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 9	Embargo tokens: 0
+	Supply: 22	Count: 6	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 9	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		1 4 4 1 10 
+	Deck Count: 3
+		5 4 4 
+	Num Discard: 12
+		5 0 1 1 1 4 4 4 0 1 1 4 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 5
+		4 3 5 5 4 
+	Num Discard: 17
+		5 4 1 4 10 4 4 1 4 0 5 1 4 1 4 4 1 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Trying card 10...
+Player 1 bought card 22
+Turn 36:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 0
+	Supply: 1	Count: 2	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 40	Embargo tokens: 1
+	Supply: 5	Count: 34	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 10	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 6	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 9	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 9	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 6	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 3
+		5 4 4 
+	Num Discard: 18
+		5 0 1 1 1 4 4 4 0 1 1 4 22 1 4 4 1 10 
+Player 2:
+	Hand Count: 5
+		4 5 5 3 4 
+	Deck Count: 0
+		
+	Num Discard: 17
+		5 4 1 4 10 4 4 1 4 0 5 1 4 1 4 4 1 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Player 2 bought card 7
+Turn 37:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 0
+	Supply: 1	Count: 2	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 40	Embargo tokens: 1
+	Supply: 5	Count: 34	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 6	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 9	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 9	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		4 4 5 4 1 
+	Deck Count: 16
+		0 1 4 10 1 0 1 5 4 1 1 1 22 4 4 4 
+	Num Discard: 0
+		
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 0
+		
+	Num Discard: 23
+		5 4 1 4 10 4 4 1 4 0 5 1 4 1 4 4 1 7 4 5 5 3 4 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Player 1 bought card 10
+Turn 38:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 0
+	Supply: 1	Count: 2	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 40	Embargo tokens: 1
+	Supply: 5	Count: 34	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 5	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 9	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 9	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 16
+		0 1 4 10 1 0 1 5 4 1 1 1 22 4 4 4 
+	Num Discard: 6
+		10 4 4 5 4 1 
+Player 2:
+	Hand Count: 5
+		4 0 1 1 4 
+	Deck Count: 18
+		4 4 5 5 10 1 4 4 5 1 4 7 4 4 3 1 4 5 
+	Num Discard: 0
+		
+
+Played Cards: 0
+	
+Player 2 actions: 
+Player 2 bought card 4
+Turn 39:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 0
+	Supply: 1	Count: 2	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 39	Embargo tokens: 1
+	Supply: 5	Count: 34	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 5	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 9	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 9	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		4 4 4 22 1 
+	Deck Count: 11
+		0 1 4 10 1 0 1 5 4 1 1 
+	Num Discard: 6
+		10 4 4 5 4 1 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 18
+		4 4 5 5 10 1 4 4 5 1 4 7 4 4 3 1 4 5 
+	Num Discard: 6
+		4 4 0 1 1 4 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Trying card 22...
+Card 22 played by player 1!
+Player 1 bought card 1
+Turn 40:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 1	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 39	Embargo tokens: 1
+	Supply: 5	Count: 34	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 5	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 9	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 9	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 11
+		0 1 4 10 1 0 1 5 4 1 1 
+	Num Discard: 11
+		10 4 4 5 4 1 1 4 4 4 1 
+Player 2:
+	Hand Count: 5
+		5 4 1 3 4 
+	Deck Count: 13
+		4 4 5 5 10 1 4 4 5 1 4 7 4 
+	Num Discard: 6
+		4 4 0 1 1 4 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Player 2 bought card 24
+Turn 41:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 1	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 39	Embargo tokens: 1
+	Supply: 5	Count: 34	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 5	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 9	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 8	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		1 1 4 5 1 
+	Deck Count: 6
+		0 1 4 10 1 0 
+	Num Discard: 11
+		10 4 4 5 4 1 1 4 4 4 1 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 13
+		4 4 5 5 10 1 4 4 5 1 4 7 4 
+	Num Discard: 12
+		4 4 0 1 1 4 24 5 4 1 3 4 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Player 1 bought card 4
+Turn 42:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 1	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 38	Embargo tokens: 1
+	Supply: 5	Count: 34	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 5	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 9	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 8	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 6
+		0 1 4 10 1 0 
+	Num Discard: 17
+		10 4 4 5 4 1 1 4 4 4 1 4 1 1 4 5 1 
+Player 2:
+	Hand Count: 5
+		4 7 4 1 5 
+	Deck Count: 8
+		4 4 5 5 10 1 4 4 
+	Num Discard: 12
+		4 4 0 1 1 4 24 5 4 1 3 4 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 7...
+Card 7 played by player 2!
+Player 2 bought card 10
+Turn 43:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 1	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 38	Embargo tokens: 1
+	Supply: 5	Count: 34	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 4	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 9	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 8	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 1	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		0 1 10 4 1 
+	Deck Count: 1
+		0 
+	Num Discard: 17
+		10 4 4 5 4 1 1 4 4 4 1 4 1 1 4 5 1 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 6
+		4 4 5 5 10 1 
+	Num Discard: 20
+		4 4 0 1 1 4 24 5 4 1 3 4 10 4 7 4 1 5 4 4 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Trying card 10...
+Player 1 bought card 4
+Turn 44:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 1	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 37	Embargo tokens: 1
+	Supply: 5	Count: 34	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 4	Embargo tokens: 0
+	Supply: 11	Count: 9	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 9	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 8	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 1
+		0 
+	Num Discard: 23
+		10 4 4 5 4 1 1 4 4 4 1 4 1 1 4 5 1 4 0 1 10 4 1 
+Player 2:
+	Hand Count: 5
+		1 10 5 5 4 
+	Deck Count: 1
+		4 
+	Num Discard: 20
+		4 4 0 1 1 4 24 5 4 1 3 4 10 4 7 4 1 5 4 4 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 10...
+Player 2 bought card 11
+Turn 45:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 1	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 37	Embargo tokens: 1
+	Supply: 5	Count: 34	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 4	Embargo tokens: 0
+	Supply: 11	Count: 8	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 9	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 8	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		0 4 1 4 10 
+	Deck Count: 19
+		1 10 1 1 1 4 4 4 4 5 4 4 5 4 1 1 1 4 0 
+	Num Discard: 0
+		
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 1
+		4 
+	Num Discard: 26
+		4 4 0 1 1 4 24 5 4 1 3 4 10 4 7 4 1 5 4 4 11 1 10 5 5 4 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Trying card 10...
+Player 1 bought card 1
+Turn 46:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 37	Embargo tokens: 1
+	Supply: 5	Count: 34	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 4	Embargo tokens: 0
+	Supply: 11	Count: 8	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 9	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 8	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 1	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 19
+		1 10 1 1 1 4 4 4 4 5 4 4 5 4 1 1 1 4 0 
+	Num Discard: 6
+		1 0 4 1 4 10 
+Player 2:
+	Hand Count: 5
+		4 1 1 10 0 
+	Deck Count: 22
+		4 4 4 5 4 5 5 4 4 10 3 4 1 4 7 4 5 1 4 11 24 1 
+	Num Discard: 0
+		
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 10...
+Player 2 bought card 4
+Turn 47:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 36	Embargo tokens: 1
+	Supply: 5	Count: 34	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 4	Embargo tokens: 0
+	Supply: 11	Count: 8	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 9	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 8	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 1	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		0 4 1 1 1 
+	Deck Count: 14
+		1 10 1 1 1 4 4 4 4 5 4 4 5 4 
+	Num Discard: 6
+		1 0 4 1 4 10 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 22
+		4 4 4 5 4 5 5 4 4 10 3 4 1 4 7 4 5 1 4 11 24 1 
+	Num Discard: 6
+		4 4 1 1 10 0 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Player 1 bought card 11
+Turn 48:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 36	Embargo tokens: 1
+	Supply: 5	Count: 34	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 4	Embargo tokens: 0
+	Supply: 11	Count: 8	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 9	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 8	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 1	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 14
+		1 10 1 1 1 4 4 4 4 5 4 4 5 4 
+	Num Discard: 11
+		1 0 4 1 4 10 0 4 1 1 1 
+Player 2:
+	Hand Count: 5
+		1 24 11 4 1 
+	Deck Count: 17
+		4 4 4 5 4 5 5 4 4 10 3 4 1 4 7 4 5 
+	Num Discard: 6
+		4 4 1 1 10 0 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 24...
+Card 24 played by player 2!
+Player 2 bought card 6
+Player 2 bought card 15
+Turn 49:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 36	Embargo tokens: 1
+	Supply: 5	Count: 34	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 4	Embargo tokens: 0
+	Supply: 11	Count: 8	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 9	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 8	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 7	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		4 5 4 4 5 
+	Deck Count: 9
+		1 10 1 1 1 4 4 4 4 
+	Num Discard: 11
+		1 0 4 1 4 10 0 4 1 1 1 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 17
+		4 4 4 5 4 5 5 4 4 10 3 4 1 4 7 4 5 
+	Num Discard: 10
+		4 4 1 1 10 0 1 1 11 4 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Player 1 bought card 10
+Turn 50:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 36	Embargo tokens: 1
+	Supply: 5	Count: 34	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 3	Embargo tokens: 0
+	Supply: 11	Count: 8	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 9	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 8	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 9
+		1 10 1 1 1 4 4 4 4 
+	Num Discard: 17
+		1 0 4 1 4 10 0 4 1 1 1 10 4 5 4 4 5 
+Player 2:
+	Hand Count: 5
+		5 4 7 4 1 
+	Deck Count: 12
+		4 4 4 5 4 5 5 4 4 10 3 4 
+	Num Discard: 10
+		4 4 1 1 10 0 1 1 11 4 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 7...
+Card 7 played by player 2!
+Player 2 bought card 5
+Turn 51:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 36	Embargo tokens: 1
+	Supply: 5	Count: 33	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 3	Embargo tokens: 0
+	Supply: 11	Count: 8	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 9	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 8	Embargo tokens: 0
+	Supply: 25	Count: 10	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		4 4 4 4 1 
+	Deck Count: 4
+		1 10 1 1 
+	Num Discard: 17
+		1 0 4 1 4 10 0 4 1 1 1 10 4 5 4 4 5 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 8
+		4 4 4 5 4 5 5 4 
+	Num Discard: 20
+		4 4 1 1 10 0 1 1 11 4 10 3 5 5 4 7 4 1 4 4 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Player 1 bought card 25
+Turn 52:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 36	Embargo tokens: 1
+	Supply: 5	Count: 33	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 3	Embargo tokens: 0
+	Supply: 11	Count: 8	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 9	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 8	Embargo tokens: 0
+	Supply: 25	Count: 9	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 8	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 4
+		1 10 1 1 
+	Num Discard: 23
+		1 0 4 1 4 10 0 4 1 1 1 10 4 5 4 4 5 25 4 4 4 4 1 
+Player 2:
+	Hand Count: 5
+		4 5 5 4 5 
+	Deck Count: 3
+		4 4 4 
+	Num Discard: 20
+		4 4 1 1 10 0 1 1 11 4 10 3 5 5 4 7 4 1 4 4 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Player 2 bought card 21
+Turn 53:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 36	Embargo tokens: 1
+	Supply: 5	Count: 33	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 3	Embargo tokens: 0
+	Supply: 11	Count: 8	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 8	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 8	Embargo tokens: 0
+	Supply: 25	Count: 9	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 1	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		1 1 10 1 4 
+	Deck Count: 22
+		1 4 0 4 5 4 1 0 4 10 4 4 1 4 25 10 5 1 4 4 1 1 
+	Num Discard: 0
+		
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 3
+		4 4 4 
+	Num Discard: 26
+		4 4 1 1 10 0 1 1 11 4 10 3 5 5 4 7 4 1 4 4 21 4 5 5 4 5 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Trying card 10...
+Player 1 bought card 4
+Turn 54:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 35	Embargo tokens: 1
+	Supply: 5	Count: 33	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 3	Embargo tokens: 0
+	Supply: 11	Count: 8	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 10	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 8	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 8	Embargo tokens: 0
+	Supply: 25	Count: 9	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 6	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 22
+		1 4 0 4 5 4 1 0 4 10 4 4 1 4 25 10 5 1 4 4 1 1 
+	Num Discard: 6
+		4 1 1 10 1 4 
+Player 2:
+	Hand Count: 5
+		4 4 4 5 4 
+	Deck Count: 24
+		1 1 10 21 5 4 11 10 5 4 3 5 1 4 1 4 4 5 4 4 4 1 0 7 
+	Num Discard: 0
+		
+
+Played Cards: 0
+	
+Player 2 actions: 
+Player 2 bought card 19
+Turn 55:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 35	Embargo tokens: 1
+	Supply: 5	Count: 33	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 3	Embargo tokens: 0
+	Supply: 11	Count: 8	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 9	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 8	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 8	Embargo tokens: 0
+	Supply: 25	Count: 9	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		1 1 4 4 1 
+	Deck Count: 17
+		1 4 0 4 5 4 1 0 4 10 4 4 1 4 25 10 5 
+	Num Discard: 6
+		4 1 1 10 1 4 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 24
+		1 1 10 21 5 4 11 10 5 4 3 5 1 4 1 4 4 5 4 4 4 1 0 7 
+	Num Discard: 6
+		19 4 4 4 5 4 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Player 1 bought card 23
+Turn 56:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 35	Embargo tokens: 1
+	Supply: 5	Count: 33	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 3	Embargo tokens: 0
+	Supply: 11	Count: 8	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 9	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 8	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 8	Embargo tokens: 0
+	Supply: 25	Count: 9	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 17
+		1 4 0 4 5 4 1 0 4 10 4 4 1 4 25 10 5 
+	Num Discard: 11
+		4 1 1 10 1 4 1 1 4 4 1 
+Player 2:
+	Hand Count: 5
+		7 0 1 4 4 
+	Deck Count: 19
+		1 1 10 21 5 4 11 10 5 4 3 5 1 4 1 4 4 5 4 
+	Num Discard: 6
+		19 4 4 4 5 4 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 7...
+Card 7 played by player 2!
+Player 2 bought card 10
+Turn 57:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 35	Embargo tokens: 1
+	Supply: 5	Count: 33	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 2	Embargo tokens: 0
+	Supply: 11	Count: 8	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 9	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 8	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 8	Embargo tokens: 0
+	Supply: 25	Count: 9	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		5 10 25 4 1 
+	Deck Count: 12
+		1 4 0 4 5 4 1 0 4 10 4 4 
+	Num Discard: 11
+		4 1 1 10 1 4 1 1 4 4 1 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 17
+		1 1 10 21 5 4 11 10 5 4 3 5 1 4 1 4 4 
+	Num Discard: 14
+		19 4 4 4 5 4 10 7 0 1 4 4 4 5 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Trying card 10...
+Trying card 25...
+Card 25 played by player 1!
+Player 1 bought card 5
+Turn 58:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 35	Embargo tokens: 1
+	Supply: 5	Count: 32	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 2	Embargo tokens: 0
+	Supply: 11	Count: 8	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 9	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 8	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 8	Embargo tokens: 0
+	Supply: 25	Count: 9	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 12
+		1 4 0 4 5 4 1 0 4 10 4 4 
+	Num Discard: 17
+		4 1 1 10 1 4 1 1 4 4 1 5 5 10 25 4 1 
+Player 2:
+	Hand Count: 5
+		4 1 5 3 4 
+	Deck Count: 9
+		1 1 10 21 5 4 11 10 5 
+	Num Discard: 15
+		19 4 4 4 5 4 10 7 0 1 4 4 4 5 5 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Player 2 bought card 24
+Turn 59:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 35	Embargo tokens: 1
+	Supply: 5	Count: 32	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 2	Embargo tokens: 0
+	Supply: 11	Count: 8	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 9	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 8	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 9	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		4 4 10 4 0 
+	Deck Count: 7
+		1 4 0 4 5 4 1 
+	Num Discard: 17
+		4 1 1 10 1 4 1 1 4 4 1 5 5 10 25 4 1 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 9
+		1 1 10 21 5 4 11 10 5 
+	Num Discard: 21
+		19 4 4 4 5 4 10 7 0 1 4 4 4 5 5 24 4 1 5 3 4 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Trying card 10...
+Player 1 bought card 5
+Turn 60:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 35	Embargo tokens: 1
+	Supply: 5	Count: 31	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 2	Embargo tokens: 0
+	Supply: 11	Count: 8	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 9	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 8	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 9	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 7
+		1 4 0 4 5 4 1 
+	Num Discard: 23
+		4 1 1 10 1 4 1 1 4 4 1 5 5 10 25 4 1 5 4 4 10 4 0 
+Player 2:
+	Hand Count: 5
+		5 10 11 4 5 
+	Deck Count: 4
+		1 1 10 21 
+	Num Discard: 21
+		19 4 4 4 5 4 10 7 0 1 4 4 4 5 5 24 4 1 5 3 4 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 10...
+Trying card 11...
+Card 11 played by player 2!
+Player 2 bought card 11
+Turn 61:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 35	Embargo tokens: 1
+	Supply: 5	Count: 31	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 2	Embargo tokens: 0
+	Supply: 11	Count: 7	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 9	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 8	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 9	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		1 4 5 4 0 
+	Deck Count: 2
+		1 4 
+	Num Discard: 23
+		4 1 1 10 1 4 1 1 4 4 1 5 5 10 25 4 1 5 4 4 10 4 0 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 4
+		1 1 10 21 
+	Num Discard: 27
+		19 4 4 4 5 4 10 7 0 1 4 4 4 5 5 24 4 1 5 3 4 11 5 10 11 4 5 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Player 1 bought card 5
+Turn 62:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 35	Embargo tokens: 1
+	Supply: 5	Count: 30	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 2	Embargo tokens: 0
+	Supply: 11	Count: 7	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 9	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 8	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 9	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 1	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 2
+		1 4 
+	Num Discard: 29
+		4 1 1 10 1 4 1 1 4 4 1 5 5 10 25 4 1 5 4 4 10 4 0 5 1 4 5 4 0 
+Player 2:
+	Hand Count: 5
+		21 10 1 1 4 
+	Deck Count: 26
+		1 5 4 5 4 3 19 24 4 11 10 0 4 4 1 5 5 4 10 5 4 11 4 5 4 7 
+	Num Discard: 0
+		
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 21...
+Card 21 played by player 2!
+Player 2 bought card 4
+Turn 63:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 34	Embargo tokens: 1
+	Supply: 5	Count: 30	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 2	Embargo tokens: 0
+	Supply: 11	Count: 7	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 9	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 8	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 9	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		4 1 10 10 5 
+	Deck Count: 26
+		1 10 4 25 5 4 0 4 5 4 4 4 5 4 0 1 4 1 5 4 1 1 1 1 4 1 
+	Num Discard: 0
+		
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 26
+		1 5 4 5 4 3 19 24 4 11 10 0 4 4 1 5 5 4 10 5 4 11 4 5 4 7 
+	Num Discard: 5
+		4 4 10 1 1 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Trying card 10...
+Trying card 10...
+Player 1 bought card 4
+Turn 64:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 33	Embargo tokens: 1
+	Supply: 5	Count: 30	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 2	Embargo tokens: 0
+	Supply: 11	Count: 7	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 8	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 9	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 8	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 9	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 26
+		1 10 4 25 5 4 0 4 5 4 4 4 5 4 0 1 4 1 5 4 1 1 1 1 4 1 
+	Num Discard: 6
+		4 4 1 10 10 5 
+Player 2:
+	Hand Count: 5
+		7 4 5 4 11 
+	Deck Count: 21
+		1 5 4 5 4 3 19 24 4 11 10 0 4 4 1 5 5 4 10 5 4 
+	Num Discard: 5
+		4 4 10 1 1 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 7...
+Card 7 played by player 2!
+Player 2 bought card 13
+Turn 65:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 33	Embargo tokens: 1
+	Supply: 5	Count: 30	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 2	Embargo tokens: 0
+	Supply: 11	Count: 7	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 7	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 9	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 8	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 9	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 1	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		1 4 1 1 1 
+	Deck Count: 21
+		1 10 4 25 5 4 0 4 5 4 4 4 5 4 0 1 4 1 5 4 1 
+	Num Discard: 6
+		4 4 1 10 10 5 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 19
+		1 5 4 5 4 3 19 24 4 11 10 0 4 4 1 5 5 4 10 
+	Num Discard: 13
+		4 4 10 1 1 13 7 4 5 4 11 4 5 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Player 1 bought card 4
+Turn 66:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 32	Embargo tokens: 1
+	Supply: 5	Count: 30	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 10	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 2	Embargo tokens: 0
+	Supply: 11	Count: 7	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 7	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 9	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 8	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 9	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 21
+		1 10 4 25 5 4 0 4 5 4 4 4 5 4 0 1 4 1 5 4 1 
+	Num Discard: 12
+		4 4 1 10 10 5 4 1 4 1 1 1 
+Player 2:
+	Hand Count: 5
+		10 4 5 5 1 
+	Deck Count: 14
+		1 5 4 5 4 3 19 24 4 11 10 0 4 4 
+	Num Discard: 13
+		4 4 10 1 1 13 7 4 5 4 11 4 5 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 10...
+Player 2 bought card 8
+Turn 67:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 32	Embargo tokens: 1
+	Supply: 5	Count: 30	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 9	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 2	Embargo tokens: 0
+	Supply: 11	Count: 7	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 7	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 9	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 8	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 9	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		1 4 5 1 4 
+	Deck Count: 16
+		1 10 4 25 5 4 0 4 5 4 4 4 5 4 0 1 
+	Num Discard: 12
+		4 4 1 10 10 5 4 1 4 1 1 1 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 14
+		1 5 4 5 4 3 19 24 4 11 10 0 4 4 
+	Num Discard: 19
+		4 4 10 1 1 13 7 4 5 4 11 4 5 8 10 4 5 5 1 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Player 1 bought card 10
+Turn 68:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 8	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 32	Embargo tokens: 1
+	Supply: 5	Count: 30	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 9	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 1	Embargo tokens: 0
+	Supply: 11	Count: 7	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 7	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 9	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 8	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 9	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 16
+		1 10 4 25 5 4 0 4 5 4 4 4 5 4 0 1 
+	Num Discard: 18
+		4 4 1 10 10 5 4 1 4 1 1 1 10 1 4 5 1 4 
+Player 2:
+	Hand Count: 5
+		4 4 0 10 11 
+	Deck Count: 9
+		1 5 4 5 4 3 19 24 4 
+	Num Discard: 19
+		4 4 10 1 1 13 7 4 5 4 11 4 5 8 10 4 5 5 1 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 10...
+Trying card 11...
+Card 11 played by player 2!
+Player 2 bought card 24
+Turn 69:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 32	Embargo tokens: 1
+	Supply: 5	Count: 30	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 9	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 1	Embargo tokens: 0
+	Supply: 11	Count: 7	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 7	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 9	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 8	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 9	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		1 0 4 5 4 
+	Deck Count: 11
+		1 10 4 25 5 4 0 4 5 4 4 
+	Num Discard: 18
+		4 4 1 10 10 5 4 1 4 1 1 1 10 1 4 5 1 4 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 9
+		1 5 4 5 4 3 19 24 4 
+	Num Discard: 23
+		4 4 10 1 1 13 7 4 5 4 11 4 5 8 10 4 5 5 1 2 4 0 10 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Player 1 bought card 21
+Turn 70:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 32	Embargo tokens: 1
+	Supply: 5	Count: 30	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 9	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 1	Embargo tokens: 0
+	Supply: 11	Count: 7	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 7	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 9	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 7	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 9	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 11
+		1 10 4 25 5 4 0 4 5 4 4 
+	Num Discard: 24
+		4 4 1 10 10 5 4 1 4 1 1 1 10 1 4 5 1 4 21 1 0 4 5 4 
+Player 2:
+	Hand Count: 5
+		4 24 19 3 4 
+	Deck Count: 4
+		1 5 4 5 
+	Num Discard: 23
+		4 4 10 1 1 13 7 4 5 4 11 4 5 8 10 4 5 5 1 2 4 0 10 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 24...
+Card 24 played by player 2!
+Player 2 bought card 3
+Player 2 bought card 8
+Turn 71:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 32	Embargo tokens: 1
+	Supply: 5	Count: 30	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 9	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 1	Embargo tokens: 0
+	Supply: 11	Count: 7	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 7	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 9	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 7	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 9	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		4 4 5 4 0 
+	Deck Count: 6
+		1 10 4 25 5 4 
+	Num Discard: 24
+		4 4 1 10 10 5 4 1 4 1 1 1 10 1 4 5 1 4 21 1 0 4 5 4 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 4
+		1 5 4 5 
+	Num Discard: 26
+		4 4 10 1 1 13 7 4 5 4 11 4 5 8 10 4 5 5 1 2 4 0 10 4 3 19 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Player 1 bought card 11
+Turn 72:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 32	Embargo tokens: 1
+	Supply: 5	Count: 30	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 9	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 1	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 7	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 9	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 7	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 9	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 6
+		1 10 4 25 5 4 
+	Num Discard: 30
+		4 4 1 10 10 5 4 1 4 1 1 1 10 1 4 5 1 4 21 1 0 4 5 4 11 4 4 5 4 0 
+Player 2:
+	Hand Count: 5
+		5 4 5 1 10 
+	Deck Count: 25
+		5 4 0 10 5 5 5 11 7 4 4 1 13 4 3 19 4 2 4 1 4 1 4 10 8 
+	Num Discard: 0
+		
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 10...
+Player 2 bought card 19
+Turn 73:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 32	Embargo tokens: 1
+	Supply: 5	Count: 30	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 9	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 1	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 7	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 8	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 7	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 9	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		4 5 25 4 10 
+	Deck Count: 1
+		1 
+	Num Discard: 30
+		4 4 1 10 10 5 4 1 4 1 1 1 10 1 4 5 1 4 21 1 0 4 5 4 11 4 4 5 4 0 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 25
+		5 4 0 10 5 5 5 11 7 4 4 1 13 4 3 19 4 2 4 1 4 1 4 10 8 
+	Num Discard: 6
+		19 5 4 5 1 10 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Trying card 25...
+Card 25 played by player 1!
+Player 1 bought card 13
+Turn 74:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 32	Embargo tokens: 1
+	Supply: 5	Count: 30	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 9	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 1	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 6	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 8	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 7	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 9	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 1
+		1 
+	Num Discard: 36
+		4 4 1 10 10 5 4 1 4 1 1 1 10 1 4 5 1 4 21 1 0 4 5 4 11 4 4 5 4 0 13 4 5 25 4 10 
+Player 2:
+	Hand Count: 5
+		1 4 1 4 2 
+	Deck Count: 17
+		5 4 0 10 5 5 5 11 7 4 4 1 13 4 3 19 4 
+	Num Discard: 7
+		19 5 4 5 1 10 10 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Player 2 bought card 19
+Turn 75:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 7	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 32	Embargo tokens: 1
+	Supply: 5	Count: 30	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 9	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 1	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 6	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 8	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 7	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 9	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		1 4 4 4 1 
+	Deck Count: 32
+		5 4 21 11 5 1 4 1 4 1 1 1 4 13 10 0 4 4 5 25 10 5 4 1 4 10 5 10 1 4 0 4 
+	Num Discard: 0
+		
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 17
+		5 4 0 10 5 5 5 11 7 4 4 1 13 4 3 19 4 
+	Num Discard: 12
+		19 5 4 5 1 10 10 1 4 1 4 2 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Player 1 bought card 0
+Turn 76:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 6	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 32	Embargo tokens: 1
+	Supply: 5	Count: 30	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 9	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 1	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 6	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 8	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 7	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 9	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 32
+		5 4 21 11 5 1 4 1 4 1 1 1 4 13 10 0 4 4 5 25 10 5 4 1 4 10 5 10 1 4 0 4 
+	Num Discard: 6
+		0 1 4 4 4 1 
+Player 2:
+	Hand Count: 5
+		4 19 3 4 13 
+	Deck Count: 12
+		5 4 0 10 5 5 5 11 7 4 4 1 
+	Num Discard: 12
+		19 5 4 5 1 10 10 1 4 1 4 2 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 19...
+Card 19 played by player 2!
+Player 2 actions: 
+Trying card 13...
+Card 13 played by player 2!
+Player 2 bought card 25
+Turn 77:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 6	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 32	Embargo tokens: 1
+	Supply: 5	Count: 30	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 9	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 1	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 6	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 8	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 7	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 8	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		4 1 10 5 10 
+	Deck Count: 25
+		5 4 21 11 5 1 4 1 4 1 1 1 4 13 10 0 4 4 5 25 10 5 4 1 4 
+	Num Discard: 8
+		0 1 4 4 4 1 4 0 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 7
+		5 4 0 10 5 5 5 
+	Num Discard: 21
+		19 5 4 5 1 10 10 1 4 1 4 2 25 4 4 3 4 11 1 4 7 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Trying card 10...
+Trying card 10...
+Player 1 bought card 5
+Turn 78:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 6	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 32	Embargo tokens: 1
+	Supply: 5	Count: 29	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 9	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 1	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 6	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 8	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 7	Embargo tokens: 0
+	Supply: 22	Count: 5	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 8	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 6	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 25
+		5 4 21 11 5 1 4 1 4 1 1 1 4 13 10 0 4 4 5 25 10 5 4 1 4 
+	Num Discard: 14
+		0 1 4 4 4 1 4 0 5 4 1 10 5 10 
+Player 2:
+	Hand Count: 5
+		5 5 5 10 0 
+	Deck Count: 2
+		5 4 
+	Num Discard: 21
+		19 5 4 5 1 10 10 1 4 1 4 2 25 4 4 3 4 11 1 4 7 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 10...
+Player 2 bought card 22
+Turn 79:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 6	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 32	Embargo tokens: 1
+	Supply: 5	Count: 29	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 9	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 1	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 6	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 8	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 7	Embargo tokens: 0
+	Supply: 22	Count: 4	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 8	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		4 1 4 5 10 
+	Deck Count: 20
+		5 4 21 11 5 1 4 1 4 1 1 1 4 13 10 0 4 4 5 25 
+	Num Discard: 14
+		0 1 4 4 4 1 4 0 5 4 1 10 5 10 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 2
+		5 4 
+	Num Discard: 27
+		19 5 4 5 1 10 10 1 4 1 4 2 25 4 4 3 4 11 1 4 7 22 5 5 5 10 0 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Trying card 10...
+Player 1 bought card 5
+Turn 80:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 6	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 32	Embargo tokens: 1
+	Supply: 5	Count: 28	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 9	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 1	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 6	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 8	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 7	Embargo tokens: 0
+	Supply: 22	Count: 4	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 8	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 20
+		5 4 21 11 5 1 4 1 4 1 1 1 4 13 10 0 4 4 5 25 
+	Num Discard: 20
+		0 1 4 4 4 1 4 0 5 4 1 10 5 10 5 4 1 4 5 10 
+Player 2:
+	Hand Count: 5
+		4 5 1 4 10 
+	Deck Count: 24
+		5 5 1 2 10 1 5 7 4 3 5 4 25 4 10 4 11 19 4 4 5 1 0 22 
+	Num Discard: 0
+		
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 10...
+Player 2 bought card 4
+Turn 81:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 6	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 31	Embargo tokens: 1
+	Supply: 5	Count: 28	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 9	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 1	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 6	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 8	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 7	Embargo tokens: 0
+	Supply: 22	Count: 4	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 8	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		25 5 4 4 0 
+	Deck Count: 15
+		5 4 21 11 5 1 4 1 4 1 1 1 4 13 10 
+	Num Discard: 20
+		0 1 4 4 4 1 4 0 5 4 1 10 5 10 5 4 1 4 5 10 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 24
+		5 5 1 2 10 1 5 7 4 3 5 4 25 4 10 4 11 19 4 4 5 1 0 22 
+	Num Discard: 6
+		4 4 5 1 4 10 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Trying card 25...
+Card 25 played by player 1!
+Player 1 bought card 0
+Turn 82:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 5	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 31	Embargo tokens: 1
+	Supply: 5	Count: 28	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 9	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 1	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 6	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 8	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 7	Embargo tokens: 0
+	Supply: 22	Count: 4	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 8	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 15
+		5 4 21 11 5 1 4 1 4 1 1 1 4 13 10 
+	Num Discard: 26
+		0 1 4 4 4 1 4 0 5 4 1 10 5 10 5 4 1 4 5 10 0 25 5 4 4 0 
+Player 2:
+	Hand Count: 5
+		5 4 4 19 11 
+	Deck Count: 16
+		5 5 1 2 10 1 5 7 4 3 5 4 25 4 10 4 
+	Num Discard: 7
+		4 4 5 1 4 10 10 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 19...
+Card 19 played by player 2!
+Player 2 actions: 
+Trying card 10...
+Trying card 11...
+Card 11 played by player 2!
+Player 2 bought card 21
+Turn 83:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 5	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 31	Embargo tokens: 1
+	Supply: 5	Count: 28	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 9	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 1	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 6	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 8	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 6	Embargo tokens: 0
+	Supply: 22	Count: 4	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 8	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		4 1 1 1 4 
+	Deck Count: 8
+		5 4 21 11 5 1 4 1 
+	Num Discard: 28
+		0 1 4 4 4 1 4 0 5 4 1 10 5 10 5 4 1 4 5 10 0 25 5 4 4 0 10 13 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 14
+		5 5 1 2 10 1 5 7 4 3 5 4 25 4 
+	Num Discard: 14
+		4 4 5 1 4 10 10 21 5 4 4 10 11 4 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Player 1 bought card 22
+Turn 84:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 5	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 31	Embargo tokens: 1
+	Supply: 5	Count: 28	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 9	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 1	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 6	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 8	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 6	Embargo tokens: 0
+	Supply: 22	Count: 3	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 8	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 8
+		5 4 21 11 5 1 4 1 
+	Num Discard: 34
+		0 1 4 4 4 1 4 0 5 4 1 10 5 10 5 4 1 4 5 10 0 25 5 4 4 0 10 13 22 4 1 1 1 4 
+Player 2:
+	Hand Count: 5
+		4 25 4 5 3 
+	Deck Count: 9
+		5 5 1 2 10 1 5 7 4 
+	Num Discard: 14
+		4 4 5 1 4 10 10 21 5 4 4 10 11 4 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 25...
+Card 25 played by player 2!
+Player 2 bought card 13
+Turn 85:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 5	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 31	Embargo tokens: 1
+	Supply: 5	Count: 28	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 9	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 1	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 5	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 8	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 6	Embargo tokens: 0
+	Supply: 22	Count: 3	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 8	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		5 11 21 4 5 
+	Deck Count: 0
+		
+	Num Discard: 35
+		0 1 4 4 4 1 4 0 5 4 1 10 5 10 5 4 1 4 5 10 0 25 5 4 4 0 10 13 22 4 1 1 1 4 4 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 9
+		5 5 1 2 10 1 5 7 4 
+	Num Discard: 20
+		4 4 5 1 4 10 10 21 5 4 4 10 11 4 13 4 25 4 5 3 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Trying card 11...
+Card 11 played by player 1!
+Player 1 bought card 19
+Turn 86:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 5	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 31	Embargo tokens: 1
+	Supply: 5	Count: 28	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 9	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 1	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 5	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 7	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 6	Embargo tokens: 0
+	Supply: 22	Count: 3	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 8	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 0
+		
+	Num Discard: 41
+		0 1 4 4 4 1 4 0 5 4 1 10 5 10 5 4 1 4 5 10 0 25 5 4 4 0 10 13 22 4 1 1 1 4 4 19 5 11 21 4 5 
+Player 2:
+	Hand Count: 5
+		4 7 5 1 10 
+	Deck Count: 4
+		5 5 1 2 
+	Num Discard: 20
+		4 4 5 1 4 10 10 21 5 4 4 10 11 4 13 4 25 4 5 3 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 7...
+Card 7 played by player 2!
+Player 2 bought card 5
+Turn 87:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 5	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 1
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 31	Embargo tokens: 1
+	Supply: 5	Count: 27	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 9	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 1	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 5	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 7	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 6	Embargo tokens: 0
+	Supply: 22	Count: 3	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 8	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		1 4 22 1 4 
+	Deck Count: 36
+		4 4 5 21 4 4 5 1 10 19 5 4 0 5 13 4 11 4 5 10 0 10 1 4 5 25 1 0 4 1 1 4 4 5 0 10 
+	Num Discard: 0
+		
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 0
+		
+	Num Discard: 30
+		4 4 5 1 4 10 10 21 5 4 4 10 11 4 13 4 25 4 5 3 1 2 5 4 7 5 1 10 5 5 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Trying card 22...
+Card 22 played by player 1!
+Player 1 bought card 0
+Turn 88:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 4	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 2
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 31	Embargo tokens: 1
+	Supply: 5	Count: 27	Embargo tokens: 0
+	Supply: 6	Count: 30	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 9	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 1	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 5	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 7	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 6	Embargo tokens: 0
+	Supply: 22	Count: 3	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 8	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 36
+		4 4 5 21 4 4 5 1 10 19 5 4 0 5 13 4 11 4 5 10 0 10 1 4 5 25 1 0 4 1 1 4 4 5 0 10 
+	Num Discard: 5
+		0 1 4 4 1 
+Player 2:
+	Hand Count: 5
+		7 5 1 10 4 
+	Deck Count: 25
+		4 5 21 13 25 3 4 4 10 10 4 4 11 10 5 5 4 5 1 4 1 4 2 5 5 
+	Num Discard: 0
+		
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 7...
+Card 7 played by player 2!
+Player 2 bought card 6
+Turn 89:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 4	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 2
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 31	Embargo tokens: 1
+	Supply: 5	Count: 27	Embargo tokens: 0
+	Supply: 6	Count: 29	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 9	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 1	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 5	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 7	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 6	Embargo tokens: 0
+	Supply: 22	Count: 3	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 8	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		10 0 5 4 4 
+	Deck Count: 31
+		4 4 5 21 4 4 5 1 10 19 5 4 0 5 13 4 11 4 5 10 0 10 1 4 5 25 1 0 4 1 1 
+	Num Discard: 5
+		0 1 4 4 1 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 23
+		4 5 21 13 25 3 4 4 10 10 4 4 11 10 5 5 4 5 1 4 1 4 2 
+	Num Discard: 8
+		6 7 5 1 10 4 5 5 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Trying card 10...
+Player 1 bought card 10
+Turn 90:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 4	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 2
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 31	Embargo tokens: 1
+	Supply: 5	Count: 27	Embargo tokens: 0
+	Supply: 6	Count: 29	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 9	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 0	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 5	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 7	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 6	Embargo tokens: 0
+	Supply: 22	Count: 3	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 8	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 31
+		4 4 5 21 4 4 5 1 10 19 5 4 0 5 13 4 11 4 5 10 0 10 1 4 5 25 1 0 4 1 1 
+	Num Discard: 11
+		0 1 4 4 1 10 10 0 5 4 4 
+Player 2:
+	Hand Count: 5
+		2 4 1 4 1 
+	Deck Count: 18
+		4 5 21 13 25 3 4 4 10 10 4 4 11 10 5 5 4 5 
+	Num Discard: 8
+		6 7 5 1 10 4 5 5 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Player 2 bought card 6
+Turn 91:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 4	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 2
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 31	Embargo tokens: 1
+	Supply: 5	Count: 27	Embargo tokens: 0
+	Supply: 6	Count: 29	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 9	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 0	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 5	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 7	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 6	Embargo tokens: 0
+	Supply: 22	Count: 3	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 8	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 1	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		1 1 4 0 1 
+	Deck Count: 26
+		4 4 5 21 4 4 5 1 10 19 5 4 0 5 13 4 11 4 5 10 0 10 1 4 5 25 
+	Num Discard: 11
+		0 1 4 4 1 10 10 0 5 4 4 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 18
+		4 5 21 13 25 3 4 4 10 10 4 4 11 10 5 5 4 5 
+	Num Discard: 13
+		6 7 5 1 10 4 5 5 2 4 1 4 1 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Player 1 bought card 25
+Turn 92:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 4	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 2
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 31	Embargo tokens: 1
+	Supply: 5	Count: 27	Embargo tokens: 0
+	Supply: 6	Count: 29	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 9	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 0	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 5	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 7	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 6	Embargo tokens: 0
+	Supply: 22	Count: 3	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 8	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 7	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 26
+		4 4 5 21 4 4 5 1 10 19 5 4 0 5 13 4 11 4 5 10 0 10 1 4 5 25 
+	Num Discard: 16
+		0 1 4 4 1 10 10 0 5 4 4 1 1 4 0 1 
+Player 2:
+	Hand Count: 5
+		5 4 5 5 10 
+	Deck Count: 13
+		4 5 21 13 25 3 4 4 10 10 4 4 11 
+	Num Discard: 13
+		6 7 5 1 10 4 5 5 2 4 1 4 1 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 10...
+Player 2 bought card 8
+Turn 93:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 4	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 2
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 31	Embargo tokens: 1
+	Supply: 5	Count: 27	Embargo tokens: 0
+	Supply: 6	Count: 29	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 8	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 0	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 5	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 7	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 6	Embargo tokens: 0
+	Supply: 22	Count: 3	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 8	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		25 5 4 1 10 
+	Deck Count: 21
+		4 4 5 21 4 4 5 1 10 19 5 4 0 5 13 4 11 4 5 10 0 
+	Num Discard: 16
+		0 1 4 4 1 10 10 0 5 4 4 1 1 4 0 1 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 13
+		4 5 21 13 25 3 4 4 10 10 4 4 11 
+	Num Discard: 19
+		6 7 5 1 10 4 5 5 2 4 1 4 1 8 5 4 5 5 10 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Trying card 25...
+Card 25 played by player 1!
+Player 1 bought card 5
+Turn 94:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 4	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 2
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 31	Embargo tokens: 1
+	Supply: 5	Count: 26	Embargo tokens: 0
+	Supply: 6	Count: 29	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 8	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 0	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 5	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 7	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 6	Embargo tokens: 0
+	Supply: 22	Count: 3	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 8	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 21
+		4 4 5 21 4 4 5 1 10 19 5 4 0 5 13 4 11 4 5 10 0 
+	Num Discard: 22
+		0 1 4 4 1 10 10 0 5 4 4 1 1 4 0 1 5 25 5 4 1 10 
+Player 2:
+	Hand Count: 5
+		10 10 4 4 3 
+	Deck Count: 5
+		4 5 21 13 25 
+	Num Discard: 20
+		6 7 5 1 10 4 5 5 2 4 1 4 1 8 5 4 5 5 10 10 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 10...
+Trying card 10...
+Player 2 bought card 0
+Turn 95:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 3	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 2
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 31	Embargo tokens: 1
+	Supply: 5	Count: 26	Embargo tokens: 0
+	Supply: 6	Count: 29	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 8	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 0	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 5	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 7	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 6	Embargo tokens: 0
+	Supply: 22	Count: 3	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 8	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		0 10 5 4 11 
+	Deck Count: 16
+		4 4 5 21 4 4 5 1 10 19 5 4 0 5 13 4 
+	Num Discard: 22
+		0 1 4 4 1 10 10 0 5 4 4 1 1 4 0 1 5 25 5 4 1 10 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 5
+		4 5 21 13 25 
+	Num Discard: 26
+		6 7 5 1 10 4 5 5 2 4 1 4 1 8 5 4 5 5 10 10 0 10 10 4 4 3 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Trying card 10...
+Trying card 11...
+Card 11 played by player 1!
+Player 1 bought card 4
+Turn 96:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 3	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 2
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 30	Embargo tokens: 1
+	Supply: 5	Count: 26	Embargo tokens: 0
+	Supply: 6	Count: 29	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 8	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 0	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 5	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 7	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 6	Embargo tokens: 0
+	Supply: 22	Count: 3	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 8	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 16
+		4 4 5 21 4 4 5 1 10 19 5 4 0 5 13 4 
+	Num Discard: 28
+		0 1 4 4 1 10 10 0 5 4 4 1 1 4 0 1 5 25 5 4 1 10 4 0 10 5 4 11 
+Player 2:
+	Hand Count: 5
+		25 13 21 5 4 
+	Deck Count: 0
+		
+	Num Discard: 26
+		6 7 5 1 10 4 5 5 2 4 1 4 1 8 5 4 5 5 10 10 0 10 10 4 4 3 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 25...
+Card 25 played by player 2!
+Player 2 bought card 0
+Turn 97:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 2	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 2
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 30	Embargo tokens: 1
+	Supply: 5	Count: 26	Embargo tokens: 0
+	Supply: 6	Count: 29	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 8	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 0	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 5	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 7	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 6	Embargo tokens: 0
+	Supply: 22	Count: 3	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 8	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		0 4 5 19 10 
+	Deck Count: 8
+		4 4 5 21 4 4 5 1 
+	Num Discard: 29
+		0 1 4 4 1 10 10 0 5 4 4 1 1 4 0 1 5 25 5 4 1 10 4 0 10 5 4 11 11 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 0
+		
+	Num Discard: 32
+		6 7 5 1 10 4 5 5 2 4 1 4 1 8 5 4 5 5 10 10 0 10 10 4 4 3 0 25 13 21 5 4 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Trying card 19...
+Card 19 played by player 1!
+Player 1 bought card 22
+Turn 98:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 2	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 2
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 30	Embargo tokens: 1
+	Supply: 5	Count: 26	Embargo tokens: 0
+	Supply: 6	Count: 29	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 8	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 0	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 5	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 7	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 6	Embargo tokens: 0
+	Supply: 22	Count: 2	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 8	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 8	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 6
+		4 4 5 21 4 4 
+	Num Discard: 36
+		0 1 4 4 1 10 10 0 5 4 4 1 1 4 0 1 5 25 5 4 1 10 4 0 10 5 4 11 11 22 0 4 5 5 10 1 
+Player 2:
+	Hand Count: 5
+		5 5 5 7 5 
+	Deck Count: 9
+		1 2 10 4 1 8 4 6 4 
+	Num Discard: 18
+		-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 1 4 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 7...
+Card 7 played by player 2!
+Player 2 bought card 13
+Turn 99:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 2	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 2
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 30	Embargo tokens: 1
+	Supply: 5	Count: 26	Embargo tokens: 0
+	Supply: 6	Count: 29	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 8	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 0	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 4	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 7	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 6	Embargo tokens: 0
+	Supply: 22	Count: 2	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 8	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		4 4 21 5 4 
+	Deck Count: 1
+		4 
+	Num Discard: 36
+		0 1 4 4 1 10 10 0 5 4 4 1 1 4 0 1 5 25 5 4 1 10 4 0 10 5 4 11 11 22 0 4 5 5 10 1 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 7
+		1 2 10 4 1 8 4 
+	Num Discard: 26
+		-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 1 4 13 5 5 5 7 5 4 6 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Trying card 21...
+Card 21 played by player 1!
+Player 1 bought card 0
+Turn 100:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 1	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 2
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 30	Embargo tokens: 1
+	Supply: 5	Count: 26	Embargo tokens: 0
+	Supply: 6	Count: 29	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 8	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 0	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 4	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 7	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 6	Embargo tokens: 0
+	Supply: 22	Count: 2	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 8	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 1
+		4 
+	Num Discard: 41
+		0 1 4 4 1 10 10 0 5 4 4 1 1 4 0 1 5 25 5 4 1 10 4 0 10 5 4 11 11 22 0 4 5 5 10 1 0 4 4 4 5 
+Player 2:
+	Hand Count: 5
+		4 8 1 4 10 
+	Deck Count: 2
+		1 2 
+	Num Discard: 26
+		-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 1 4 13 5 5 5 7 5 4 6 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 8...
+Card 8 played by player 2!
+Player 2 bought card 17
+Player 2 bought card 11
+Turn 101:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 1	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 2
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 30	Embargo tokens: 1
+	Supply: 5	Count: 26	Embargo tokens: 0
+	Supply: 6	Count: 29	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 8	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 0	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 4	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 7	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 6	Embargo tokens: 0
+	Supply: 22	Count: 2	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 8	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		4 4 5 11 25 
+	Deck Count: 36
+		1 4 10 11 5 1 0 4 4 0 1 4 0 4 4 5 0 4 5 1 1 10 5 10 22 10 5 4 1 0 5 10 4 4 0 1 
+	Num Discard: 0
+		
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 24
+		7 -1 -1 4 -1 -1 -1 -1 -1 -1 -1 4 5 -1 5 13 -1 5 -1 -1 5 1 -1 6 
+	Num Discard: 8
+		4 -1 1 4 10 2 1 -1 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Trying card 11...
+Card 11 played by player 1!
+Player 1 bought card 25
+Turn 102:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 1	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 2
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 30	Embargo tokens: 1
+	Supply: 5	Count: 26	Embargo tokens: 0
+	Supply: 6	Count: 29	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 8	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 0	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 4	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 7	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 6	Embargo tokens: 0
+	Supply: 22	Count: 2	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 7	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 36
+		1 4 10 11 5 1 0 4 4 0 1 4 0 4 4 5 0 4 5 1 1 10 5 10 22 10 5 4 1 0 5 10 4 4 0 1 
+	Num Discard: 6
+		25 4 4 5 11 25 
+Player 2:
+	Hand Count: 5
+		6 -1 1 5 -1 
+	Deck Count: 19
+		7 -1 -1 4 -1 -1 -1 -1 -1 -1 -1 4 5 -1 5 13 -1 5 -1 
+	Num Discard: 8
+		4 -1 1 4 10 2 1 -1 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Player 2 bought card 22
+Turn 103:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 1	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 2
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 30	Embargo tokens: 1
+	Supply: 5	Count: 26	Embargo tokens: 0
+	Supply: 6	Count: 29	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 8	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 0	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 4	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 7	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 6	Embargo tokens: 0
+	Supply: 22	Count: 1	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 7	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		1 0 4 4 10 
+	Deck Count: 31
+		1 4 10 11 5 1 0 4 4 0 1 4 0 4 4 5 0 4 5 1 1 10 5 10 22 10 5 4 1 0 5 
+	Num Discard: 6
+		25 4 4 5 11 25 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 19
+		7 -1 -1 4 -1 -1 -1 -1 -1 -1 -1 4 5 -1 5 13 -1 5 -1 
+	Num Discard: 14
+		4 -1 1 4 10 2 1 -1 22 6 -1 1 5 -1 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Trying card 10...
+Player 1 bought card 4
+Turn 104:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 1	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 2
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 29	Embargo tokens: 1
+	Supply: 5	Count: 26	Embargo tokens: 0
+	Supply: 6	Count: 29	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 8	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 0	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 4	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 7	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 6	Embargo tokens: 0
+	Supply: 22	Count: 1	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 7	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 4	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 31
+		1 4 10 11 5 1 0 4 4 0 1 4 0 4 4 5 0 4 5 1 1 10 5 10 22 10 5 4 1 0 5 
+	Num Discard: 12
+		25 4 4 5 11 25 4 1 0 4 4 10 
+Player 2:
+	Hand Count: 5
+		-1 5 -1 13 5 
+	Deck Count: 14
+		7 -1 -1 4 -1 -1 -1 -1 -1 -1 -1 4 5 -1 
+	Num Discard: 14
+		4 -1 1 4 10 2 1 -1 22 6 -1 1 5 -1 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 13...
+Card 13 played by player 2!
+Player 2 bought card 19
+Turn 105:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 1	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 2
+	Supply: 2	Count: 7	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 29	Embargo tokens: 1
+	Supply: 5	Count: 26	Embargo tokens: 0
+	Supply: 6	Count: 29	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 8	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 0	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 4	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 6	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 6	Embargo tokens: 0
+	Supply: 22	Count: 1	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 7	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		5 0 1 4 5 
+	Deck Count: 26
+		1 4 10 11 5 1 0 4 4 0 1 4 0 4 4 5 0 4 5 1 1 10 5 10 22 10 
+	Num Discard: 12
+		25 4 4 5 11 25 4 1 0 4 4 10 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 11
+		7 -1 -1 4 -1 -1 -1 -1 -1 -1 -1 
+	Num Discard: 22
+		4 -1 1 4 10 2 1 -1 22 6 -1 1 5 -1 19 -1 5 -1 4 5 -1 5 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Player 1 bought card 2
+Turn 106:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 1	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 2
+	Supply: 2	Count: 6	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 29	Embargo tokens: 1
+	Supply: 5	Count: 26	Embargo tokens: 0
+	Supply: 6	Count: 29	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 8	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 0	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 4	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 6	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 6	Embargo tokens: 0
+	Supply: 22	Count: 1	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 7	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 0	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 26
+		1 4 10 11 5 1 0 4 4 0 1 4 0 4 4 5 0 4 5 1 1 10 5 10 22 10 
+	Num Discard: 18
+		25 4 4 5 11 25 4 1 0 4 4 10 2 5 0 1 4 5 
+Player 2:
+	Hand Count: 5
+		-1 -1 -1 -1 -1 
+	Deck Count: 6
+		7 -1 -1 4 -1 -1 
+	Num Discard: 22
+		4 -1 1 4 10 2 1 -1 22 6 -1 1 5 -1 19 -1 5 -1 4 5 -1 5 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Player 2 bought card 18
+Turn 107:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 1	Embargo tokens: 1
+	Supply: 1	Count: 0	Embargo tokens: 2
+	Supply: 2	Count: 6	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 29	Embargo tokens: 1
+	Supply: 5	Count: 26	Embargo tokens: 0
+	Supply: 6	Count: 29	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 8	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 0	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 4	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 6	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 6	Embargo tokens: 0
+	Supply: 22	Count: 1	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 7	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		10 22 10 5 10 
+	Deck Count: 21
+		1 4 10 11 5 1 0 4 4 0 1 4 0 4 4 5 0 4 5 1 1 
+	Num Discard: 18
+		25 4 4 5 11 25 4 1 0 4 4 10 2 5 0 1 4 5 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 6
+		7 -1 -1 4 -1 -1 
+	Num Discard: 27
+		4 -1 1 4 10 2 1 -1 22 6 -1 1 5 -1 19 -1 5 -1 4 5 -1 5 -1 -1 -1 -1 -1 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Trying card 10...
+Trying card 22...
+Card 22 played by player 1!
+Player 1 bought card 4
+Turn 108:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 1	Embargo tokens: 2
+	Supply: 1	Count: 0	Embargo tokens: 2
+	Supply: 2	Count: 6	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 28	Embargo tokens: 1
+	Supply: 5	Count: 26	Embargo tokens: 0
+	Supply: 6	Count: 29	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 8	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 0	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 4	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 6	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 6	Embargo tokens: 0
+	Supply: 22	Count: 1	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 7	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 1	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 21
+		1 4 10 11 5 1 0 4 4 0 1 4 0 4 4 5 0 4 5 1 1 
+	Num Discard: 23
+		25 4 4 5 11 25 4 1 0 4 4 10 2 5 0 1 4 5 4 10 10 10 5 
+Player 2:
+	Hand Count: 5
+		-1 -1 4 -1 -1 
+	Deck Count: 1
+		7 
+	Num Discard: 27
+		4 -1 1 4 10 2 1 -1 22 6 -1 1 5 -1 19 -1 5 -1 4 5 -1 5 -1 -1 -1 -1 -1 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Player 2 bought card 4
+Turn 109:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 1	Embargo tokens: 2
+	Supply: 1	Count: 0	Embargo tokens: 2
+	Supply: 2	Count: 6	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 27	Embargo tokens: 1
+	Supply: 5	Count: 26	Embargo tokens: 0
+	Supply: 6	Count: 29	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 8	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 0	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 4	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 6	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 6	Embargo tokens: 0
+	Supply: 22	Count: 1	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 7	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		1 1 5 4 0 
+	Deck Count: 16
+		1 4 10 11 5 1 0 4 4 0 1 4 0 4 4 5 
+	Num Discard: 23
+		25 4 4 5 11 25 4 1 0 4 4 10 2 5 0 1 4 5 4 10 10 10 5 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 1
+		7 
+	Num Discard: 33
+		4 -1 1 4 10 2 1 -1 22 6 -1 1 5 -1 19 -1 5 -1 4 5 -1 5 -1 -1 -1 -1 -1 4 -1 -1 4 -1 -1 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Player 1 bought card 5
+Turn 110:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 1	Embargo tokens: 2
+	Supply: 1	Count: 0	Embargo tokens: 2
+	Supply: 2	Count: 6	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 27	Embargo tokens: 1
+	Supply: 5	Count: 25	Embargo tokens: 0
+	Supply: 6	Count: 29	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 8	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 0	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 4	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 6	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 6	Embargo tokens: 0
+	Supply: 22	Count: 1	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 7	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 16
+		1 4 10 11 5 1 0 4 4 0 1 4 0 4 4 5 
+	Num Discard: 29
+		25 4 4 5 11 25 4 1 0 4 4 10 2 5 0 1 4 5 4 10 10 10 5 5 1 1 5 4 0 
+Player 2:
+	Hand Count: 5
+		7 5 -1 1 10 
+	Deck Count: 29
+		-1 5 -1 -1 -1 19 4 4 4 -1 -1 22 -1 5 2 -1 -1 4 -1 -1 6 -1 -1 5 -1 1 1 4 -1 
+	Num Discard: 0
+		
+
+Played Cards: 0
+	
+Player 2 actions: 
+Trying card 7...
+Card 7 played by player 2!
+Player 2 bought card 5
+Turn 111:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 1	Embargo tokens: 2
+	Supply: 1	Count: 0	Embargo tokens: 2
+	Supply: 2	Count: 6	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 27	Embargo tokens: 1
+	Supply: 5	Count: 24	Embargo tokens: 0
+	Supply: 6	Count: 29	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 8	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 0	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 4	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 6	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 6	Embargo tokens: 0
+	Supply: 22	Count: 1	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 7	Embargo tokens: 0
+	Supply: 25	Count: 7	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 5	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		5 4 4 0 4 
+	Deck Count: 11
+		1 4 10 11 5 1 0 4 4 0 1 
+	Num Discard: 29
+		25 4 4 5 11 25 4 1 0 4 4 10 2 5 0 1 4 5 4 10 10 10 5 5 1 1 5 4 0 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 23
+		-1 5 -1 -1 -1 19 4 4 4 -1 -1 22 -1 5 2 -1 -1 4 -1 -1 6 -1 -1 
+	Num Discard: 12
+		-1 1 1 -1 5 7 5 -1 1 10 4 5 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Player 1 bought card 24
+Turn 112:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 1	Embargo tokens: 2
+	Supply: 1	Count: 0	Embargo tokens: 2
+	Supply: 2	Count: 6	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 27	Embargo tokens: 1
+	Supply: 5	Count: 24	Embargo tokens: 0
+	Supply: 6	Count: 29	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 8	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 0	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 4	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 6	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 6	Embargo tokens: 0
+	Supply: 22	Count: 1	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 6	Embargo tokens: 0
+	Supply: 25	Count: 7	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 11
+		1 4 10 11 5 1 0 4 4 0 1 
+	Num Discard: 35
+		25 4 4 5 11 25 4 1 0 4 4 10 2 5 0 1 4 5 4 10 10 10 5 5 1 1 5 4 0 24 5 4 4 0 4 
+Player 2:
+	Hand Count: 5
+		-1 -1 6 -1 -1 
+	Deck Count: 18
+		-1 5 -1 -1 -1 19 4 4 4 -1 -1 22 -1 5 2 -1 -1 4 
+	Num Discard: 12
+		-1 1 1 -1 5 7 5 -1 1 10 4 5 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Player 2 bought card 7
+Turn 113:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 1	Embargo tokens: 2
+	Supply: 1	Count: 0	Embargo tokens: 2
+	Supply: 2	Count: 6	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 27	Embargo tokens: 1
+	Supply: 5	Count: 24	Embargo tokens: 0
+	Supply: 6	Count: 29	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 8	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 0	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 4	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 6	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 6	Embargo tokens: 0
+	Supply: 22	Count: 1	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 6	Embargo tokens: 0
+	Supply: 25	Count: 7	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 2	Number of buys: 1
+Player 1:
+	Hand Count: 5
+		1 0 4 4 0 
+	Deck Count: 6
+		1 4 10 11 5 1 
+	Num Discard: 35
+		25 4 4 5 11 25 4 1 0 4 4 10 2 5 0 1 4 5 4 10 10 10 5 5 1 1 5 4 0 24 5 4 4 0 4 
+Player 2:
+	Hand Count: 0
+		
+	Deck Count: 18
+		-1 5 -1 -1 -1 19 4 4 4 -1 -1 22 -1 5 2 -1 -1 4 
+	Num Discard: 17
+		-1 1 1 -1 5 7 5 -1 1 10 4 5 -1 -1 6 -1 -1 
+
+Played Cards: 0
+	
+Player 1 actions: 
+Player 1 bought card 4
+Turn 114:
+Full Game State:
+Number of players: 2
+Supplies:
+	Supply: 0	Count: 1	Embargo tokens: 2
+	Supply: 1	Count: 0	Embargo tokens: 2
+	Supply: 2	Count: 6	Embargo tokens: 2
+	Supply: 3	Count: 7	Embargo tokens: 0
+	Supply: 4	Count: 26	Embargo tokens: 1
+	Supply: 5	Count: 24	Embargo tokens: 0
+	Supply: 6	Count: 29	Embargo tokens: 0
+	Supply: 7	Count: 9	Embargo tokens: 0
+	Supply: 8	Count: 8	Embargo tokens: 0
+	Supply: 9	Count: -1	Embargo tokens: 0
+	Supply: 10	Count: 0	Embargo tokens: 0
+	Supply: 11	Count: 6	Embargo tokens: 0
+	Supply: 12	Count: -1	Embargo tokens: 0
+	Supply: 13	Count: 4	Embargo tokens: 0
+	Supply: 14	Count: -1	Embargo tokens: 0
+	Supply: 15	Count: -1	Embargo tokens: 0
+	Supply: 16	Count: -1	Embargo tokens: 0
+	Supply: 17	Count: -1	Embargo tokens: 0
+	Supply: 18	Count: -1	Embargo tokens: 0
+	Supply: 19	Count: 6	Embargo tokens: 0
+	Supply: 20	Count: -1	Embargo tokens: 0
+	Supply: 21	Count: 6	Embargo tokens: 0
+	Supply: 22	Count: 1	Embargo tokens: 0
+	Supply: 23	Count: -1	Embargo tokens: 0
+	Supply: 24	Count: 6	Embargo tokens: 0
+	Supply: 25	Count: 7	Embargo tokens: 0
+	Supply: 26	Count: -1	Embargo tokens: 0
+Outpost played: 0	Outpost Turn: 0
+Phase: 0	Number of actions: 1	 Coins: 3	Number of buys: 1
+Player 1:
+	Hand Count: 0
+		
+	Deck Count: 6
+		1 4 10 11 5 1 
+	Num Discard: 41
+		25 4 4 5 11 25 4 1 0 4 4 10 2 5 0 1 4 5 4 10 10 10 5 5 1 1 5 4 0 24 5 4 4 0 4 4 1 0 4 4 0 
+Player 2:
+	Hand Count: 5
+		4 -1 -1 2 5 
+	Deck Count: 13
+		-1 5 -1 -1 -1 19 4 4 4 -1 -1 22 -1 
+	Num Discard: 17
+		-1 1 1 -1 5 7 5 -1 1 10 4 5 -1 -1 6 -1 -1 
+
+Played Cards: 0
+	
+Player 2 actions: 
+Player 2 bought card 22
+Player 1 did not win!
+Player 2 won!
+Player 3 did not win!
+Player 4 did not win!

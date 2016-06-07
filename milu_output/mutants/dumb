@@ -1,0 +1,4 @@
+#!/bin/bash
+
+for D in *;do
+	vim $D/src/src.c <<
