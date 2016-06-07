@@ -1,0 +1,19 @@
+The first step I took to finding bugs in my code is run testdominion
+the random tester on my code. After playing around with different
+seeds, I came upon an infinite loop. Of course, this filled up the 
+screen with text, so I couldn't actually find what the problem
+was by scrolling up. I redirected the output to a file and anylized
+the output. I found that what caused the infinite loop when one of
+the players plays a feast card.
+
+This method definitely fell under the "check the plug"
+principle, as it was simply looking to find the loop inside the 
+tribute card effect and seeing what was wrong. Essentially, if
+the input went to any of the error handling if statements,
+it would just iterate through the loop again without
+changing the variable inside the conditional statement.
+This was a simple fix, as I changed that variable, then
+to communicate to my tester, I had the function return that
+variable. The random tester finds the big bugs, which is nice
+for the game breaking bugs, but for the smaller, more intricate
+bugs, it is much harder to use.
